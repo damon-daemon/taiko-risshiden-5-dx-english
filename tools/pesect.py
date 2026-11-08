@@ -15,6 +15,10 @@ import struct
 
 IMAGE_BASE = 0x140000000
 NAME = b'.tl\0\0\0\0\0'
+# Fixed RVA of .tl, well above the game image: the English loader (tools/loader.py) maps it
+# here at run time, and the Steam build of the program has an extra section (its DRM
+# wrapper) right after .reloc where the first free RVA would be.
+TL_RVA = 0x2800000
 CHARS = 0x60000060        # code + initialised data, readable + executable (names.py hooks)
 
 def _align(x, a):
@@ -30,6 +34,8 @@ class Segment:
         self.salign = pe.OPTIONAL_HEADER.SectionAlignment
         self.falign = pe.OPTIONAL_HEADER.FileAlignment
         self.rva = _align(last.VirtualAddress + last.Misc_VirtualSize, self.salign)
+        assert self.rva <= TL_RVA, 'image larger than expected'
+        self.rva = TL_RVA
         self.base = IMAGE_BASE + self.rva
         self.data = bytearray()
         self.index = {}

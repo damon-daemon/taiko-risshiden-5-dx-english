@@ -58,12 +58,22 @@ overseas campaign"), the English follows DX.
 
 ## Playing it
 
-There is no release yet. To try it now, build the files from source (below) and copy
-the contents of `build/out/` over your game folder, **after making a backup of the
-folder**. The patch needs the Steam version 1.2.1 of the game; `tools/setup.py` checks
-the hashes of every file it reads and stops on any other version.
+There is no release yet. A release will be a zip with:
 
-Existing saves load with the English files. A save's header (the line shown in the save
+- an xdelta patch for each changed data file (text, event scripts, font, textures),
+  applied by `apply.bat` (Windows) or `apply.sh` (Linux / Steam Deck), which first keep
+  the Japanese originals in `backup_jp/` inside the game folder; `restore.bat` /
+  `restore.sh` put them back;
+- `dinput8.dll` and `tl_patch.bin`, copied into the game folder. The game program
+  (`Taiko5DX.exe`) is not changed: `dinput8.dll` applies the English patch for the program
+  in memory each time the game starts. If the game version does not match, it says so
+  and the game runs in Japanese.
+
+The patch is made for version 1.2.1 of the game. Under Proton (Linux, Steam Deck) set the
+game's launch options to `WINEDLLOVERRIDES="dinput8=n,b" %command%` so that the
+`dinput8.dll` of the patch is used.
+
+Existing saves load with the English patch. A save's header (the line shown in the save
 slot) is written when the game is saved, so saves made before keep a Japanese header
 until they are saved again.
 
@@ -71,7 +81,8 @@ until they are saved again.
 
 Requirements: Python 3.10+, the Noto Serif fonts (`NotoSerif-Bold.ttf`,
 `NotoSerif-SemiBold.ttf`, ... in `/usr/share/fonts/noto/`), used to draw the English
-into graphics.
+into graphics, `clang`, `lld-link` and `llvm-dlltool` (LLVM) for `dinput8.dll`, and
+`xdelta3` for release packages.
 
 ```
 python -m venv .venv
@@ -79,11 +90,15 @@ python -m venv .venv
 cp -r "/path/to/Taiko Risshiden V DX" game_clean   # an unmodified install, v1.2.1
 .venv/bin/python tools/setup.py                    # extracts script/ from your game, applies tl/
 .venv/bin/python tools/build.py                    # writes the English files to build/out/
+.venv/bin/python tools/package.py 0.1.0            # release/<name>_v0.1.0.zip
 ```
 
 `tools/setup.py` checks the game files' SHA-1 and generates `script/`, which pairs the
 Japanese text from your game with the English from `tl/`. `game_clean/`, `script/` and
 `build/` are never committed. Re-run `setup.py` after editing anything in `tl/`.
+`build/out/` holds the changed data files plus `dinput8.dll` and `tl_patch.bin`;
+`tools/package.py` turns the data files into xdelta patches against your game files and
+adds the apply / restore scripts and a README.txt. No game data is packaged.
 
 ## Repository layout
 
@@ -96,7 +111,8 @@ Japanese text from your game with the English from `tl/`. `game_clean/`, `script
 | `tl/names_persons.json` | English officer and character names |
 | `tl/scenarios.txt`, `tl/endings.txt` | Scenario titles and introductions; the endings list |
 | `tl/menu.txt`, `tl/towncards.txt`, `tl/uigfx.txt`, `tl/mggfx.txt` | Text drawn into graphics |
-| `tools/setup.py`, `tools/build.py` | Create `script/`; build the English game files |
+| `tools/setup.py`, `tools/build.py`, `tools/package.py` | Create `script/`; build the English game files; make the release zip |
+| `tools/loader.py`, `tools/loader/loader.c` | The program patch as `tl_patch.bin` and the `dinput8.dll` that applies it in memory |
 | `tools/tl.py`, `tools/evtl.py` | Validate and word-wrap translations (message text, event scripts) |
 | `tools/msgfile.py`, `msgscript.py`, `evscript.py`, `text.py` | Message and event-script formats |
 | `tools/exepatch.py`, `pesect.py`, `ui.py`, `exestr.py`, `tables.py`, `uihooks.py` | Program patches, the English code/data section, program strings and name tables |
@@ -116,6 +132,9 @@ Japanese text from your game with the English from `tl/`. `game_clean/`, `script
 - The title art, the screenshots inside the mini-game previews, and some Chinese
   hand names in Oicho-Kabu stay as they are.
 - Name entry still takes Japanese kana.
+
+- The patch for the program (`dinput8.dll`) has not been tested with the Steam release
+  yet; testers with the Steam version are welcome.
 
 Tested with Proton on Linux only. Bug reports with a screenshot and where it happened
 are welcome.

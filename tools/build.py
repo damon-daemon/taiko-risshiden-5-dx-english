@@ -4,7 +4,9 @@ usage: .venv/bin/python tools/build.py [GAME_DIR] [OUT_DIR]
        (defaults: game_clean/ -> build/out/; with --install, also copy them into the test
        install build/game/, made as a reflink copy of GAME_DIR if missing)
 
-Writes OUT_DIR/<same relative paths as the game>: Taiko5DX.exe, data/TAI5MSG_JP.DAT,
+Writes OUT_DIR/<same relative paths as the game>: dinput8.dll + tl_patch.bin (the English
+program patch, applied in memory: tools/loader.py; the patched program itself goes to
+build/Taiko5DX_patched.exe), data/TAI5MSG_JP.DAT,
 data/FONT/FONT_JPN.G1T, data/EVENT/*.TS5 (those with English),
 data/CMENU/SNR/SNR0-8_JP.TR5 (scenario titles/intros), data/CMENU/INITTOP.G1T (title menu),
 UI textures from tl/uigfx.txt.
@@ -12,7 +14,7 @@ UI textures from tl/uigfx.txt.
 import os, shutil, subprocess, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-import endings, evtl, exepatch, exestr, font, maplabels, menugfx, mggfx, towncards, msgfile, names, pesect, scenarios, setup, tables, text, tl, ui, uigfx, uihooks
+import endings, evtl, loader, exepatch, exestr, font, maplabels, menugfx, mggfx, towncards, msgfile, names, pesect, scenarios, setup, tables, text, tl, ui, uigfx, uihooks
 
 CARD_TEXTS = range(28, 33)
 
@@ -48,7 +50,13 @@ def main():
     print('ui hooks: %d' % uihooks.apply(seg))
     print('map labels: %d patches' % maplabels.apply(seg))
     print('endings: %d in English' % endings.apply(seg))
-    files['Taiko5DX.exe'] = seg.finish()
+    patched = seg.finish()
+    # the patched program is only an intermediate (debugging, tools/dev): the game gets
+    # the original exe + the loader (dinput8.dll) applying tl_patch.bin in memory
+    open(os.path.join(setup.ROOT, 'build', 'Taiko5DX_patched.exe'), 'wb').write(patched)
+    lf, n_rng = loader.files(rd('Taiko5DX.exe'), patched)
+    files.update(lf)
+    print('loader: %d patched ranges, tl_patch.bin %d bytes' % (n_rng, len(lf[loader.BLOB_NAME])))
     files['data/FONT/FONT_JPN.G1T'] = font.build(rd('data/FONT/FONT_JPN.G1T'))
     files[setup.MSG], n_en = build_msg(rd(setup.MSG))
     print('messages: %d entries in English' % n_en)
@@ -78,6 +86,10 @@ def main():
         inst = os.path.join(setup.ROOT, 'build', 'game')
         if not os.path.isdir(inst):
             subprocess.run(['cp', '-r', '--reflink=auto', game, inst], check=True)
+        # the program stays the original (an older build installed a patched one)
+        exe = os.path.join(inst, 'Taiko5DX.exe')
+        os.remove(exe)
+        shutil.copyfile(os.path.join(game, 'Taiko5DX.exe'), exe)
         for rel in files:
             dst = os.path.join(inst, rel)
             if os.path.exists(dst):

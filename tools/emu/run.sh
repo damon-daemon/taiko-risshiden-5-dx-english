@@ -5,6 +5,7 @@ ROOT=$(cd "$(dirname "$0")/../.." && pwd)
 PROTON=${PROTON:-$HOME/.local/share/Steam/compatibilitytools.d/GE-Proton10-34/proton}
 export STEAM_COMPAT_DATA_PATH=$ROOT/build/prefix
 export STEAM_COMPAT_CLIENT_INSTALL_PATH=$HOME/.local/share/Steam
+export WINEDLLOVERRIDES="dinput8=n,b"   # the English loader (tools/loader.py)
 export SteamAppId=1842810 SteamGameId=1842810
 mkdir -p "$STEAM_COMPAT_DATA_PATH"
 cd "$ROOT/build/game" || exit 1
