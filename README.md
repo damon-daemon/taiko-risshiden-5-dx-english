@@ -15,7 +15,8 @@ DX was translated for this project.
 > proofread by a fluent Japanese speaker. Expect occasional mistranslations, awkward
 > phrasing and inconsistent terms. Corrections are welcome.
 
-> **This is a work in progress. There is no release yet.** All of the game's text is in
+> **This is a work in progress. The first release (v0.1.0) is a pre-release for
+> testing.** All of the game's text is in
 > English and the main screens of the first scenario have been played through, but
 > much of the game (most events, battles, the other scenarios) has not been seen yet.
 > Expect text that overflows its box, odd line breaks or labels still in Japanese.
@@ -58,7 +59,8 @@ overseas campaign"), the English follows DX.
 
 ## Playing it
 
-There is no release yet. A release will be a zip with:
+Download the zip from [Releases](https://github.com/damon-daemon/taiko-risshiden-5-dx-english/releases)
+(v0.1.0 is a pre-release: see Known issues) and follow its `README.txt`. It holds:
 
 - an xdelta patch for each changed data file (text, event scripts, font, textures),
   applied by `apply.bat` (Windows) or `apply.sh` (Linux / Steam Deck), which first keep
