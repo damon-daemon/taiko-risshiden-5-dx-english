@@ -12,6 +12,10 @@
  * every original byte range matches. DirectInput8Create tries once more; if the patch
  * still cannot be applied the game runs unchanged (Japanese) and tl_patch.log says why.
  *
+ * Where: the English code and text block (.tl) belongs right above the image (tl_rva);
+ * if something else is mapped there (Wine may put a DLL right after the image) it goes
+ * to the nearest free 64 KB slot and every reference to it is adjusted (fixup list).
+ *
  * Built with clang + lld-link, no C runtime and no Windows SDK (tools/loader.py).
  */
 typedef unsigned char u8;
@@ -37,6 +41,7 @@ IMPORT u32 WINAPI SetFilePointer(HANDLE, i64, void *, u32);
 IMPORT u32 WINAPI GetFileSize(HANDLE, u32 *);
 IMPORT BOOL WINAPI CloseHandle(HANDLE);
 IMPORT void *WINAPI VirtualAlloc(void *, u64, u32, u32);
+IMPORT BOOL WINAPI VirtualFree(void *, u64, u32);
 IMPORT BOOL WINAPI VirtualProtect(void *, u64, u32, u32 *);
 IMPORT BOOL WINAPI FlushInstructionCache(HANDLE, const void *, u64);
 IMPORT HANDLE WINAPI GetCurrentProcess(void);
@@ -53,6 +58,7 @@ IMPORT void *WINAPI HeapAlloc(void *, u32, u64);
 #define INVALID_HANDLE ((HANDLE)(i64)-1)
 #define MEM_COMMIT 0x1000
 #define MEM_RESERVE 0x2000
+#define MEM_RELEASE 0x8000
 #define PAGE_READWRITE 0x04
 #define PAGE_EXECUTE_READ 0x20
 #define PAGE_EXECUTE_READWRITE 0x40
@@ -105,12 +111,14 @@ static void crc_init(void) {
 
 /* ---------------------------------------------------------------- the patch file */
 /* tl_patch.bin, little endian:
- *   "TLP1", u32 size of the image it fits, u32 n_hooks, u32 hook IAT rva [n_hooks],
+ *   "TLP2", u32 size of the image it fits, u32 n_hooks, u32 hook IAT rva [n_hooks],
  *   u32 tl_rva, u32 tl_size, u32 n_ranges,
  *   n_ranges x { u32 rva, u32 len, u32 crc32 of the original bytes (before relocation),
  *                u32 n_rel, u16 rel offsets [n_rel] (qwords the base relocation adjusts),
  *                padding to 4, u8 new bytes [len], padding to 4 },
- *   u8 tl [tl_size]                                                               */
+ *   u8 tl [tl_size], padding to 4,
+ *   u32 n_fix, u32 fix [n_fix]: rva | kind << 30 (rva >= tl_rva: inside tl), kind 0 =
+ *     int32 += d, 1 = int32 -= d, 2 = qword += d, d = where tl went - (base + tl_rva) */
 static u8 *blob;
 static u32 blob_size;
 static u8 *base;
@@ -131,7 +139,7 @@ static int load_blob(void) {
     blob = HeapAlloc(GetProcessHeap(), 0, blob_size);
     if (!blob || !ReadFile(f, blob, blob_size, &got, 0) || got != blob_size) { CloseHandle(f); return 0; }
     CloseHandle(f);
-    if (blob_size < 32 || rd32(blob) != 0x31504C54) { log_s("tl_patch.bin: bad header\r\n"); return 0; }
+    if (blob_size < 32 || rd32(blob) != 0x32504C54) { log_s("tl_patch.bin: bad header\r\n"); return 0; }
     if (rd32(blob + 4) != 0) {
         /* image size check: the patch fits one build of the program */
         u8 *nt = base + rd32(base + 0x3C);
@@ -190,6 +198,34 @@ static int ranges(int mode, const u8 **tl_out) {
 
 static void unhook(void);
 
+/* the blob's byte for image rva (inside a range), or 0 */
+static u8 *range_byte(u32 rva) {
+    const u8 *q = blob + 12 + 4 * rd32(blob + 8);
+    u32 n = rd32(q + 8);
+    q += 12;
+    for (u32 r = 0; r < n; r++) {
+        u32 a = rd32(q), len = rd32(q + 4), nrel = rd32(q + 12);
+        const u8 *nb = q + 16 + 4 * nrel;
+        if (rva >= a && rva < a + len) return (u8 *)nb + (rva - a);
+        q = nb + ((len + 3) & ~3u);
+    }
+    return 0;
+}
+
+/* .tl goes d bytes away from base + tl_rva: adjust every reference to it in the blob */
+static void fix_refs(i64 d, u32 tl_rva, u32 tl_size, u8 *tl) {
+    const u8 *f = tl + ((tl_size + 3) & ~3u);
+    u32 n = rd32(f);
+    f += 4;
+    for (u32 i = 0; i < n; i++) {
+        u32 v = rd32(f + 4 * i), rva = v & 0x3FFFFFFF, kind = v >> 30;
+        u8 *p = rva >= tl_rva ? tl + (rva - tl_rva) : range_byte(rva);
+        if (!p) continue;
+        if (kind == 2) { u64 x; memcpy(&x, p, 8); x += (u64)d; memcpy(p, &x, 8); }
+        else { u32 x; memcpy(&x, p, 4); x += (u32)(kind ? -d : d); memcpy(p, &x, 4); }
+    }
+}
+
 /* returns 1 when the patch is in place (now or before) */
 static volatile long busy;
 static int try_patch_locked(const char *when);
@@ -211,11 +247,32 @@ static int try_patch_locked(const char *when) {
     u32 tl_rva = rd32(q), tl_size = rd32(q + 4);
     const u8 *tl;
     ranges(3, &tl);                     /* mode 3: just find the tl bytes */
-    u8 *t = VirtualAlloc(base + tl_rva, (tl_size + 0xFFF) & ~0xFFFu, MEM_RESERVE | MEM_COMMIT, PAGE_READWRITE);
-    if (t != base + tl_rva) {
-        log_x("could not reserve the patch block at ", (u64)(base + tl_rva));
+    u8 *want = base + tl_rva, *t = 0;
+    u64 sz = (tl_size + 0xFFFF) & ~0xFFFFull;
+#ifdef TEST_MOVE
+    /* test: something already sits at tl_rva (1: one slot, 2: every free slot above) */
+    for (i64 k = 0; k < (TEST_MOVE == 1 ? 1 : 0x4000); k++) VirtualAlloc(want + k * 0x10000, 0x10000, MEM_RESERVE, 1);
+#endif
+    /* at tl_rva, else the nearest free slot above, else below the image (all within
+     * 1 GB, so every rel32 still reaches) */
+    for (i64 k = 0; k < 0x4000 && !t; k++) {
+        u8 *c = want + k * 0x10000;
+        t = VirtualAlloc(c, sz, MEM_RESERVE | MEM_COMMIT, PAGE_READWRITE);
+        if (t && t != c) { VirtualFree(t, 0, MEM_RELEASE); t = 0; }
+    }
+    for (i64 k = 1; k < 0x4000 && !t; k++) {
+        u8 *c = (u8 *)(((u64)base & ~0xFFFFull) - sz - (u64)(k - 1) * 0x10000);
+        t = VirtualAlloc(c, sz, MEM_RESERVE | MEM_COMMIT, PAGE_READWRITE);
+        if (t && t != c) { VirtualFree(t, 0, MEM_RELEASE); t = 0; }
+    }
+    if (!t) {
+        log_x("could not reserve the patch block near ", (u64)want);
         failed = 1;
         return 0;
+    }
+    if (t != want) {
+        log_x("patch block moved to ", (u64)t);
+        fix_refs((i64)(t - want), tl_rva, tl_size, (u8 *)tl);
     }
     memcpy(t, tl, tl_size);
     u32 old;

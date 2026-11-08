@@ -18,6 +18,8 @@ import endings, evtl, loader, exepatch, exestr, font, maplabels, menugfx, mggfx,
 
 CARD_TEXTS = range(28, 33)
 
+TL_RVA0 = pesect.TL_RVA
+
 def build_msg(clean):
     blocks = msgfile.blocks(clean)
     assert msgfile.pack(blocks) == clean, 'identity repack failed'
@@ -34,6 +36,24 @@ def build_msg(clean):
                 n_en += 1
     return msgfile.pack(blocks), n_en
 
+def patched_exe(clean, tl_rva, quiet=False):
+    """The patched program (intermediate) with the .tl section at tl_rva."""
+    say = (lambda *a: None) if quiet else print
+    pesect.TL_RVA = tl_rva
+    try:
+        exe = bytearray(exepatch.apply(clean))
+        say('tables: %d names in English' % tables.apply(exe))
+        seg = pesect.Segment(bytes(exe))
+        say('ui: %d strings in English' % ui.apply(seg))
+        say('exe strings: %d in English (%d references)' % exestr.apply(seg))
+        say('names: %d lookup entries, %d officer-table names' % names.apply(seg))
+        say('ui hooks: %d' % uihooks.apply(seg))
+        say('map labels: %d patches' % maplabels.apply(seg))
+        say('endings: %d in English' % endings.apply(seg))
+        return seg.finish()
+    finally:
+        pesect.TL_RVA = TL_RVA0
+
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith('--')]
     game = args[0] if args else setup.CLEAN
@@ -41,22 +61,18 @@ def main():
     setup.check(game)
     rd = lambda rel: open(os.path.join(game, rel), 'rb').read()
     files = {}
-    exe = bytearray(exepatch.apply(rd('Taiko5DX.exe')))
-    print('tables: %d names in English' % tables.apply(exe))
-    seg = pesect.Segment(bytes(exe))
-    print('ui: %d strings in English' % ui.apply(seg))
-    print('exe strings: %d in English (%d references)' % exestr.apply(seg))
-    print('names: %d lookup entries, %d officer-table names' % names.apply(seg))
-    print('ui hooks: %d' % uihooks.apply(seg))
-    print('map labels: %d patches' % maplabels.apply(seg))
-    print('endings: %d in English' % endings.apply(seg))
-    patched = seg.finish()
+    patched = patched_exe(rd('Taiko5DX.exe'), pesect.TL_RVA)
     # the patched program is only an intermediate (debugging, tools/dev): the game gets
     # the original exe + the loader (dinput8.dll) applying tl_patch.bin in memory
     open(os.path.join(setup.ROOT, 'build', 'Taiko5DX_patched.exe'), 'wb').write(patched)
-    lf, n_rng = loader.files(rd('Taiko5DX.exe'), patched)
+    # built again with .tl elsewhere: the differences are the references to .tl, which
+    # the loader adjusts when it has to map .tl at another address
+    shifted = patched_exe(rd('Taiko5DX.exe'), pesect.TL_RVA + loader.SHIFT, quiet=True)
+    lf, n_rng = loader.files(rd('Taiko5DX.exe'), patched, shifted)
+    print('loader: %d patched ranges, %d references to .tl, tl_patch.bin %d bytes'
+          % (n_rng, lf['n_fix'], len(lf[loader.BLOB_NAME])))
+    del lf['n_fix']
     files.update(lf)
-    print('loader: %d patched ranges, tl_patch.bin %d bytes' % (n_rng, len(lf[loader.BLOB_NAME])))
     files['data/FONT/FONT_JPN.G1T'] = font.build(rd('data/FONT/FONT_JPN.G1T'))
     files[setup.MSG], n_en = build_msg(rd(setup.MSG))
     print('messages: %d entries in English' % n_en)
