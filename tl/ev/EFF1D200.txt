@@ -1,0 +1,811 @@
+@0.0
+In month \M002 of \M001, \#01D2 brought the whole \G00A region under his power.
+@0.1
+The long-held dream of the \#11D2 clan, the conquest of Oshu, had at last been achieved...
+@0.2
+At last we have achieved our clan's long-held dream, the conquest of Oshu.
+@0.3
+This too is thanks to everyone's work. Drink your fill today!
+@0.5
+Ha ha ha! Don't overdo it, \#0FF2.
+@0.6
+Be that as it may, my lord, congratulations!
+@0.7
+Hm... You have all served me well. I thank you.
+@0.8
+You are too kind...
+@0.9
+But the real test begins now...
+@0.10
+.........\nSo now you aim for the realm...
+@0.11
+Yes. I'll advance to the centre soon and seize the realm with these hands!
+@0.12
+\#09D2, you've done well... I thank you...
+@0.13
+Father...\nNo, it is all thanks to you, Father.
+@0.14
+Please keep supporting me, \#09D2, from now on.
+@0.15
+\#09D2... Let us keep joining our strength and aim for a \#11D2 realm!
+@4.0
+\%03, \#0233 has come to visit you.
+@4.1
+Oh, \#0233 serves \#17F0, if I recall.
+@4.2
+Yes. He betrayed the \#11D2 clan once before.
+@4.3
+I see... So he's come to size me up, and if the tide turns against us, he'll switch sides again.
+@4.4
+That old fox. Don't take me lightly.
+@4.5
+Very well, show \#0233 in.
+@4.7
+\%03, a man called \#0233 has come to visit you, my lord.
+@4.8
+Hmm, \#0233 serves \#17F0, if I recall.
+@4.9
+Shall I take a look?
+@4.10
+Lord \#0233 has arrived.
+@4.13
+I am \#0233.
+@4.14
+I heard that \#09D2 had become head of the house, and I have come to offer my humble congratulations.
+@4.15
+Hm, thank you for coming. By the way, \#0A33: is the pine of Nihonmatsu a forked pine?
+@4.16
+.........\nWhat do you mean by that?
+@4.17
+Slow, aren't you. You straddle \#17F0 and the \#11D2 like a forked pine, wondering which way to fall.
+@4.18
+How strange of you to say... I have no such intention...
+@4.19
+Is that so? Then good. But I, \#09D2, am not soft.
+@4.20
+If you turn against us, be ready to die.
+@4.21
+Ugh.........\nTo be insulted so at a celebration... I take my leave!
+@4.22
+\#09D2, was that wise? Weren't you a little too harsh?
+@4.23
+You were watching, \%01?
+@4.24
+Didn't \#0A33 come intending to submit to the \#11D2 clan?
+@4.25
+No. He has no intention of betraying \#17F0.
+@4.26
+Today he only came to see what sort of man I am.
+@4.27
+So I just gave him a little scare.
+@4.28
+I see...\nSo \#0A33 has no intention of submitting to us?
+@4.29
+Yes, just so. Besides, the \#1233 cannot be trusted.
+@4.30
+Even if he joined us, the moment the tide turned he'd switch back to \#17F0.
+@4.31
+That is the kind of man \#0233 is.
+@4.32
+Hm, you may be right...
+@4.33
+\%03, was that wise?
+@4.34
+What, \%03, you were here?
+@4.35
+Didn't that man come intending to submit to the \#11D2 clan?
+@4.36
+No. He has no intention of betraying \#17F0.
+@4.37
+Today he only came to see what sort of man I am.
+@4.38
+So I gave him a little scare.
+@4.40
+Yes, just so. Besides, \#0233 is not a man to be trusted.
+@4.42
+That is the kind of man \#0233 is.
+@4.43
+A scare is just right for a man like that.
+@4.44
+You may be right.
+@5.0
+\%03, \#0233 has come again.
+@5.1
+Persistent fellow. What does he want?
+@5.2
+It seems he has come to beg you to accept his surrender, \%03.
+@5.3
+Heh...\nThe \#11AC have fallen, and he sees he's next, so he comes to surrender.
+@5.4
+A man with no principles at all...
+@5.5
+Now, what shall I do with him... Very well, show \#0233 in.
+@5.7
+\%03, \#0233 has come to visit you again, my lord.
+@5.8
+Oh, what could he want? Shall I take a look?
+@5.9
+Oh, what could he want? Shall I take a look?
+@5.13
+.........\nToday I beg your pardon, \#09D2, and ask that you take me as your vassal...
+@5.14
+Oh, you would become my retainer? Ha ha ha! How amusing!
+@5.15
+.........\nPlease... I beg your pardon...
+@5.16
+Show mercy
+@5.17
+Deal harshly
+@5.18
+\#0A33, I grant your request.
+@5.19
+Let past troubles wash away. From now on, serve me without a second heart.
+@5.20
+For now, I shall also confirm your present lands.
+@5.21
+Th-thank you! I, \#0A33, swear loyal service.
+@5.22
+Hm. Then you may go.
+@5.23
+\%03, you are pardoning \#0233?
+@5.25
+That man will betray us again sooner or later...
+@5.26
+No matter. If he does, I'll crush him by force.
+@5.27
+For now, I'll trust him.
+@5.28
+Well, I'll spare your life. But consider all your lands forfeit!
+@5.29
+B-but... Do you mean for my whole family and household to starve!?
+@5.30
+I won't hear it! Be grateful your head is still on your shoulders!
+@5.31
+Ugh.........\nU-understood.........
+@5.32
+\%03, will \#0233 accept this?
+@5.34
+I don't think that man will simply back down.
+@5.35
+No matter. He no longer has the strength to resist.
+@5.36
+If he won't submit, I'll just crush him by force.
+@5.41
+Listen, \#09D2. \#0A33 won't accept that.
+@5.42
+\%03... You were watching?
+@5.43
+I don't think that man will simply back down. You needn't stir up trouble...
+@5.44
+No, he no longer has the strength to resist.
+@5.45
+If he won't submit, I'll just crush him by force.
+@5.46
+Hm...\nI only hope it doesn't lead to trouble...
+@5.54
+No matter. He no longer has the strength to resist.
+@5.55
+If he won't submit, I'll just crush him by force.
+@6.0
+\#09D0, Lord \#0233 has come to see you.
+@6.1
+What, \#0A33?
+@6.2
+Yes, but he seems somehow menacing... It may be better to send him home...
+@6.3
+Hm, what to do...
+@6.4
+Meet him
+@6.5
+Send him away
+@6.6
+Hm, it can't be helped. I'll meet him.
+@6.8
+Ah, sorry to keep you waiting. Now, what brings you here today?
+@6.9
+Yes...\nIn truth, I have a serious request for you, \#09D0...
+@6.10
+Hm, go on.
+@6.11
+Yes...\nWhen I asked Lord \#09D2 to take us as vassals, he said all our ancestral lands would be confiscated...
+@6.12
+My family will starve. I beg you, my retired lord, put in a word for us so our lands may be confirmed.
+@6.13
+Hmm...\nBut the head of the \#11D2 clan is \#09D2.
+@6.14
+I cannot interfere. I'm sorry. Don't lose heart.
+@6.15
+............\nThen...
+@6.16
+Hm!?\nWhat?
+@6.17
+Then this is what I'll do!
+@6.18
+Wh-what are you doing! Have you lost your mind!
+@6.19
+Lost my mind? Hardly! With you as hostage, I'll lure out that hateful brat and kill him!
+@6.20
+Wh-what! Stop, \#0A33!
+@6.21
+Heh, stay quiet, \#09D0!
+@6.22
+Ah!\n\#09D0!
+@6.23
+Sh-Shigezane! Call \#09D2!
+@6.24
+Silence!\n\#09D0!
+@6.25
+Y-you villain!\nYou brute!
+@6.26
+Oh no you don't! Come closer and \#09D0 dies. Now, clear the way!
+@6.27
+D-damn...
+@6.29
+Y-you there! Call \#09D2!
+@6.33
+D-damn...\nQuick, inform our lord!
+@6.34
+On second thought, I won't meet him. Tell him I'm out.
+@6.36
+He must have come to ask me for help. If I meet him, I may not be able to refuse. Running away is best.
+@6.37
+\%03, there you are.
+@6.38
+Ah, \#09D2. Actually, \#0233 came to see me, so I pretended to be out and sent him away.
+@6.39
+Ha ha ha! I see.
+@6.40
+He probably came to beg you to get his lands confirmed.
+@6.41
+That failed, so it seems he has gone back to \#17F0.
+@6.42
+What! So he betrayed us again instead of surrendering!
+@6.43
+Yes. He is not to be trusted.
+@6.44
+Hm...\nIt was just as you said...
+@6.45
+\#0FF1! Grave news! \#09D0 has been abducted by \#0233!
+@6.46
+What?!
+@6.48
+\#0A33 had come to beg \#09D0 to have his lands confirmed, but...
+@6.49
+During the meeting he suddenly drew a dagger and held it to \#09D0.
+@6.50
+We tried to rescue \#09D0, but......
+@6.51
+\#0A33's men surrounded \#09D0, and we couldn't get near.
+@6.52
+Damn you, \#0A33! You would go that far to defy me, \#0FFE!
+@6.53
+They can't have gone far yet. If we send pursuers at once, we can catch them.
+@6.54
+We pursue at once. Follow me!
+@6.56
+\#0A33! He's shown his true colours!
+@6.57
+What of our lord?
+@6.58
+When \#09D0 was attacked, our lord was away.
+@6.59
+He came back just now, heard the news, and rushed out.
+@6.60
+Do you know which way he went?
+@6.62
+Right. Then we'll follow him too. Come with me!
+@6.63
+\#0A33! He's shown his true colours!
+@6.64
+What has become of our lord?
+@6.67
+Do you know which way he went?
+@6.69
+Right. Then let's follow him too!
+@7.5
+This has become interesting...
+@8.2
+\#004B was captured and put to death! The daimyo who sided with \#084B have also been punished.
+@8.3
+Well, there will be no punishment for our house. But \#11FA power will only grow stronger...
+@8.4
+Still, I haven't given up hope of taking the realm. My chance will come again.
+@8.5
+One day I'll defeat \#09FA!
+@8.6
+The real contest starts now. Be ready, all of you, \%03!
+@8.7
+Yes, my lord! We understand.
+@8.8
+The decisive battle for the realm ended all too quickly...
+@8.13
+\#004B has been put to death.
+@9.0
+There he is! Don't let him get away!
+@9.1
+\#09D2!
+@9.2
+So you've come, \#09D2.
+@9.3
+\#09D2, you haven't forgotten, have you!?
+@9.4
+How you shamed me at the celebration when you became head of the house.
+@9.5
+And how you treated me, as if mocking me while I grovelled!
+@9.6
+I am not a man to be ordered about by a whelp like you.
+@9.7
+\#09D0 is my shield. Shoot if you can! Wa ha ha!
+@9.8
+Damn!
+@9.9
+\#09D2! Never mind me! Shoot him, and me with him!
+@9.11
+If he takes me into another domain, things will get very difficult!
+@9.12
+\#09D2! Shoot! Why don't you shoot!!
+@9.14
+Guns...\nShoot him!
+@9.15
+Stop! Have you gone mad, \#09D2! Don't you care what happens to your own father!?
+@9.16
+Fiiire!
+@9.17
+Gah!\nTh-then... th-this is what I'll do!
+@9.18
+Ugh!
+@9.19
+F-Father!!
+@9.20
+\#09D2...... Well done......
+@9.21
+Quickly... finish him......
+@9.22
+Damn! Don't let \#0A33 escape! Shoot! Shoot him!
+@9.23
+............Father.
+@9.24
+\#09D2...... You... surely...... can make the \#11D2 clan... prosper.
+@9.25
+It's a pity... I won't... see how it ends......
+@9.26
+Ugh......\n............
+@9.27
+Father!\nFatherrr!
+@9.28
+Father......\nForgive me.
+@9.29
+Because I, \#09D2, was not good enough... this happened to you, Father!
+@9.30
+\#07FE met an untimely death through \#0233's treachery.
+@9.31
+But this event was to give \#01D2 the strength to rise...
+@9.32
+\#0A33!\nI won't forgive him!
+@9.33
+Display \#0A33 below the castle!! Crucify him!
+@9.34
+.........\nYes, my lord.
+@9.35
+\#0A33! Learn your lesson in hell!
+@9.36
+\#0233 was later displayed below the castle in a gruesome state.
+@9.37
+What \#09D2 did, enraged by his father's death, became known throughout the neighbouring provinces.
+@9.38
+As a result, he made enemies on every side...
+@9.39
+Father... Please watch over me, \#09D2, from now on...
+@9.47
+As a result, he made enemies on every side.
+@10.0
+Now, \#0874... What will you do...
+@10.1
+News! In the Kamigata, Lord \#004B has gathered the anti-\#11FA daimyo and raised an army!
+@10.2
+What! So he has finally raised troops!
+@10.3
+And what is Lord \#09FA doing?
+@10.4
+Yes! He seems to have called off the attack on the \#1074 and is returning to his main castle.
+@10.5
+Hm... And the \#1074?
+@10.6
+We don't know what the \#1074 are doing.
+@10.7
+Hmm... If \#0874 pursued Lord \#09FA and beat him, it would favour the \#104B side...
+@10.8
+But I don't think \#0874 can beat Lord \#09FA.
+@10.9
+Yet if we do nothing, the \#1074 can throw everything at the \#11FA without worrying about their rear...
+@10.10
+Then it would be about even... But if Lord \#09FA wins, I'll have Lord \#09FA as an enemy from then on...
+@10.11
+Just so. Thinking of what comes later, we cannot stay out of it entirely.
+@10.12
+Then we attack either \51E6, which won't affect the war, or \51E7, held by \#020E's elite troops...
+@10.13
+My lord, what will you do?
+@10.14
+Hm...\nWhat to do...
+@10.15
+Attack \51E7
+@10.16
+Attack \51E6
+@10.17
+Right!\nWe attack \51E7!
+@10.18
+We take \51E7 and hold the \#1074 in check!
+@10.19
+Right!\nWe attack \51E6!
+@10.20
+\#0874, never mind us. Go and strike the \#11FA...
+@12.0
+News! The enemy has left the castle and is charging toward us!
+@12.1
+And they have reinforcements from the \#115B. They are many.
+@12.2
+Ugh...\nThen we'll throw ourselves at them as if to die.
+@12.3
+Push forward too! Don't give a single step!
+@13.0
+News! The \#17F0 army is fleeing in disarray.
+@13.1
+Right! We'll take the enemy castle in one stroke!
+@13.4
+\#07F0 has already abandoned the castle and vanished.
+@13.5
+I see. That suits us well.
+@13.6
+Right, go to \51E6 and call on them to surrender.
+@13.8
+Well done, \#09D2! You've finally beaten the \#1020!
+@13.9
+At last the realm is in sight.
+@13.10
+Yes, just so!
+@13.11
+In \M001, \#01D2 defeated \#07F0 in a field battle.
+@13.12
+\#07F0 was never able to recover, and was destroyed with little resistance.
+@13.13
+With this battle, the name of \#09D2, the One-Eyed Dragon, spread throughout the realm...
+@13.14
+News! \#07F0's army is still intact.
+@13.15
+\#0FF0, curse him! He's good.
+@13.16
+It seems it will take me a good while yet to conquer this land.
+@13.17
+We withdraw.
+@14.0
+We did it! We pushed them back somehow!
+@14.1
+A report: the enemy has withdrawn to the rear.
+@14.2
+Good. We pull back too and regroup.
+@14.3
+My lord! Fresh enemy troops are pouring in! W-we can't hold out any longer!
+@14.4
+My lord! W-we can't hold out any longer!
+@14.5
+Ugh...\nSo this is the end...
+@14.6
+My lord! I will take care of this! Please withdraw!
+@14.7
+\#08C7!
+@14.8
+My lord... You must take the realm! Farewell!
+@14.9
+W-wait!\nDon't go!
+@14.10
+My lord!\nQuickly, this way!
+@14.11
+\#08C7!
+@14.12
+News! The enemy has given up its advance north and turned back.
+@14.13
+.........\nSo we escaped with our lives...
+@14.14
+However... Lord \#08C7 fell in battle...
+@14.15
+.........\n\#08C7, forgive me.........
+@14.17
+My lord! I will take care of this! Please withdraw!
+@14.19
+Don't worry! I'll finish them quickly and come back!
+@14.20
+I'm sorry, \#0FFE... I leave this to you!
+@14.21
+Yes, my lord!\nLeave it to me!
+@14.22
+Well now...\nLooks like they're here...
+@14.23
+Well now...\nLooks like they're here...
+@14.24
+Oh! The enemy! Surround and kill him!
+@14.25
+How dare you, mere foot soldiers! I am \#07FE, retainer of the \#11D2 clan!
+@14.26
+If you value your lives, run!
+@14.27
+Hm...\nF-fire the guns at him!
+@14.29
+Ugh!\nNot yet! It's only a scratch!
+#ps2 @14.30  Now, take his head!
+@14.30
+Now, strike him down!
+@14.31
+Aaagh!\nI-is he a monster!?
+@14.32
+Damn!\nRetreat, retreat!
+@14.33
+Phew...\nI made it somehow...
+@14.34
+Now, I must get back to the castle quickly...
+@14.35
+We got him! Finish him off!
+@14.36
+Ugh.........\nHow bitter...
+@14.37
+In \M001, \#07FE ended his eventful life fighting to save his lord in his hour of need...
+@17.0
+Right, we've taken \51E6!
+@17.1
+This is the end of \#17F1 too.
+@17.2
+Hm, that's one troublesome enemy less.
+@17.3
+\%03, you've finally taken \51E6.
+@17.4
+Hm, this is the end of \#17F1 too.
+@17.5
+Another step closer to conquering Oshu.
+@17.6
+Yes...\nBut the real fight starts now.
+@17.7
+Our army has taken \51E6.
+@17.8
+This is the end of \#0FF1 too. One troublesome enemy less.
+@17.9
+We've taken \51E6.
+@17.10
+So this is the end of \#17F1 too.
+@17.11
+Another step closer to conquering Oshu.
+@17.12
+Hm...\nBut the real fight starts now.
+@17.15
+This is the end of \#0FF1 too. One troublesome enemy less.
+@18.0
+Victory for our army!
+@18.1
+Hm, well done.
+@18.2
+News! Lord \#11FA's army has returned safely.
+@18.3
+What! The \#1074 didn't pursue the \#11FA!?
+@18.4
+Yes! They were attacked by the \#12D3 army, and it seems they had their hands full defending.
+@18.5
+Hmm...... That meddling \#12D3......
+@18.6
+Well, it can't be helped. We withdraw.
+@18.7
+At this rate the castle won't fall! Let us withdraw!
+@18.8
+Hm, a pity we couldn't take the castle, but it can't be helped.
+@18.12
+Hmm... That meddling \#12D3...
+@19.0
+Victory for our army! And it seems the \#11FA forces have returned safely too.
+@19.1
+Hm, well done! Now, which side will win...... I doubt \%041FA will slip up.
+@19.2
+Right, we withdraw for now.
+@19.5
+Well, we managed to hold the \#1074 in check. We go home!
+@20.0
+I have something to tell you all. At last we will fight the decisive battle with \#17F0.
+@20.1
+\%03, do you mean it!?
+@20.2
+Hm, of course.
+@20.3
+Right now the greatest power in the centre is \#0205. There's no doubt that \#0A05 will hold the realm before long.
+@20.4
+But unless we unify Oshu by then, we can't speak to him as an equal.
+@20.5
+For the \#11D2 to rule the realm, we must settle things with \#17F0.
+@20.6
+I know there is some risk, but unless we raise troops now, we'll end as just another country daimyo.
+@20.7
+Everyone, prepare to march.
+@21.1
+My lord... A letter has come from Lord \#11FA.
+@21.3
+............\nThis is......
+@21.4
+\%03! What does Lord \#01FA say?
+@21.5
+Hm, an order has been issued to subjugate \#0074. He asks us to help.
+@21.6
+The \#1074 in revolt!? I heard such rumours, but is it true?
+@21.7
+The letter says that defying the late Lord Taiko's will, arming, and repairing castles can only mean rebellion...
+@21.8
+That's a mere pretext...... It's all a trap to lure out \#084B.
+@21.9
+A trap......?
+@21.10
+If he strikes the \#1074, whom \#084B backs, \#084B will have no choice but to raise an army.
+@21.11
+If Lord \#09FA turns his troops on the \#1074, the Kamigata will be poorly guarded. It would be the perfect chance to rise.
+@21.12
+I see...... And he could join with the \#1074 to attack from both sides...
+@21.13
+But if \#084B raises an army, that's just what Lord \#09FA wants. An all-out war is Lord \#09FA's aim...
+@21.14
+This battle will split Japan in two...
+@21.16
+Lord \#09FA means to crush all his enemies and take the realm...
+@21.17
+............\nWhich side do you intend to join, my lord?
+@21.18
+Well, \#084B has no chance of winning.
+@21.19
+Then we side with the \#11FA.
+@21.20
+No, that's wrong too. I have no intention of joining either side.
+@21.21
+Think about it. If both sides ruin each other, no one can tell where the realm will go.
+@21.22
+The road to the realm, once so distant, has come close again.
+@21.24
+Right, we march. First, we watch what the \#1074 do.
+@22.0
+Now we attack \51E7! That place is bound up with our fate. We avenge my father!
+@22.1
+With respect, my lord!
+@22.2
+Hm! \#0FF0, do you object?
+@22.3
+Right now \#17F2 and the \#115B stand together against the \#11D2.
+@22.4
+If we attack \51E7, the \#115B will send troops too.
+@22.5
+Rather than attack rashly, I think we should devise a plan so as not to face superior numbers...
+@22.6
+Ugh! \#0FF0, this battle is a battle of vengeance!
+@22.7
+Unless we take \51E7, my father's death goes unavenged! Why can't you understand that!
+@22.8
+\%03, please calm down!
+@22.9
+We made enemies on every side because we displayed \#0233's corpse and provoked the enemy needlessly.
+@22.10
+Ugh...\nThat is...
+@22.11
+\%03! Please be patient for a while!
+@22.12
+Call off the battle
+@22.13
+Go ahead anyway
+@22.14
+\#0FF0, your counsel has opened my eyes.
+@22.15
+I call off this battle.
+@22.16
+\%03... Well... well decided.
+@22.17
+Hm. But I can't stay quiet forever.
+@22.18
+\51E7 must fall soon... Is there no good way...
+@22.19
+Then there is a way. Make an alliance with the \#1275.
+@22.20
+With the \#1275? I see, so they hold the \#115B in check from behind.
+@22.21
+Just so. Then the \#115B won't dare move their troops carelessly.
+@22.22
+Right, send an envoy at once. Tell them we will strike the \#115B, and ask them to help.
+@22.23
+Yes, my lord. As you command.
+@22.24
+\#0FF0, what you say makes sense.
+@22.25
+But this one battle I must fight.
+@22.26
+\%03... Understood. I'll say no more.
+@22.27
+Forgive me, \#0FF0... Now, we march!
+@22.29
+But this one battle I must fight.
+@1.0
+A report! It is said that \#0205, ruler of the realm, has called on the daimyo of all Japan to subdue the \#1275 clan!
+@1.2
+\#0A05, the ruler of the realm, had forbidden the daimyo of all Japan to fight over land at will,
+@1.3
+and the \#1275 clan, having clearly broken this order, became the target of punishment...
+@1.4
+\#0A05 ordered every daimyo under him to subdue the \#1275, and an army such as had never been seen surrounded the \#1275 lands...
+@2.0
+\#0A05 had called on the whole country to subdue the \#1275 clan... But the sparks had reached even the Tohoku region, far north of Kanto.
+@2.1
+For \#01D2, the rising star of Oshu, had also fallen under \#0A05's suspicion.
+@2.2
+Don't expand your lands at will, he says! Who does \#0A05 think he is!
+@2.3
+But those who defied \#0A05 have been subdued... Perhaps we should comply for now and bide our time.
+@2.4
+Refuse flatly
+@2.5
+Submit
+@2.6
+What do I care! I go my own way! That is how \#01D2 lives! I will never bow!
+@2.8
+\#01D2 refused \#0A05's call to surrender, showing the pride of the king of Oshu, who had spread his lands by his own strength...
+@2.9
+But \#0A05, enraged by the \#11D2 clan's attitude, turned his spear on the \#11D2 clan before he had even finished with the \#1275...
+@2.10
+A worthy opponent! I'll show those southern fools who know nothing of war in snow country how the \#11D2 fight!
+@2.11
+Even before the vast armies pouring in from daimyo all over the land, \#09D2 wore a bold smile, as if he were enjoying the adversity...
+@2.12
+Ugh...! It can't be helped!
+@2.13
+\#09D2 meant to meet \#0A05, but bringing his troubled house to order delayed his departure badly...
+@2.14
+\#0A05 must be furious... I'm so late that no excuse will do. Then there's nothing for it but to try something outlandish!
+@2.15
+They say that for his first formal audience with \#0A05, \#09D2 came to \#0A05's camp dressed in white death robes...
+@2.16
+It is an honour to meet you. I am \#01D2, a country bumpkin from Oshu!
+@2.17
+Ho! So you're \#01D2. I'd heard you liked the unusual, but to come before me in death robes!
+@2.18
+I have no excuse for my late arrival! If I have offended you, feel free to put me to death!
+@2.19
+You came well prepared! Well, rest easy. You did come and show your face... I won't take your life.
+@2.20
+But... had you come any later, you know what would have happened?
+@2.22
+The \#11D2 clan keeps its old lands. From now on you are under our banner! ...Is that clear?
+@2.23
+...Ugh! As... you command!
+@2.24
+Well done, \#09D2! From now on, join the ranks besieging Odawara!
+@2.26
+(Galling, but that's the presence of the ruler of the realm! He gave me hardly a chance to explain myself. While this man lives, I can't aim for the realm...)
+@2.27
+(But luckily, I'm still the younger one... I'll wait until \#0A05 is dead... For now, I'll let him have his glory.)
+@2.28
+With even \#01D2, the hero of Oshu, now serving \#0A05, the only great power still resisting \#0A05 was the \#1275 clan of Odawara Castle...
+@2.29
+The \#1275 clan, not yet knowing of \#09D2's surrender, pinned its last hopes on reinforcements from the \#11D2 clan and kept resisting \#0A05.
+@2.30
+A report! Our lord has decided that our house will submit to the \#1205 clan!
+@2.31
+What...! So even you, without equal in Oshu, cannot stand against the might of the ruler of the realm...
+@2.32
+After ordering the \#1275 clan subdued, \#0A05 also sent envoys to the \#11D2 clan demanding its submission, and \#01D2 reluctantly accepted.
+@2.33
+They say Lord \#09D2 came to his formal audience with \#0A05 in white death robes...
+@2.34
+??? That's... rather odd. Has he lost his mind?
+@3.0
+A report! The army led by \#0205 has taken \51E5 of the \#1275 clan.
+@3.1
+I hear \#0275 and the others have been sentenced to death.
+@3.2
+If even the \#1275 clan has fallen, the fate of the realm is all but settled...
+@3.3
+With the fall of the \#1275 clan, \#0A05's unification of the realm was close at hand...
+@3.4
+In \M001, \51E5, the main castle of the \#1275 clan, was taken by the \#1205 clan.
+@3.5
+On \#0A05's orders, the clan head, \#0275, was put to death.
+@3.6
+So ended the \#1275 rule of Kanto, which had lasted five generations.
+@3.7
+After this settlement, hardly any daimyo remained to stand in the way of \#0205's ambitions.

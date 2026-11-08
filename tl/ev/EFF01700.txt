@@ -1,0 +1,272 @@
+@0.0
+\%03, a messenger from Lord \#001D is waiting.
+@0.1
+Lord \#001D... Isn't he the younger brother of the late Shogun, Lord \#081F? What could he want with me...
+@0.2
+It is an honour to meet you. I come as the envoy of Lord \#001D.
+@0.3
+Mm, I am \#0817. And what is your business with me today?
+@0.4
+\%03, a gentleman named \37F0 is waiting.
+@0.5
+\%03? What could he want with me?
+@0.6
+\%03, it has been a long time.
+@0.7
+I'm glad to see you well, \%03. And what brings you to me today?
+@0.8
+\37F0... one of the late Shogun Lord \#081F's attendants. What could he want with me?
+@0.9
+It is an honour to meet you. I am \37F0.
+@0.11
+An envoy from Lord \#001D came to see you a little while ago, my lord!
+@0.12
+Lord \#001D... the younger brother of the late Shogun, Lord \#081F. Whatever could he want with you...
+@0.13
+I'm curious... I'll go to the castle and see.
+@0.17
+Lord \#081D means to carry on his brother's wishes, become Shogun and bring peace to the realm.
+@0.18
+But the Kinai is held by the likes of the \#12C0 and \#12A7, who have even set up a puppet Shogun.
+@0.19
+Without an army behind him, Lord \#081D has no way to march on Kyoto.
+@0.20
+Sadder still, there is no daimyo with the backbone to help Lord \#081D drive out the Miyoshi forces...
+@0.21
+The \#105D and \#1008 of the Four Houses, and the \#1316, who ought to be first to offer help, cannot be relied on...
+@0.22
+We sent letters to the leading daimyo around the Kinai asking for help, but got no favourable replies...
+@0.23
+So I have come to rely on you, Lord \#0017, said to be the great man of Echizen.
+@0.24
+I beg you, with your strength, make Lord \#001D's march on Kyoto come true.
+@0.25
+\%03, when Lord \#081D enters the capital, you will surely receive fitting rewards and rank.
+@0.26
+This is a chance to raise the \#1017 clan's prestige in one stroke!
+@0.27
+Hmm... For the sake of the Shogun's house, I would like to help if I can.
+@0.28
+But with the Kinai held by others, marching on Kyoto surely means war.
+@0.29
+And a march on Kyoto needs a great army. The cost would be enormous too.
+@0.30
+What's more, I'd have to send troops to guard Lord \#081D afterwards... I can't decide lightly.
+@0.31
+Is that so...
+@0.32
+But Lord \#081D must find life as a wanderer very hard. Why not stay with our house for a while?
+@0.33
+Ichijodani here is called the little Kyoto of Echizen, so he can rest body and mind in peace. And the matter of the march will be settled in time.
+@0.34
+Most gracious words. Then I shall bring Lord \#081D here.
+@0.35
+\%03! I appoint you liaison with Lord \#081D. Be sure not to give any offence.
+@0.37
+Then I take my leave.
+@0.38
+Phew, I hope this doesn't turn into trouble...
+@0.40
+\%03, Lord \#001D has come to \51E5!
+@0.41
+Lord \#001D? Isn't he the younger brother of the late Shogun, Lord \#001F?
+@0.42
+Lord \#081D wants to march on Kyoto to succeed as Shogun, but hostile powers stand in his way...
+@0.43
+They say he has come to ask the old lord's help to fulfil his dearest wish.
+@0.44
+True, if we escort Lord \#081D to the capital and make him Shogun, the \#1017 house's fame will rise greatly.
+@0.45
+But... marching on the capital with a candidate for Shogun takes a great army and vast funds.
+@0.46
+Does the old lord really mean to march on the capital, I wonder?
+@1.0
+\%03, is the march on the capital not ready yet...?
+@1.1
+Sir, there is much to prepare before we march, so please wait a little longer.
+@1.2
+It can't be helped... I want to restore the shogunate soon. Can't you work a little harder?
+@1.3
+(He has no idea of my troubles, and says whatever he likes...)
+@1.4
+\%03, are the preparations for the march going well?
+@1.5
+Lord \#081D is waiting for the day with great impatience.
+@1.6
+\%03... Well, marching on the capital is a big affair. The preparations are slow going.
+@1.7
+The Ikko sect is strong here in Echizen. If another province stirred up an Ikko uprising, the ground could be cut from under us.
+@1.8
+I'd like to talk about the march after we've secured our own ground.
+@1.10
+\%03, does Lord \#0017 have any intention of marching on Kyoto?
+@1.11
+Oh, you're Lord \#07FE, aren't you? By the way, does Lord \#0017 have any intention of marching on the capital?
+@1.12
+Lately I can't help feeling Lord \#1017 lacks ambition.
+@1.13
+It's not my place to say...
+@1.14
+I want to go to the capital as soon as possible. Can nothing be done...?
+@1.15
+\%03, does Lord \#0017 really intend to march on Kyoto?
+@1.16
+Oh, you're Lord \#07FE, aren't you? Tell me, does Lord \#0017 really mean to march on Kyoto?
+@1.17
+Lord \#081D grows impatient, since Lord \#1017 never gives the order to march.
+@1.18
+Even to my eyes, the lord of the \#1017 is unusually slow to act.
+@1.19
+It's not my place to say...
+@1.20
+Hmm, can nothing be done...
+@1.21
+He's gone... Lord \#081D seems quite impatient.
+@1.22
+What does our lord intend to do...
+@2.0
+Oh, Lord \#0817! I hear you've retaken \51E5.
+@2.1
+Now I can succeed to the Shogun's house. I don't know how to thank you enough for this.
+@2.2
+From now on I shall rely on you as if you were my own father!
+@2.3
+I am most grateful.
+@2.4
+And I have recommended you to the court as Commander of the Left Palace Guards.
+@2.5
+Then I shall go to \51E5. Farewell!
+@2.6
+Lord \#001D has entered the capital and made \51E5 his main castle!
+@2.7
+And on Lord \#081D's recommendation, the old lord has been made Commander of the Left Palace Guards. Our house's prestige just keeps rising!
+@2.8
+If this castle is to be Lord \#001D's, what becomes of us?
+@2.9
+Ha. The old lord relieves you as castle lord and says to return to \51E6.
+@2.10
+I see... If it's Lord \#0817's order, it can't be helped.
+@2.11
+Also, the lord of Nijo Castle, \37F3, is to be relieved and placed under the old lord.
+@2.12
+Yes. Understood.
+@2.13
+I see. All right.
+@2.14
+In month \1007 of \1006, \#0017 marched on Kyoto with \#001D.
+@2.15
+With this, the warring age took a new turn.
+@3.0
+\%03, Lord \#001D has left our house!
+@3.1
+Wh-what! I've heard nothing about it!
+@3.2
+This letter was left at Lord \#081D's residence.
+@3.3
+A letter? Let's see...
+@3.4
+The letter thanked the house for all it had done and said he would always treat the \#1017 house well.
+@3.5
+Hmm... In short, he's given up on us as lacking the strength to march on the capital!
+@3.6
+\%03, it seems Lord \#000E, our go-between with Lord \#081D, went with him!
+@3.7
+What, damn that \#080E! He's forgotten how I took him in when he was a wanderer...
+@3.8
+This is a complete loss of face for me! Bah, how infuriating!
+@3.9
+\%03, please calm down. You could say we've got rid of a drain on our funds.
+@3.10
+Got rid of...?
+@3.11
+To take Lord \#081D to the capital and make him Shogun would take a great army and vast funds.
+@3.12
+Even for the \#1017 house, a daimyo house with five generations and a hundred years of history, it would be a heavy burden.
+@3.13
+If we think of it as being spared that burden, and getting this letter of favour besides, we've come out ahead...
+@3.14
+Mm, you have a point. Very well, the best thing is to forget this unpleasantness.
+@3.15
+\%03, Lord \#001D has left our house!
+@3.16
+What! What on earth happened!
+@3.17
+What! What on earth happened!
+@3.18
+Well... it seems Lord \#081D lost patience because the old lord never tried to march on the capital, and left.
+@3.19
+And Lord \#000E, our go-between with Lord \#081D, went with Lord \#081D and left our house.
+@3.20
+What! \%0400E has...
+@3.21
+I can't sit here. I must go after him!
+@3.22
+Lord \#081D leaving... I fear our house has let a big fish get away.
+@4.1
+The head of the clan, \#0017, escaped from \51E6 and tried to flee to another province...
+@4.2
+Phew... I managed to get away.
+@4.3
+But I can't walk any further...
+@4.4
+Is this how the \#1017 clan, a pioneer among warlords, comes to an end...
+@4.5
+Damn it! The \#1017 and the \#10C3 were both deputy governors for the Shiba governors in the beginning...
+@4.6
+Hmph. The \#10C3 just had a little more luck!
+@4.7
+But it won't end like this! One day I'll rise again and wipe out those \#10C3 dogs!
+@4.8
+\%04017! So this is where you were.
+@4.9
+Oh! \#0812! I'm glad you're safe.
+@4.10
+\#0812! Never forget this humiliation!
+@4.11
+Let us bear today's shame, and one day the two of us will take revenge on those \#10C3 dogs!
+@4.13
+Now, we must get away from here before the pursuers come.
+@4.14
+\#0812, lend me your shoulder. My leg is hurt and I can't move as I'd like.
+@4.15
+*Slash!*
+@4.16
+\#0812! Wh-what are you doing!
+@4.17
+\%04017! The \#1017 clan is finished.
+@4.18
+I will surrender to the \#10C3. That way I can preserve the \#1017 bloodline.
+@4.19
+Curse you, \#0812! You've betrayed me?!
+@4.20
+I will take your life!
+@4.22
+Ugh!
+@4.23
+*Thud!*
+@4.24
+Forgive me...
+@4.25
+Now that \51E6 has fallen, there is no hope of rising again.
+@4.26
+I will live on and keep the \#1017 name alive.
+@4.27
+*Pant, pant*... Killing me... will solve... nothing...
+@4.28
+Even if you bring... my head... \#08C3... will never... forgive you...
+@4.30
+Ugh...
+@4.31
+\#0017 was betrayed by \#0012 of his own clan and died a violent death. Age \1007...
+@5.0
+\%03, we have taken \51E5! Lord \#001D will be delighted to hear we've reached the capital.
+@5.1
+Hmm... I never thought we'd really march on the capital. You never know until you try...
+@6.0
+Before the council, there is someone I wish to introduce to you all.
+@6.1
+This is Lord \#001D, younger brother of the late Shogun, Lord \#001F!
+@6.3
+Lord \#081D will go to the capital and succeed to the office of Shogun.
+@6.4
+Our house too intends to lend its strength to Lord \#081D's march on the capital. All of you, bear that in mind!

@@ -1,0 +1,68 @@
+@0.0
+The time has come......!
+@0.1
+As things stand, the future of the Mogami is in danger. I had better move first.
+@0.2
+What do you want, Yoshiaki? This is no time for a council.
+@0.3
+What cold words, Father... Does a son need a reason to come and see his father?
+@0.4
+...You are scheming something, are you not? You did not come just to see your father.
+@0.5
+You see clearly. I have a certain plan concerning the future of our house...
+@0.6
+If that is it, there is nothing to discuss. I have already chosen my successor. You may go.
+@0.7
+No, I will not go.
+@0.8
+In this age of war, with danger closing in on our house too, I cannot simply sit quietly.
+@0.9
+Making the eldest son the heir has been common sense since the "Spring and Autumn Annals"... Break that, and it only leads to strife in the house.
+@0.10
+I hear that in the west the Otomo, and in Kai the Takeda, fathers who tried to set aside their eldest sons came to grief...
+@0.11
+Are you trying to threaten me?
+@0.12
+That depends on your intentions, Father... For I did not come here empty-handed.
+@0.13
+Old lord, I think it best to accept the young lord's offer...
+@0.14
+So the troops in the castle are already in his hands... Infuriating, but a fine piece of work. It cannot be helped. I will pass the headship to you.
+@0.15
+I humbly accept. Leave the future of the Mogami to me, Yoshiaki.
+@0.16
+Father, please enjoy a quiet retirement...
+@0.17
+Thus, forcing his father into retirement, Mogami Yoshiaki became the new head of the Mogami clan.
+@0.18
+Troops are gathering, it seems. Has some enemy spy slipped in?
+@0.19
+You there, has something happened?
+@0.20
+Troops are gathering, it seems. Has some enemy spy slipped in?
+@0.21
+You there, has something happened?
+@0.22
+Well... the young lord, Lord \#0AD3, came up to the castle with a grim face, and some time later...
+@0.23
+it was declared in Lord \#0AD5's name that the headship would pass to Lord \#0AD3...
+@0.24
+We are standing by in case anything should happen.
+@0.25
+(So my brother lost patience and moved before Father did.)
+@0.26
+(......Thinking calmly, my brother is more able than I am.)
+@0.27
+(For the future of the Mogami clan... it cannot be helped.)
+@0.28
+(Lord \#0AD5 was weighing Lord \#0AD3 and Lord \#0AD4 as his heir, and so...)
+@0.29
+(Lord \#0AD3 forced his father to retire... Quick work.)
+@0.30
+(In any case, as a retainer, all I must do is support the Mogami clan. That does not change...)
+@0.33
+(In any case, as a retainer, all I must do is support the Mogami clan. That does not change...)
+@0.34
+Thus, forcing his father into retirement, \#02D3 became the new head of the Mogami clan.
+@0.35
+News! The old lord has suddenly retired and passed the headship to \#0AD3!

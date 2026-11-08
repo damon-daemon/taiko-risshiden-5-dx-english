@@ -1,0 +1,12 @@
+# Title menu card labels (tools/menugfx.py): INITTOP.G1T member N<TAB>English
+0	Gallery
+1	Cards
+2	Endings
+3	Continue
+4	Mini-games
+5	New Officers
+6	Options
+7	New Game
+8	Battle Guide
+9	Quit
+10	Manual

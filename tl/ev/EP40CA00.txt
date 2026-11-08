@@ -1,0 +1,50 @@
+@0.0
+How many years has it been since I joined the Itto-ryu? I want to master its final secrets soon: the Hossha Sword and the Muso Sword.
+@0.1
+I must visit Master Ito Ittosai often and have him teach me the techniques.
+@0.2
+I won't lose to my junior, \#00CB. I'll show him the greatness of a senior student.
+@1.0
+Master, please give me some training.
+@1.1
+Oh, \#08CA.
+@1.2
+Good timing. \#08CB is here too. I have something to tell you both.
+@1.4
+I've grown old. It's time I chose a successor.
+@1.5
+You have both reached full maturity, and either would make a fine successor.
+@1.6
+But my school does not need two successors.
+@1.7
+So for the right to succeed to the Itto-ryu, I want you two to fight a duel with real swords.
+@1.8
+You may lose your life. Well, will you do it?
+@1.9
+That suits me. I won't hold back, senior or not.
+@1.10
+Fight the duel
+@1.11
+Don't fight
+@1.12
+I see, a pity. Then \#08CB will be my heir.
+@1.13
+You threw away honour and chose life? I misjudged you!
+@1.14
+I have no objection.
+@1.15
+Mm, well said. Now the duel for the succession of the school begins.
+@1.16
+\#08CA, \#08CB! Step forward.
+@1.18
+Ugh, as expected of my senior...
+@1.19
+Splendid, \#08CA. As proof that you are my heir, I give you this Kamewari Sword.
+@1.20
+Thank you, sir. As heir to the Itto-ryu, I will strive even harder.
+@1.21
+Now, let us give \#08CB a proper burial.
+@1.22
+Month \M002 of \M001... \#00CB ended his turbulent life, aged \1009.
+@1.23
+Month \M002 of \M001... \#00CA ended his turbulent life, aged \1009.

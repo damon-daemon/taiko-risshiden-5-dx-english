@@ -1,0 +1,60 @@
+@0.0
+Lord \#07FE, Lord \#0877, who had marched into the Kanto, has returned to \41DE!
+@0.18
+I see. A pity \#0A76 wasn't killed, but the new Kanto deputy's appointment is good news. Thank you for the report.
+@0.19
+I see. A pity \#0A76 wasn't killed, but the new Kanto deputy's appointment is good news. Thank you for the report.
+@2.1
+Not one enemy soldier is left in \41E0! It seems they've fallen back to \41E1.
+@3.1
+Lord \#0877! \41E0 is in sight!
+@3.3
+Good, we'll hold a council of war!
+@3.14
+We came all the way to \51E7, but... \#0A76 is stubborn.
+@3.15
+My lord, a long fight is against us. There are rumours the \#11C1 will march to the Shinano-Echigo border again...
+@3.16
+My lord, a long fight is against us. It's been a long time since we left Echigo, and provisions are a worry...
+@3.19
+Then I will take the rear guard! Lord \#1077, please withdraw at your ease.
+@3.20
+Mm! Then, Lord \#10A4, I leave it to you. We withdraw!
+@4.0
+Lord \#0877, as I said before, I mean to hand you the office of Kanto deputy and the name of the \#1320 house...
+@4.5
+\#08A4, you will attend the ceremony too.
+@4.10
+The Kanto lords waited at the shrine for \#0877 to arrive, but by custom dating from Kamakura times, \#0228 alone stayed mounted.
+@4.24
+\#08A4, thank you for joining the campaign. I, \#0B20, thank you.
+@4.25
+Lord \#0B20... You are too kind!
+@4.26
+Now, everyone! We return in triumph!
+@5.0
+Lord \#07FE, Lord \#0077 of Echigo has declared he will march into the Kanto with the Kanto deputy, Lord \#0320!
+@5.1
+Oh, really!! So the day has come for Lord \#0B20 to return to the Kanto. I pray for Lord \#0877's fortune in war.
+@5.2
+Really!! So the day has come for Lord \#0B20 to return to the Kanto. I pray for Lord \#0877's fortune in war.
+@5.4
+Report. A letter has arrived from Lord \#0077 of Echigo.
+@5.5
+Hmm, show me.
+@5.6
+Sir, here...
+@5.8
+My lord, what does Lord \#1077 say?
+@5.9
+Mm! He says he will march into the Kanto with the Kanto deputy, Lord \#0320!!
+@5.10
+It says: join the campaign against the \#1276 traitors who disturb the order of the Kanto and serve the Kanto deputy, Lord \#0320, or be struck down like the \#1276.
+@5.11
+Oh! And what will you do, my lord?
+@5.12
+Overthrowing the \#1276 is my dearest wish! Of course I'll lead my men to join Lord \#1077's righteous cause!
+@5.13
+Ohh!! My arm itches for battle!
+@5.14
+Lord \#1077's army will pass through \51E8. Our army will join it there. Men, prepare to march!

@@ -1,0 +1,232 @@
+@0.0
+Lord \#07FE! At last Lord \#004B and Lord \#01FA have fought the decisive battle at Sekigahara!
+@0.2
+Lord \#004B was easily defeated, and Lord \#01FA won a great victory!
+@0.4
+Lord \#01FA has punished the daimyo who sided with Lord \#084B.
+@0.6
+But the \#101A clan, which had stayed neutral, was left untouched by \#09FA, and its strength remained intact.
+#ps2 @0.7  \#004B was executed.
+@0.7
+\#004B has been put to death.
+@1.4
+The seven long at odds with \#004B, \#0267, \#00E6, \#00E9, \#0125, \#0043, \#027C and \#01F3...
+@2.2
+Yes. They say he is building castles, repairing roads, storing rice and hiring ronin, as if preparing for war.
+@2.3
+Never forgetting war in times of peace is only proper for a samurai, but if it's getting talked about, that's a worry...
+@3.0
+Victorious at Sekigahara, \#01FA weakened the larger daimyo of the Western Army...
+@3.1
+and abolished the smaller ones. And so every daimyo in the land bowed to the \#11FA clan...
+@3.2
+\#09FA moved the daimyo around as he pleased, preparing for the future.
+@3.3
+For \#09FA, the only obstacle left was the \#1206 clan...
+#~ @3.4  \#004B was executed.
+@3.13
+Our house has been transferred to Kii, Izumi and Kawachi!
+@4.0
+\%03, thank you for coming. We'll hold a war council at once, so please come into the castle.
+@4.1
+\%03, you come too.
+@4.3
+Now, the order of battle against \#1074. The daimyo of Ou, led by \#02D3, will enter \#1074's lands from the northwest.
+@4.5
+Now, the order of battle against \#1074. The daimyo of Ou, led by \#01D2, will enter \#1074's lands from the northwest.
+@4.7
+Now, the order of battle against \#1074. The daimyo of Ou will enter \#1074's lands from the northwest.
+@4.8
+Next, the daimyo of Hokuriku, led by \#0294, will enter \#1074's lands from the west.
+@4.10
+Next, the daimyo of Hokuriku, led by \#0283, will enter \#1074's lands from the west.
+@4.12
+Next, the daimyo of Hokuriku will enter \#1074's lands from the west.
+@4.13
+The other generals will invade \#1074's lands from the south with me.
+@4.14
+I will give the day of the attack later. See that no one acts on his own.
+@4.17
+We march!
+@5.0
+Now, it is time I gave orders to the armies on the other fronts.
+@5.1
+The \#1074 forces seem to have entered northern Shimotsuke.
+@5.2
+The \#1074 clan has been famed as the finest warrior house in the land since Lord Kenshin. I am itching to see how strong they are!
+@5.3
+\%03, grave news! \#004B has raised an army against the \#11FA!
+@5.5
+\#084B has set up \#02D1 as commander-in-chief, and many follow him: \#007D, \#0138, \#0036, \#00A5 and more!
+@5.6
+They claim two hundred thousand men!
+@5.7
+Grr... \#084B! He means to catch us in a pincer!
+@5.8
+Gentlemen, quiet, please!!
+@5.9
+You have heard how things stand in the Kamigata! Many of you have left wives and children there as hostages. I know how you must feel...
+@5.10
+So I, \#09FA, will not ask you to take my side!
+@5.11
+What!
+@5.12
+Those who wish to side with \#084B may return to their home provinces. I, \#09FA, will hold no grudge...
+@5.14
+What are you saying, \%03?! We cannot forgive \#004B's villainy either!
+@5.15
+I will fight on your side, \%03! If I may, let me lead the vanguard against \#084B!!
+@5.16
+I too will fight on your side, \%03!
+@5.17
+I too will join the fight against \#004B!
+@5.18
+I too will be on your side!
+@5.20
+Oh, I am grateful! Then I will leave one army to hold the \#1074 clan in check and go back for now.
+@5.21
+Is \#0AFC here?!
+@5.22
+Yes, here.
+@5.23
+I leave that army in your command! Do not start anything yourself!
+@5.25
+Gentlemen, lead your own men and march west. I think Ogaki would be a good place to gather.
+@5.26
+Understood!
+@5.27
+Then, gentlemen, we will meet at Ogaki.
+@6.0
+My lord! \41E2 has fallen to the \#004B army!
+@6.1
+The commander, Lord \#0209, and his men fought with all their strength to the last soldier, but they were too few... All died defending the castle!
+@6.2
+Hmm... Is \%041FA not here yet?!
+@7.0
+Gentlemen, I am sorry to have kept you waiting.
+@7.1
+\%03, we have been waiting for you!
+@7.2
+The enemy seems to be gathering at \41DE... What shall we do?
+@7.3
+Wait. Has my son \#09FC not arrived yet?
+@7.4
+Lord \#09FC? No, he has not shown up yet...
+@7.5
+...Curse that fool! Where is he dawdling?!
+@7.6
+The Nakasendo... It passes through Lord \#0167's lands. Could it be...
+@7.7
+Yes, he vanished at the time of the Oyama council. So \#0167 has sided with the Western Army.
+@7.8
+\#1167... He is bad luck for \%041FA...
+@7.9
+Once, the \#11FA army attacked \#0167's castle, Ueda, with a great host.
+@7.10
+Against all expectations, the \#11FA army was badly beaten... It made \#0167's name ring across Japan: the First Battle of Ueda.
+@7.11
+Grr...
+@7.12
+Lord \#09FC is young, and some of his men will not have forgotten the old grudge... Perhaps he was lured by their provocation.
+@7.13
+If we wait for Lord \#09FC, the enemy may finish gathering. I think we can only advance.
+@7.14
+It cannot be helped. All forces, advance! Our goal is Sekigahara!
+@7.15
+Then, strike before they gather, as the art of war says. All forces, advance! Our goal is Sekigahara!
+@8.0
+Oh, look at them all! Both armies are huge, enough to make you gape!
+@8.1
+Who is deployed in front of us?!
+@8.2
+I believe it is the \#0138 unit!
+@8.3
+Right, attack the \#0138 unit! Charge!!
+@8.4
+Ohhh!!
+@9.0
+Right, the \#0138 unit is beaten! How goes the battle?!
+@9.1
+Our side is pushing them back!
+@9.2
+Then now is the time to take \#084B's head! Attack!!
+@9.3
+Ugh, fall back once and re-form!
+@9.4
+Oh no! \#013B is charging down at our unit!
+@9.5
+What! Damn you, \#013B!!
+@9.6
+We're surrounded on all sides! Our retreat is cut off!
+@9.7
+Ugh! So this is the end!
+@9.8
+Then I'll take as many enemies as I can with me to the underworld!
+@9.9
+\%03! I'll go with you!
+@9.10
+Yes, let's go!
+@9.11
+Raaah!
+@9.12
+Thanks to the charge of \#013B's army, the Battle of Sekigahara ended in victory for the Western Army...
+@9.13
+The Eastern daimyo were all but wiped out.
+@9.14
+\#07FE, his retreat cut off by the Western Army, fell in the melee, aged \1006...
+@10.0
+\#004B's army is routed! Victory is ours!
+@10.1
+After him! Don't let \#084B escape!
+@10.3
+Bang-bang-bang!
+@10.4
+What is it?!
+@10.5
+Lord \#01FA's gunners are firing at \#013B!
+@10.6
+The \#113B unit is moving! It is charging into the Western Army's \#00A5 unit!
+@10.7
+Hmph, that \#013B... What a disgraceful turncoat.
+@10.8
+The \#113B unit's betrayal turned the tide, and the Battle of Sekigahara ended in an overwhelming victory for the Eastern Army.
+@10.9
+With the Western commander \#004B captured and its leader \#02D1 gone home, the Western daimyo were all but wiped out...
+@10.10
+The battle that decided the realm was over all too quickly...
+@10.11
+Raise a victory cry!
+@10.12
+Ei, ei, oh!!
+@11.0
+Everyone seems to be here. Then...
+@11.1
+My lord, Lord \#01FA has ordered a campaign against \#1074!
+@11.2
+What! What on earth has happened?!
+@11.3
+The envoy sent to the \#1074 clan has returned with a reply from Lord \#020E...
+@11.4
+This letter was the famous "Naoe Letter".
+@11.5
+\#0A0E declared that tending the domain and arming were only natural for a warrior, and dismissed \#01FA's message as a false charge.
+@11.6
+It also mocked the many ways \#09FA overstepped his authority after \#0205's death, and ended with open provocation.
+@11.7
+Reading the letter, \#01FA judged the \#1074's intent to rebel beyond doubt, and ordered a punitive campaign.
+@11.8
+Lord \#11FA has ordered the daimyo to lead their armies to \41DF.
+@11.9
+\%03, what will you do?
+@11.11
+Join against \#1074
+@11.12
+Send no troops
+@11.13
+\%041FA is the chief regent. We should obey him.
+@11.16
+Both \#1074 and \#11FA are regents. This campaign is nothing but \%041FA's private war. We should not move our army lightly.
+@11.21
+The old lord has ordered us to march and punish \#1074. We now head for the gathering point, Oyama Castle!
+@11.22
+Let's go!

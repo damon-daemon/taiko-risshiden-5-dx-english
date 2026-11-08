@@ -1,0 +1,20 @@
+@3.4
+In \M001, \#0023 defeated \#01D2 in a field battle.
+@3.8
+Hey, everyone! That must be \#0023 over there!
+@3.9
+You must be Lord \#0023. Your head is mine!
+@3.11
+In \M001, \#0023 was defeated by \#01D2 in a field battle.
+@3.12
+\#0023 was slain, and the \#1023 house was destroyed. \#0023 was \1009...
+@3.19
+\#0023 was slain, and \#07FE shared his lord's fate. \#07FE was \1009...
+@3.20
+The \#1023 house was destroyed, and the name of the One-Eyed Dragon \#09D2 spread across the realm...
+@4.3
+What! Just when we had the perfect chance to take \#09D2's head!
+@6.13
+The \#1023 army was forced to withdraw as well and could not destroy the \#11D2 army.
+@6.20
+What shall we do, \%04023?

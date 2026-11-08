@@ -1,0 +1,284 @@
+@0.0
+Hey, you're \#0049, right?
+@0.1
+What if I am? Who the hell are you anyway, barging into someone's house without a word?
+@0.2
+Now, don't get so prickly... I've brought you a money-making deal.
+@0.3
+A money-making deal?
+@0.4
+You know the Plover Censer? It's a prize piece of tea ware owned by Lord \#0205, the man of the hour.
+@0.5
+So what about this censer thing?
+@0.6
+They say it's the finest censer in the land. Daimyo, court nobles and monks everywhere are dying to get their hands on it.
+@0.7
+Thing is, the owner is the master of the realm who rules the capital. Nobody dares come out and say "give it to me"...
+@0.8
+What are you getting at?
+@0.9
+I mean, if you were to steal it... there'd be a fortune in it.
+@0.10
+Why bring this to me?
+@0.11
+Word is your ninja skills are the best in the land.
+@0.12
+So... I get my hands dirty and you walk off with the best part? That's a bit much.
+@0.13
+I brought you a sweet deal. Surely I've earned half the share at least.
+@0.14
+No deal... I'd be carrying all the weight. All you did was bring the story, then sit and wait for me to fetch it.
+@0.15
+Thanks for the tip... If I do it, I'll do it alone.
+@0.16
+Dirty dog! You hear the story for free and then cash in on your own?! That's not right!
+@0.17
+Careful... You know how good I am, right? I'm telling you for your own good... Get lost before my mood gets any worse!
+@0.18
+H-hey... That's not fair...
+@0.19
+Enough! You must really want one of my shuriken in your gut.
+@0.21
+...Get out of my sight!
+@0.22
+Tch! ...Gutless coward! I misjudged you, \#0049! So long!
+@0.24
+The Plover Censer... Interesting story.
+@0.25
+So \%04205 has it... Stealing from someone I know doesn't sit right...
+@0.26
+So \%04205 has it... The great daimyo who holds the Kinai now.
+@0.27
+Next time I'm in \41DF, maybe I'll pop in and steal it...
+@1.9
+Well, anyway... I just pray this gang of thieves doesn't show up in this town too... Touch wood, touch wood.
+@1.11
+(Thieves, eh... Well, who cares.)
+@2.0
+\41DF... \#0205's castle.
+@2.1
+Come to think of it, they say a prize piece called the Plover Censer is hidden away here...
+@2.2
+Shall I try stealing it, just to test my skills...?
+@2.3
+Sneak into the castle
+@2.5
+No, no need to cross a dangerous bridge. Too risky, too risky...
+@2.6
+I'll forget about that censer.
+@2.7
+Right, a castle like this... is nothing to me...
+@2.8
+...Hmm. It doesn't seem to be in the storehouse. Now, where could it be?
+@2.9
+Wait... The Plover Censer is a treasure of the realm. Maybe \#0A05 keeps it close by.
+@2.10
+Shall I sneak into \#0A05's bedchamber...
+@2.11
+Now... it should be around here.
+@2.12
+\#0A05 is... Hm, he seems to be asleep. A good start.
+@2.13
+The censer... Oh!! There it is.
+@2.14
+Right, don't wake up...\n\n...Hm?
+@2.15
+Peep!!
+@2.16
+Wh-what was that?
+@2.18
+Wha-?! The plover on the censer is singing?!
+@2.19
+The Plover Censer was crafted to make a sound when air heated by the incense fire escaped from it...
+@2.20
+Hm? Ah... the plover is singing.
+@2.21
+(Damn! He's woken up...!)
+@2.22
+Hm, is someone there? Who goes there!!
+@2.23
+Tch! Botched it.
+@2.24
+Hm... You! Are you not \#0049!
+@2.26
+Who are you!
+@2.27
+Since I've been caught, it can't be helped... I am \#0049, the finest ninja in the land! I came for that Plover Censer!
+@2.28
+Guards! Guards! A thief has entered my bedchamber!
+@2.29
+What is it, old lord?! Ah?! A thief?!
+@2.30
+Heh... You think you can catch me?
+@2.31
+Sneak into the bedchamber of the ruler of the realm and think you can leave unpunished... I will cut you down myself!
+@2.32
+As if a monkey-faced upstart like you could beat me!
+@2.34
+I won't take your life... The treasure is all I want. So long!
+@2.35
+W-wait!
+@2.36
+Hm? What now?
+@2.37
+If you want it that badly, you can have the thing. In exchange...
+@2.38
+In exchange.............. what?
+@2.39
+Tell no one what happened here today. If the ruler of the realm were beaten by a common thief, the people's hearts would turn from him.
+@2.41
+And... never steal in my lands again. That is all.
+@2.42
+...All right. This censer was my last target... I'll never steal again.
+@2.43
+You promise...?
+@2.44
+I am \#0049, known all over the realm... I don't go back on my word.
+@2.45
+Then go. I give you that censer!
+@2.46
+Of course... I took it with my own skill, after all.
+@2.47
+Oh, is that so? Ha ha ha, I forgot. Go, run along.
+@2.48
+Hurry, or the patrolling samurai will keep coming.
+@2.49
+...Farewell, then!
+@2.50
+(\#0205... Master of the realm indeed. A big-hearted man...)
+@2.51
+(He's wasted as a mere daimyo. Ha ha ha.)
+@2.52
+Ngh... Careless of me! I let my guard down!
+@2.54
+\%03! Are you unharmed?!
+@2.55
+Oh, I am fine... As you see. More to the point, this thief!
+@2.56
+Ugh... Who'd have thought the Plover Censer would start singing... Bad luck.
+@2.57
+Through our failure a thief got into your bedchamber, \%03... We are deeply sorry.
+@2.58
+That gang of thieves that troubled the capital a while back was probably this fellow too... Outrageous!
+@2.59
+N-no! I never did any such thefts!
+@2.60
+You sneak into my bedchamber and still dare tell such lies! A true villain! Letting a thief like this live does the world no good. Execute him at once!
+@2.62
+Wha-?!
+@2.63
+No... wait. I will oversee the execution in person. The place... Sanjo riverbed, in the capital.
+@2.65
+Prepare what I am about to tell you. We will make it grand, as an example!
+@2.66
+Yes, sir! At once! Now, get up!
+@2.68
+Get walking, now!
+@2.69
+Damn it...!
+@3.0
+Are the preparations for the execution ready?
+@3.1
+Yes, sir! Just as you ordered!
+@3.2
+What's this, what's this? What's starting, eh?
+@3.3
+I wonder what that huge cauldron is for...?
+@3.4
+.........!!
+@3.5
+Everyone, liiisten well!! This is the thief who ravaged the capital, \#0049!
+@3.6
+...N-no, it wasn't me!
+@3.7
+I caught him myself this time, so you may all rest easy!
+@3.9
+He sure has a villain's face.
+@3.10
+You mean to pin every crime on me and do away with me?!
+@3.11
+So that's the thief who troubled the capital... Ugh, horrible.
+#ps2 @3.12  And since this man is the greatest villain in the realm, he will be executed here in the capital, before the eyes of all!
+@3.12
+And since this man is the greatest villain in the realm, he will be punished here in the capital, before the eyes of all!
+#ps2 @3.13  Eek! An ex-execution, right before my eyes...!?
+@3.13
+Eek! What are you going to do...?
+@3.14
+We will drop the thief into this boiling water and send him straight to hell! Understood!
+@3.15
+...Urgh!
+@3.16
+How... cruel.
+@3.17
+Nah, he's a thief infamous across the land. It's only what he deserves.
+@3.18
+Send that scum to the next world!
+@3.21
+Dear!
+@3.22
+Hey, lady, you're in the way. Screaming there, I can't see the boiling!
+@3.23
+It's not true! He's not the one! He never stole anything...!
+@3.24
+Shut up! This woman's in the way. Throw her out!
+@3.25
+Eeek!
+@3.26
+(\%03... I'm sorry... to be such a husband.)
+@3.27
+Heh heh heh... Even the great villain hasn't a peep to say now...
+@3.28
+...Ngh! \#0205! Don't think you'll get away with this!
+@3.29
+Mark my words, a second and third thief will appear and throw the realm you rule into chaos!
+@3.30
+...I have no wish to hear the howling of a beaten dog! You there! Get on with it!
+@3.32
+Curse you, \#0205! There is no greater thief than you!
+@3.33
+What!
+@3.34
+When it comes down to it, you're a peasant from Owari! You became \#00C3's sandal-bearer and snatched your superiors' glory one after another...
+@3.35
+And after your master, \#08C3, fell at Honnoji, you stole even \#08C3's achievements and grabbed the realm for yourself!
+@3.36
+And to top it all, you forgot all you owed him, killed even your master, \#08C3, and stole the realm for yourself!
+@3.37
+After your master, \#08C3, died,\n\nyou stole even \#08C3's achievements and grabbed the realm for yourself!
+@3.38
+Thief though I am, I never stole on your scale!
+@3.39
+...Do not let the thief howl. Throw him in the water, now!!
+@3.40
+Can't answer that, can you! Monkey! Well, fine... I'll be killed here and become a legend! Watch me!
+@3.41
+My death poem!! Listen well! People of the town!!
+@3.42
+"Though the sands... of Ishikawa's shore... run out, the seeds... of thieves in this world... will never run out!!"
+@3.43
+Do it!!
+@3.44
+(Farewell... \%03!)
+@3.45
+Splash!
+@3.46
+Eeek!
+@3.47
+Whoa! He won't last a second in there...
+@3.48
+How awful...
+@3.49
+Dear!! Ahhh!!
+@3.50
+Ohh... my dear...
+@3.51
+And so \#0049, the great thief who shook the realm, was boiled alive and lost his life...
+@3.52
+But because of his dramatic end, he was romanticised into a legend, told for ages after as the master thief who defied the powerful...
+@3.53
+Months later, in Kyoto, a woman took her own life leaning against \#0849's secretly built grave.
+@3.54
+Some said she was a victim of theft, some that she was one of the thieves, others that she was \#0849's wife...
+@3.55
+Many rumours went round, but no one knew the truth...

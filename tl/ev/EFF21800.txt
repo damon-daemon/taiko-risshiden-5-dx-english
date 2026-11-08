@@ -1,0 +1,179 @@
+@0.0
+For generations our \#1218 house has been a pillar of Joshu, serving the Kanto deputy's \#1320 house...
+@0.1
+The present Kanto deputy, Lord \#0320, was driven out by \#0276, who seeks to rule the Kanto, and is now sheltered by Lord \#0077 of Echigo...
+@0.2
+How painful... While I, \#0A18, still live, I must restore the \#1320 house of the Kanto deputy.
+@0.3
+To do that, I must strike down the \#1276, restore peace to the Kanto and welcome back Lord \#0B20 as Kanto deputy in fact as well as name!
+@0.4
+First I must govern this land from \41DE, hold councils to grow our strength and unite the forces against the \#1276.
+@0.5
+Now, where to begin...
+@0.6
+Since the defeat at Kawagoe, the prestige of the Kanto deputy's \#1320 house has fallen to the ground, and Lord \#0320 has fled to Echigo...
+@0.7
+The \#1320 house of the Kanto deputy is in decline, but our lord, called "the Tiger of Joshu", means to keep supporting the \#1320 house.
+@0.8
+The war with \#0276 of Sagami will only grow fiercer.
+@0.10
+You seem lost in thought.
+@0.11
+\#0A59, is it? Oh, I was just thinking that we must support Lord \#0A18.
+@0.12
+...Is that so? I thought you were thinking about swordsmanship.
+@0.13
+Don't say that, \#0A59.
+@0.14
+True, I haven't given up on travelling the land to cross swords with master swordsmen to my heart's content...
+@0.15
+But with Joshu so unsettled, I can't go off as I please.
+@0.16
+You and I must first work hard for the \#1218 house. Understood?
+@0.17
+Yes, sir, I understand.
+@0.18
+Still, I can't give up on travelling the land to cross swords with master swordsmen... Someday, surely...
+#~ @0.20  The \#1320 house of the Kanto deputy is in decline, but our lord, called "the Tiger of Joshu", means to keep supporting the \#1320 house.
+@0.23
+\#0A59, were you lost in thought?
+@0.24
+Ah, you. I was thinking that we must support Lord \#0A18.
+@0.25
+I see. With Joshu so unsettled, you and I must work hard for the \#1218 house.
+@0.26
+Yes, I'm honoured. But don't you have something else on your mind as well?
+@0.29
+But that is for later. You can't do as you please now. First, serve well.
+#~ @0.32  The \#1320 house of the Kanto deputy is in decline, but our lord, called "the Tiger of Joshu", means to keep supporting the \#1320 house.
+@0.36
+The \#1320 house of the Kanto deputy is in decline, but our lord, called "the Tiger of Joshu", means to keep supporting the \#1320 house.
+@0.37
+The war with \#0276 of Sagami will surely grow fiercer.
+@0.39
+First I must train my skill at war, so I don't fall behind and shame my name when the great war comes...
+@0.40
+First I must train my skill at war, so I don't fall behind and shame my name when the great war comes...
+@2.0
+If I'm out wandering at a time like this, I may not be there when I'm needed. I'd better stay in the castle for now.
+@2.1
+If I'm out wandering at a time like this, I may not be there when I'm needed. I'd better stay in the castle for now.
+@3.2
+Oh! Winning without a fight is a good omen. Just what you'd expect of Lord \#1077.
+@3.4
+Hearing that Lord \#1077 has crossed into the Kanto with the Kanto deputy, Lord \#0320, I, \#0218, have come to join this righteous cause.
+@3.9
+Good! Now we go to \41E1.
+@4.4
+Report! It seems Lord \#0228, lord of \41E0 Castle, has come to Lord \#1077's camp!
+@4.5
+Hmm, so he's given up on the \#1276... Then we'll go to the camp too.
+@4.8
+Hearing of this campaign into the Kanto, I have come to serve the Kanto deputy, Lord \#0320.
+@8.5
+\#0A18, you will attend the ceremony too.
+@8.24
+\#0A18... You have served me well for so long. I, \#0B20, thank you.
+@8.26
+I'm sure you have things to say to me too... But as you served me, support my heir, Lord \#0877!
+@8.27
+Lord \#1218, I too ask for your support.
+@8.28
+I am grateful... I, \#0A18, will risk my life to help Lord \#0877 bring peace to the Kanto!
+@9.1
+Ugh! \#01C1... as fine a warrior as they say. To think this \41DE would fall...
+@9.2
+Crossing Usui Pass into western Kozuke, the \#11C1 army surrounded \51E5 Castle many times over.
+@9.3
+The \#1218 forces held out well, but through skirmish after skirmish the gap in numbers slowly widened...
+@9.4
+The \#11C1 army stormed a weakly held section, and at last the key stronghold of \51E5 Castle fell.
+@9.5
+It has come to this... Nothing left but to meet my end with honour... Hnn!!
+@9.6
+Stab!!
+#ps2 @9.7  And so \#0A18, head of the \#1218 house, took his own life in the inner bailey of the keep... Age \1007.
+@9.7
+And so \#0A18, head of the \#1218 house, met his end in the inner bailey of the keep...... Aged \1007.
+@9.8
+Ugh! I must cut my way out!!
+@9.9
+\#07FE broke through the enemy's encirclement and left the burning \51E5 Castle behind...
+@9.10
+Now... what should I do?
+@9.11
+Serve the \#11C1
+@9.12
+Leave
+@9.13
+It can't be helped. I'll have to serve the \#11C1.
+@9.14
+It has come to this. I'll have to serve the \#11C1.
+@9.15
+For years I've wished to live only by the sword, but I never thought it would come about like this...
+@9.16
+But I can no longer bear to waste myself in worldly land disputes... Perhaps I'll first set out on a training journey.
+@9.17
+I can't serve my lord's enemy as my master. For now I'll have to go into retirement...
+@9.18
+I can't serve my lord's enemy. For now I'll have to go into retirement...
+@9.21
+Long wishing to leave worldly strife and live by the sword, \#0928 retired after this battle and set out on a training journey.
+@9.23
+Mm! Well done, everyone! Now \#09C1 knows how tough the warriors of Joshu are.
+@9.24
+\#01C1... a fine warrior, but as long as I, \#0A18, hold \51E5 Castle, he'll not lay a hand on Joshu!
+@9.25
+There was no decisive result!
+@9.26
+Mm! Well done, everyone. Even if we didn't win, not losing is enough.
+@9.29
+But \#0218, known as a general of wisdom and valour, rallied the lords of western Kozuke and held out well...
+@9.30
+Even under the command of \#01C1, the Tiger of Kai, \51E5 Castle, held by \#0218, the Tiger of Joshu, never fell.
+@9.34
+Taking the name "Kamiizumi Nobutsuna", he set out on a training journey around the provinces.
+@9.39
+Long wishing to leave worldly strife and live by the sword, \#0928 retired after this battle and set out on a training journey.
+@9.40
+I see... So you're going...
+@9.41
+Yes... Thank you for indulging my selfishness!
+@9.42
+Not at all. You have served me well. From now on, follow the path you believe in. Farewell... \#0928.
+@9.43
+Sir, and you, Lord \#0A18... Farewell!
+@10.0
+Lord \#07FE, \#07F0 of Kai has attacked \51E7 Castle!
+@10.9
+But \#0218, known as a general of wisdom and valour, rallied the lords of western Kozuke and smashed the \#11C1 army with a surprise attack.
+@10.14
+Taking the name "Kamiizumi Nobutsuna", he set out on a training journey around the provinces.
+@10.19
+Long wishing to leave worldly strife and live by the sword, \#0928 retired after this battle and set out on a training journey.
+@10.22
+I see... The situation in the Kanto is still uncertain. Thank you for the report.
+@10.25
+Grave news! \#01C1 of Kai has marched to invade Kozuke!
+@10.26
+What!? \#09C1 has marched on Kozuke!
+@10.27
+Yes! His army is about 20,000! It seems he means to besiege this castle with a great force!
+@10.28
+Ugh, such a huge army... \%027F0, what will you do?
+@10.29
+Hmm, \#01C1 of Kai... Young, but they say there's no warrior like him.
+@10.30
+But as long as I, \#0FF0, am at \51E7, he'll not be crossing the Usui River to graze his horses.
+@10.31
+Besides, for over fifty years since my grandfather, Lord Naonari, built this \51E7 Castle, we've strengthened it into a fortress. It won't fall easily.
+@10.32
+First, call up every warrior of western Kozuke. And tell them to hold \51E7 Castle until I say otherwise!
+@10.34
+If it comes to it, we can ask Lord \#0077 for reinforcements.
+@10.35
+Everyone, rest well to be ready for battle. That's all for today. Dismissed.
+@11.0
+We've done all we can. Now we just wait for the \#11C1 army. There's nothing left to discuss!
+@12.12
+A golden chance to restore the Kanto deputy's \#1320 house! Of course I'll lead my men to join Lord \#1077's righteous cause!

@@ -1,0 +1,264 @@
+@0.1
+Old lord, what will you do now?
+@0.2
+Don't call me "old lord"... I didn't rebel because I wanted to be a daimyo.
+@0.4
+Well, never mind that... First I must report to the court... and then send word to His Highness the Shogun.
+@0.5
+And gather allies among the Kinai lords... The former \#10C3 retainers may launch a battle of vengeance at any time.
+@0.6
+For that day too, we must win over as many allies as we can.
+@0.8
+But few felt any sympathy for \#080E, who had rebelled. Most waited to see which way the wind blew, or were openly hostile...
+@0.9
+Bah... I struck down \#08C3 for everyone's sake... What is this?
+@0.11
+Anyway, I'll go to Kyoto and report this to the court. \#0FFE, you come too!
+@0.13
+The rest of you, see to things at home!
+@1.0
+Oh, if it isn't Lord \#100E.
+@1.1
+Lord \#1496, you look well...
+@1.2
+Your rebellion... It seems it was rather deftly done. His Majesty was astonished.
+@1.3
+So it has already reached the Emperor's ears... I am truly sorry to have disturbed the capital.
+@1.4
+Not at all... His Majesty too was at his wits' end with \#08C3's high-handedness, so he will likely recognise your deed.
+@1.5
+Ah... if that is so, I am glad.
+@1.6
+Now... since you have taken \#00C3's place as ruler of the realm, you must have suitable court rank and office... Shall I arrange it?
+@1.7
+Not at all. I have never thought of my own advancement...
+@1.10
+Lord \#100E! Is Lord \#080E here?!
+@1.11
+Oh, Lord Isshiki...
+@1.12
+Isshiki Fujinaga was the closest of all the former Shogun \#001D's attendants, and stayed with \#081D even after the shogunate fell.
+@1.13
+Lord Isshiki... Was the Shogun pleased about all this?
+@1.16
+This is no time for that! \#0205's army is coming from the west at a terrifying pace!
+@1.17
+\#1205... Lord \#0A05? Hahaha, surely not.
+@1.18
+That man asked me to come to his aid. He should be pinned down in the west. Isn't there some mistake?
+@1.21
+There's no mistake! Just as I was heading back to \=07A, I saw the \#1205 army with my own eyes!
+@1.22
+......Surely \#0205 can't have come back so fast... But then... that man could.
+@1.23
+...My lord, what will you do?
+@1.24
+Bah, if it's true, there's no time to lose. Lord \#1496, excuse me. I must go.
+@1.25
+Ah... Lord \#100E!
+@1.26
+My lord!
+@1.27
+Bah... There's no time to go back to \41DE... What to do...!
+@1.28
+My lord! Have you heard? \#0205's army is closing in!
+@1.29
+Oh, \%03! I heard! How do the Kinai lords stand?
+@1.30
+Well... our efforts went badly. Almost all of them have decided to wait and see.
+@1.31
+Bah... It can't be helped. We march alone!
+@1.32
+I have already called the troops here. Now we await only your command.
+@1.33
+Right, then we march! I won't let the likes of \#0A05 trample this righteous cause!
+@2.0
+Now... there's a lot to do from here.
+@2.1
+My lord! The Shogun has come from \=07A!
+@2.2
+Oh! He has come!
+@2.3
+\#080E! I, \#081D, am deeply moved by your great deed! Well done!
+@2.4
+You are well, Your Highness... For the revival of the Muromachi shogunate, I have struck down the traitor \#00C3.
+@2.5
+Mm, mm... I was waiting for a man like you. Now the shogunate is safe.
+@2.6
+Yet... the former \#10C3 retainers are still strong in many places... They will surely bare their fangs and attack us.
+@2.7
+True... We've struck down \#08C3 and \#08C2, but \#08C3's sons remain...
+@2.8
+\#0205 won't have given up on a battle of vengeance either... And \#017B's movements worry me.
+@2.9
+Mm... And \#01FA too. He may be the one to watch most closely.
+@2.10
+In any case, all of us will strive from now on to uphold the \#101D house and restore its days of glory.
+@2.11
+Reassuring words... You may go on ruling the castles you hold. I shall enter \51E5 Castle.
+@2.13
+To reward your work this time, I shall negotiate with the court myself and petition for an office to be granted you.
+@2.14
+Ah, no, not at all. I am quite content as I am...
+@2.15
+No, no, you must go on working for the Ashikaga. For that you'll need suitable prestige.
+@2.16
+Yes...
+@2.17
+Let me see... How about Junior Fourth Rank, Lower Grade, and Master of the Western Capital?
+@2.18
+Master of the Western Capital! That is too lofty an office for me!
+@2.19
+No, no... It is the office held by generations of heads of the Hosokawa, the Kanrei house that once upheld the Ashikaga shogunate. It suits you.
+@2.20
+I am honoured.
+@2.21
+Keep working for our house.
+@2.23
+With the Honnoji Incident, the age passed from the adventurer \#00C3 back to Shogun \#101D...
+@2.24
+The daimyo across the land rejoiced at the revival of the shogunate and welcomed the exit of \#08C3, the dreaded demon king...
+@2.25
+\#000E, the key player in this turn of the age, won renown as the loyal vassal who revived the Ashikaga shogunate.
+@2.26
+But, heedless of that fame, the former \#10C3 retainers and their ally \#01FA...
+@2.27
+were watching keenly for their chance at revenge...
+@3.0
+All troops! Halt!
+@3.1
+Huh? Why stop in a place like this...? A rest?
+@3.2
+Listen! I will now tell you this army's true destination!
+@3.3
+Our true destination...?
+@3.5
+The enemy... is at Honnoji!
+@3.6
+Honno...ji?
+@3.7
+A scout has just reported! The arrogant \#00C3 and his son are at Honnoji now, with only a handful of men!
+@3.8
+\#08C3 drove out the Shogun, scorned the imperial court, ignored his retainers' counsel and brought misery upon the people!
+@3.9
+In Heaven's name, I, \#000E, shall strike down \#00C3 and \#08C2! Are you all ready!?
+@3.10
+Th-then... you mean to rise in rebellion?
+@3.11
+Exactly! We will never get another chance like this! Now, to Honnoji!
+@3.12
+At the same hour, at Honnoji in Kyoto...
+@3.13
+What is it? What's all this noise!
+@3.14
+My lord! Terrible news! The temple is surrounded!
+@3.15
+What nonsense! This is the heart of my domain! Who would dare attack me?
+@3.16
+It is a rebellion!
+@3.17
+Rebellion!? Who? Who dares turn his blade on me!?
+@3.18
+Their banner is... the blue bellflower! It is Lord \#100E... Lord \#080E's rebellion!
+@3.19
+\#080E!? That baldpate! The fool!
+@3.20
+Bring me my bow! Bah, as if I'd let the likes of \#080E strike me down!!
+@3.21
+Attack!
+@4.0
+The likes of \#0205...
+@4.1
+\%03! The enemy is almost upon us!
+@4.2
+Even so... according to the scouts, the enemy has far too many men... More than \#0A05 could ever raise by himself...
+@4.3
+It seems many former retainers of the \#10C3 clan have gathered on the enemy side.
+@4.4
+However hard we courted them, they would not join us... What trick did that sharp-eyed Monkey use to win the generals over...
+@4.6
+Hmm... The decisive battle will likely be somewhere near Yamazaki...
+@4.7
+Whoever takes Mount Tenno may well win this battle...
+@5.0
+Attack! If we lose this battle, I will be remembered as nothing but a traitor!
+@5.1
+We must win, whatever it takes!
+@6.0
+So... this is the end...
+@6.1
+My life... cut short by the likes of \#080E... who would have thought...
+@6.2
+Who's there!
+@6.4
+Bring a drum! I shall dance Atsumori!
+@6.5
+My lord! Never mind that, please flee at once!
+@6.6
+There's not even a gap an ant could crawl out of... Set fire to the temple! Let no one take my head!
+@6.7
+My lord...!!
+@6.8
+Man's fifty years... set against the world below... are but a dream, an illusion...
+@6.9
+Having once been granted life... is there any who shall not perish.........
+@6.11
+Heh...
+@6.12
+Death is certain...
+@6.14
+\#08C3: the man who turned the tide of the Sengoku era at Okehazama, and whose revolutionary policies opened the door to a new age...
+@6.15
+But his glory came to a sudden end through \#000E's unexpected rebellion... He died aged \1009.
+#ps2 @6.16  \#00C3 set fire to Honnoji himself and is thought to have taken his own life!
+@6.16
+\#00C3 is thought to have set fire to Honnoji himself and met his end there!
+@6.17
+Hmm, I wanted to strike him down with my own hand... What of \#08C2 at Myokakuji?
+@6.18
+Lord \#08C2 seems to have taken his own life as well!
+@6.19
+Good! We return in triumph! Back to \41DE to plan our next move.
+@6.21
+Defeated...! So it was impossible after all to defy that Demon King of the Sixth Heaven...
+@6.22
+For now, let us get away... and plan a comeback.
+@6.23
+Curse it...
+@6.24
+*Stab*
+@6.25
+Ugh...?! Wh-what...?!
+@6.26
+Prepare to die!
+@6.27
+\%01! You lot! Who are you?!
+@6.28
+These look like high-ranking samurai. If we bring in their heads, we'll get a fat reward.
+@6.29
+I-I am... to die... in a place... like this...? Gwaah...
+@6.30
+\%01!!
+@6.31
+And so \#000E, whose name has come down to later ages as a traitor without equal, was struck down by nameless peasants of Ogurusu...
+@7.0
+Ngh... \#0A05! To think I was beaten by that monkey-faced upstart!
+@7.2
+Curse it... Curse it!
+@7.5
+Hyaah!
+@7.6
+\%03! Y-you curs! Who are you!?
+@7.9
+\%03!!
+#~ @7.10  And so \#000E, remembered by later ages as a traitor without equal, was killed by nameless peasants of Ogurusu...
+@7.12
+\#1205's force is destroyed! \#0A05 seems to have fled!
+@7.13
+You've done it, \%03!
+@7.14
+Yes... but it's a pity he escaped. Well, no matter... we'll crush him at our leisure.
+@7.15
+Now those who meant to side with \#0A05 may change their minds.
+@7.16
+Yes... Well then, first a triumphant return. And then we shall welcome the Shogun.

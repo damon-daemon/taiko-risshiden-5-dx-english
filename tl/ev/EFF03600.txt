@@ -1,0 +1,411 @@
+@0.0
+Lord \#07FE! \#004B and \#01FA have finally fought a great battle at Sekigahara!
+@0.2
+Lord \#004B was easily defeated, and \#01FA won a great victory!
+@0.4
+Lord \#01FA has punished the daimyo who sided with \#084B.
+@0.6
+But the \#1036 clan, which had stayed neutral, was left untouched by \#09FA, and its strength remained intact.
+#ps2 @0.7  \#004B was executed.
+@0.7
+\#004B has been put to death.
+@1.0
+\%03, Lord \#01FA is secretly arranging marriages with the daimyo!
+@1.1
+What? Isn't it the rule that marriages between daimyo must be reported in advance?
+@1.2
+Lord \#09FA plays dumb and claims it was an oversight...
+@1.3
+Hmm, something smells fishy. I hope nothing comes of it...
+@2.2
+They say Lord \#01FA has sent an envoy to ask whether it is true.
+@3.0
+\%03, grave news!
+@3.1
+The envoy Lord \#01FA sent to Lord \#0074 has returned, but...
+@3.6
+...That is what happened.
+@4.0
+My lord! Congratulations on your great victory!
+@4.1
+Yes, thank you for coming to greet me.
+@4.2
+Sir! And... A letter has arrived from Lord \#004B.
+@4.3
+Let's see... He will deal with the Eastern daimyo, so I am to hurry to \41DF...
+@4.4
+Hmm, so he means to show the unity and authority of us in the West, so that no one goes over to \#09FA...
+@4.5
+I had better go.
+@4.6
+\%03, you come with me.
+@4.8
+Yes, sir!
+@5.0
+Gyobu
+@5.1
+Lord \#08A5
+@5.2
+Jibu
+@5.3
+Lord \#084B
+@5.4
+the Naifu
+@5.5
+\#09FA
+@5.6
+Lord \#17FE, we have been expecting you.
+@5.7
+Oh! Thank you for coming to greet me. And where are the other lords?
+@5.8
+They have all entered the castle already. Please, Lord \#17FE, you too...
+@5.9
+This decisive victory is thanks to all of you... and to the protection of the late Lord Taiko.
+@5.10
+Indeed...
+@5.11
+Now, what shall we do with the Eastern daimyo?
+@5.12
+Those who sided with \Z003 must be punished severely!
+@5.13
+Yes. Then let us confiscate the Eastern lords' domains and share them among the daimyo loyal to the \#1206. Agreed?
+@5.14
+Yes, I have no objection.
+@5.15
+And so the Western daimyo stripped the daimyo who sided with the East of their domains and built a new Toyotomi government...
+@5.16
+The \#127C clan was destroyed.
+@5.17
+The \#10E6 clan was destroyed.
+@5.18
+The \#101A clan was destroyed.
+@5.19
+The \#1035 clan was destroyed.
+@5.20
+The \#1043 clan was destroyed.
+@5.21
+The \#1267 clan was destroyed.
+@5.22
+The \#12F8 clan was destroyed.
+@5.23
+The \#127F clan was destroyed.
+@5.24
+The \#121B clan was destroyed.
+@5.25
+The \#11F3 clan was destroyed.
+@5.26
+The \#1125 clan was destroyed.
+@5.27
+The \#1110 clan was destroyed.
+@5.28
+Now... the \#11FA clan remains. What shall we do?
+@5.29
+We beat them at Sekigahara, but the \#11FA clan still holds formidable power...
+@5.30
+\#01FC's army, which was marching along the Nakasendo, turned back at news of the defeat and is almost untouched...
+@5.31
+Even so, we cannot leave things as they are...
+@5.32
+I have a plan.
+@5.33
+Oh? Let us see it.
+#ps2 @5.34  One: \#01FA and his son \#09FC are to commit seppuku.
+@5.34
+One: \#01FA and his son \#09FC shall atone with their lives.
+@5.35
+second son, Yuki Hideyasu,
+@5.36
+fourth son, Matsudaira Tadayoshi,
+@5.37
+sixth son, Matsudaira Tadateru,
+@5.38
+One: the \#11FA clan is to be inherited by \#09FA's \Z001
+@5.39
+One: the \#11FA clan's lands are to be cut to the two provinces of Musashi and Sagami.
+@5.40
+We present this settlement, and if they accept, we allow the \#11FA clan to survive...
+@5.41
+Splendid! With this plan, I am satisfied too.
+@5.42
+Lord \#0AFC was once Lord Taiko's adopted son, so he would be easier for us to deal with.
+@5.43
+Let us put this in the form of an order, signed jointly by the new Five Regents, and send it to \#01FA.
+@5.44
+But such terms... Lord \#11FA will most likely refuse.
+@5.45
+Then this time we will crush the \#11FA for good!
+@5.46
+At any rate, let's send it and await a reply.
+@5.47
+Then we shall take our leave...
+@6.8
+\%04036! Well done taking \#09FA's head!
+@6.9
+\%0404B, thank you for coming all this way.
+@6.10
+As for the \#11FA clan, it has been decided, after all, to abolish it.
+#ps2 @6.12  Had he quietly cut his belly, his house at least would have survived... Foolish man.
+@6.12
+Had he quietly accepted the demands, his house at least would have survived... Foolish man.
+@6.13
+By decision of the new Five Regents, the \#11FA clan was stripped of its domains.
+@6.14
+As for the \#11FA clan, it has been decided to let \37F1 succeed and allow the house to survive.
+@6.16
+In the end it is much the same as the orders we sent \#09FA before, but...
+@6.17
+Lord \#0A06 was set on crushing the old man of Edo's house, so it could not be helped...
+@6.18
+By decision of the new Five Regents, the \#11FA clan was allowed to survive but lost much of its land.
+@6.19
+And so the \#11FA rebellion that had shaken the realm came to an end.
+@6.20
+\%03, the old lord's army and \#09FA's army fought a decisive battle at the Fuji River!
+@6.21
+And who won?
+@6.22
+Sir, \#01FA and his son \#09FC both lost their lives. A great victory for our side!
+@6.23
+As expected of \%03! I wish I had gone with them.
+@7.0
+Hm, what's that!? It looks like a daimyo's residence is burning...
+@7.1
+What's this? ...A fire!?
+@7.2
+\%03, the residence on fire is Lord \#027C's!
+@7.3
+What on earth happened!?
+@7.4
+What on earth is going on!?
+@7.5
+Lord \37F1 tried to persuade Lord \#0A7C's wife to come into the castle, but she flatly refused.
+@7.6
+Angered, Lord \37F1 forced his way into the residence, and she set it on fire and took her own life...!
+@7.8
+That fool \37F1! \#0A7C is known for loving his wife. In his rage he will side with \#09FA.
+@7.9
+It did not end with the \#127C. Learning of the incident at the \#127C residence, \#004B changed his policy on hostages...
+@7.10
+Instead of gathering hostages in the castle, he had them merely watched.
+@7.11
+\%03! Thank you for rising with us.
+@7.12
+\%03... I too have been sick of \#09FA's high-handedness.
+@7.13
+Everyone gathered here feels the same... Oh yes, \%042D1 has agreed to be our commander-in-chief.
+@7.14
+Oh, \%042D1... True, as the second-ranking regent, \%042D1 is just the man.
+@7.15
+\#09FA has turned around and begun marching west!
+@7.16
+\#09FA is leading the Tokai daimyo along the Tokaido.
+@7.17
+What, leaving the \#1074 clan alone?
+@7.18
+No, \#09FA's second son, \#0AFC, was left at Utsunomiya in Shimotsuke to hold off the \#1074.
+@7.19
+Hmm... He left just enough troops to keep the \#1074 from attacking, and is bringing all the rest to crush us...
+@7.20
+Surely he hasn't just left the \#1074 alone?
+@7.21
+No, \#09FA's second son, \#0AFC, was left at Utsunomiya in Shimotsuke to hold off the \#1074.
+@7.22
+He left just enough troops to keep the \#1074 from attacking, and is bringing the rest to crush us. That's his aim...
+@7.23
+If \#09FA is coming, we must gather all our strength too. Let us go to \51E6!
+@8.0
+\%03, thank you for rising with us! The \#11FA army is gathering at \51E7.
+@8.1
+Then the decisive battle will be somewhere near Sekigahara...
+@8.2
+If we stand united as one, we will surely win.
+@8.3
+I owe the late Lord Taiko more than I can ever repay. Now is the time to repay it!
+@8.4
+\%03, Lord \#0167 and Lord \#0969 have blocked the Nakasendo and are holding back \#01FC's army of 38,000.
+@8.5
+\%04167 has... That's \%04167 for you. If we lose now, I'll never be able to face him.
+@9.0
+\%03! I've been waiting for you!
+@9.1
+What is \#09FA doing?
+@9.2
+It seems he's besieging \41DF.
+@9.3
+\#09FA may have been beaten at Sekigahara, but he is a seasoned veteran. Drop our guard and it will be our heads that roll.
+@9.4
+Yes. Let us proceed with care.
+@9.5
+Very well, we advance!
+@10.1
+The enemy is charging!
+@10.2
+White waves on a black banner... The \#0267 unit! A worthy foe!
+@10.3
+Right! Show them our strength to the full!
+@12.0
+Good, we've beaten the \#0267 unit! How goes the battle!?
+@12.1
+Apart from Lord \#0138, who is struggling a little, our side is pushing them back!
+@12.2
+But the \#113B forces on Mt. Matsuo haven't moved at all.
+@12.3
+Damn \#013B! Sitting on the fence at a time like this!!
+@12.4
+Right! Then we'll support the \#1138 unit...
+@12.5
+Please wait! The \#11FA army is heading our way! I see a golden fan standard among them.
+@12.6
+What! That's \#09FA's standard!
+@12.7
+That \#01FA, whom even Lord Taiko could not beat... Can I really stand against him?
+@12.8
+\%03, you mustn't lose heart!
+@12.9
+Just so, \%03! I'll lend you a hand!
+@12.10
+Oh, \%041CA! Show us the strength that made Lord Taiko call you the bravest in the west!
+@12.11
+Right!
+@12.12
+We mustn't fall behind the \#11CA either. Attack!!
+@12.15
+\#013B has turned traitor! Our army is collapsing!
+@12.23
+The Battle of Sekigahara ended in an Eastern victory, thanks to the betrayal of the \#013B army...
+@12.24
+The Western daimyo were all but wiped out.
+@12.25
+His retreat cut off by the Eastern Army, \#07FE died in the melee.
+@12.26
+He was aged \1006......
+@13.0
+I... I have beaten \#09FA! That \#09FA whom everyone feared...
+@13.1
+Oh yes! How goes the battle!?
+@13.2
+The \#113B forces charged down on the \#11F3 forces, and the enemy fell apart at once. A great victory for our side!!
+@13.3
+Yes! Raise a victory cry!
+@14.0
+After all the trouble of shaking off the \#006E hostages, we have finally come this far...
+@14.1
+We were one step from the realm... How bitter!!
+#ps2 @14.3  \#01FA has killed himself, and \#09FC was beheaded by straggler hunters!
+@14.3
+\#01FA fought until his strength gave out, and \#09FC was struck down by straggler hunters!
+@14.4
+Yes, well done! Now the \#1206 realm is safe!!
+@14.5
+Before the deeds of \#018B, \#07F1 and the rest, \#01FA, who had half the realm in his grasp, finally fell, aged \1006...
+@14.6
+Having lost both \#09FA and \#09FC, the \#11FA clan swiftly declined...
+@14.7
+Ugh, so close...
+@14.8
+Did you think I would lose a field battle so many times?!
+@14.10
+Gahh... H-how bitter...
+@14.11
+\#07FE and the rest staked all on a decisive battle to slay \#01FA in one blow, but fell easily before \#09FA's counterattack.
+@14.12
+\#07FE fought bravely but in vain, and fell at \#09FA's hands, aged \1006...
+@15.0
+It seems everyone is here. Then...
+@15.1
+My lord, a letter has arrived from \%0404B.
+@15.2
+From \%0404B... I wonder what it is?
+@15.3
+It was \#004B's call to arms.
+@15.4
+It listed the many abuses of power \#01FA had committed since the death of \#0205...
+@15.5
+declared that he would raise troops to strike down \#09FA, and called on the daimyo indebted to the Toyotomi to rise with him.
+@15.6
+This is a grave matter. \%03, what do you think?
+@15.8
+(What should I do...)
+@15.9
+Side with \#084B
+@15.10
+Stay neutral
+@15.11
+Mm, I've decided! Our house will join \%0404B!
+@15.12
+Oh, a fine decision!
+@15.13
+Mm, I too have been sick of \#09FA's tyranny.
+@15.14
+Everyone, to arms!
+@15.15
+Our house will not move! That is my decision.
+@15.16
+All of you, take care not to act rashly.
+@15.17
+(I must give him advice here...)
+@15.18
+Urge joining \#084B
+@15.19
+Advise neutrality
+@15.20
+\%03! I think we should join \%0404B!
+@15.21
+If we don't strike down the \#11FA now, \#09FA will slight Lord \#0A06 even more.
+@15.22
+Right! I understand!! Our house will join \%0404B!
+@15.24
+\%03! I think our house should stay put and watch how things go!
+@15.25
+If we side with neither and stay neutral, the house will come to no harm.
+@15.26
+If we side with one and they lose, there's no guarantee the house will survive!
+@15.27
+Mm, your opinion makes sense. The \#1036 house will side with neither and stay neutral!
+@15.29
+It seems everyone is here. Then...
+@15.30
+My lord, the old lord is here.
+@15.31
+What! The old lord? Show him in at once!
+@15.32
+What! The old lord? Show him in at once!
+@15.34
+\%03, sorry to intrude. Something unexpected has happened, and I want your opinion.
+@15.35
+As you all know, \%041FA is preparing in his domain to march against the \#1074.
+@15.36
+The truth is, it seems this was all arranged by Lord \#004B and Lord \#020E, a senior retainer of the \#1074 house.
+@15.37
+What! Then...!
+@15.38
+What! Then...!
+@15.39
+Yes. \%0404B will raise troops against the \#11FA. \%0404B has sent out a call to arms.
+@15.40
+But I am torn. I came to consult you before deciding.
+@15.42
+\%03, what is your opinion?
+@15.43
+(Now, which should I recommend...)
+#~ @15.52  If we side with one and they lose, there's no guarantee the house will survive!
+@15.54
+I'm glad I came after all. Well, farewell.
+@16.0
+Now, it seems everyone is here. Then...
+@16.1
+\%03, a report! \#01FA has rejected the orders sent by the Five Regents.
+@16.2
+The \#11FA clan is gathering all its strength and preparing for war.
+@16.3
+As I thought... There was no way \#09FA would accept those orders.
+@16.4
+Sir. And he asks Lord \#0836 to lead the vanguard of the campaign against the \#11FA!
+@16.5
+As you have all heard, the rebel \#01FA is to be punished, and we have been ordered to march.
+@16.6
+We must strike down \#09FA at all costs and end this war!
+@16.8
+On the orders of the Five Regents, the old lord has led an army out to punish \#09FA.
+@16.9
+Understood. Thank you for the report.

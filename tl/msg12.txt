@@ -1,0 +1,2461 @@
+@0
+castle
+@0.1
+village
+@0.2
+fort
+@0.3
+town
+@5
+
+@5.1
+
+@5.2
+
+@5.3
+
+@6
+As you wish.
+@6.1
+Leave it to me.
+@6.2
+Yes, sir!
+@6.3
+I'll surely live up to your hopes.
+@6.4
+Await good news.
+@6.5
+Yes, sir!
+@6.6
+I'll surely live up to your hopes.
+@6.7
+Await good news.
+@7
+Monkey, lead an army at once\nand follow me.
+@8
+We're holding a large-scale drill.\nI'll use it to teach you about field battles.
+@9
+Are you ready?
+@10
+My lord, I'm terribly sorry.\nI still have work to finish.
+@11
+Whaaat!?\nThen finish your work and be quick about it.
+@12
+I'm most grateful.\nI'll get ready at once.
+@13
+Monkey, you've finally come.
+@14
+In this drill, imagine my castle\nis under siege, and you rush\nto reinforce it mid-siege.
+@15
+First, my army.
+@16
+The attackers' supreme commander\nis Lord Tokugawa.
+@17
+Then there's the army led by\nMomochi Sandayu of the Iga band,
+@18
+and the army led by Kuki Yoshitaka\nof the Kumano navy: they're the attackers.
+@19
+And your army has come\nto reinforce us.
+@20
+Now, the very basics first:\nhow an army is made up.
+@21
+An army is made of forces called units\n(sonae); an army has at most 5 units.
+@22
+Each unit is led by an officer.\nThe officer's abilities greatly affect\nthe strength of the unit.
+@23
+When the army commander's unit can't\nfight on, the whole army is out.
+@24
+If that's the main army, you lose,\nhowever many reinforcements there are.
+@25
+The commander is the foundation,\nunlike the others. Remember that well.
+@26
+A unit can't fight on when it retreats,\nwhen its troops reach 0,\nor when its morale reaches 0.
+@27
+However, there's an exception where\nthe main army retreats without losing.
+@28
+That's when an army that marched from\na base, like mine, retreats into it.
+@29
+Then either the base's reinforcements\nfight alone, or if none are left,\nit goes back to the siege.
+@30
+So if I retreat into the castle now,\nMonkey, your army alone\nmust scatter the enemy.
+@31
+In other cases, if the main army\nretreats, you lose.\nRemember that well.
+@32
+I'll engrave it on my heart.
+@33
+If my unit, as commander of an army\nthat marched from a base,\nhits 0 troops or 0 morale,
+@34
+then we lose,\nand the castle falls to the enemy.
+@35
+If I can retreat into the castle,\neven if you're beaten, I can regroup\nthere and go back into the siege.
+@36
+So it's like this:\nif you can retreat, my lord, the castle\nwon't fall even if I'm beaten,
+@37
+but if your unit hits 0 troops\nor 0 morale, the castle will fall.
+@38
+Yes, you seem to understand.\nAnd if the enemy commander,\nLord Tokugawa, can't fight on, we win.
+@39
+The army attacking the castle is driven off,\nand there's no siege after the field battle.
+@40
+I see...\nPutting the enemy commander out\nis how we defend the castle.
+@41
+Exactly.\nNext I'll teach you how to read unit info.
+@42
+Before that, the very basics:\nmove the cursor\nand confirm with OK.
+@43
+When the cursor is on a unit,\nits info is shown like this.\nShall we look at your army's units?
+@44
+So you have Hanbee and Kanbee in your army.\nThen let them explain instead of me.
+@45
+As the old lord commands,\nKanbee and I will humbly explain.
+@46
+First, commanding the army.\nThe order in which units get commands\ngoes army by army.
+@47
+Once all units of one army\nhave acted, the next army moves.
+@48
+So if you're careless about position,\nyou'll draw the enemy's concentrated attack.\nPlease take care.
+@49
+When you're army commander, my lord,\nas now, you can select and control\nevery unit in the army directly.
+@50
+If you're not the commander,\nyou control only your own unit.
+@51
+Then wait until your own\nunit's turn comes round.
+@52
+By the way, my lord,\ndo you know how you're judged\nin battle?
+@53
+By the number of enemies defeated,\nof course.
+@54
+That's right in a sense, but in field\nbattles you're judged by the size\nof your "merit".
+@55
+Killing enemy troops raises merit,\nso you're not wrong, my lord.
+@56
+Wiping out enemy units, above all the\ncommander's unit, raises merit greatly.\nKeep that in mind as you fight.
+@57
+Win with high merit and you get\nextra merit on top,\nand earn many honours.
+@58
+So wiping out units earns merit more\nefficiently than blind attacks.\nVery well, understood.
+@59
+Next, terrain.\nField terrain includes road, plain, forest,\nhills, sea, river and high mountain.
+@60
+Where the cursor is,\nterrain info is shown, like this.
+@61
+"Pl" is plain, "Rd" road, "Fo" forest,\n"Hi" hills, "Mt" high mountain,\n"Se" sea and "Rv" river.
+@62
+A unit's attack and defence change\ndepending on where it is.\nHigh mountains can't be entered.
+@63
+Hills have the best effect, then forest,\nthen plain and road,\nand sea and river the worst.
+@64
+So with the same attack,\na unit on hills deals a bigger blow\nthan one on a plain.
+@65
+Exactly.\nLikewise, when attacked on hills,\nyou can limit the damage.
+@66
+If hills have a drawback,\nit's that they cost much movement,\nso the move range gets smaller.
+@67
+Movement depends on each unit's\ntroop type. Next, troop types.
+@68
+Troop types include infantry,\ncavalry, guns and more.
+@69
+My unit is cavalry, so let me\nshow you how cavalry moves.
+@70
+This area is where it can move.\nOn land, cavalry has\nthe greatest movement.
+@71
+And in normal attacks, made next\nto an enemy, cavalry has\nthe greatest striking power.
+@72
+But cavalry can't attack from range,\nso keep that in mind when using it.
+@73
+Now let me actually move and attack.
+@74
+When an enemy is within range,\na red hex is shown;\nselect that hex to attack.
+@75
+The enemy is confused.\nWhen attack and defence differ hugely,\nunits can become confused or berserk.
+@76
+Even the attacking side,\nif countered by a strong defender,\ncan fall into confusion or frenzy,
+@77
+so take care against strong foes.
+@78
+Confused or berserk allies can't be\ncontrolled; berserk units attack friend and foe alike.
+@79
+Confused or berserk units lose defence,\nso when the enemy is confused or\nberserk, it's a chance to crush them.
+@80
+Brother, my unit is infantry,\nso next I'll show you\nhow infantry moves.
+@81
+Infantry can attack\nwith bows from range,\nor with normal attacks up close.
+@82
+Bow attacks draw no counter, but\ncan't be used next to an enemy\nand are weaker than normal attacks.
+@83
+They also weaken with distance.\nKeep that in mind.\nNow, a bow attack.
+@84
+My lord, my unit is guns.\nLet me show you their power.
+@85
+Gun units can attack\nby shooting from range,\nor with normal attacks up close.
+@86
+Unlike infantry, gun units are weak\nin normal attacks, but strong\nwhen shooting from range.
+@87
+As with bows, shooting is stronger\nthe closer the enemy,\nand it has a longer range than bows.
+@88
+Gun units' defence, movement and\nnormal attacks are low\ncompared with cavalry and infantry.
+@89
+So keeping a good distance from the\nenemy is the best way to use guns.
+@90
+My lord, my unit is cannon.\nLet me explain cannon units.
+@91
+Cannon units can attack\nby bombarding from range,\nor with normal attacks up close.
+@92
+Like guns, cannon are weak\nin normal attacks, but strong\nwhen bombarding from range.
+@93
+Bombarding has an even longer range\nand more power than shooting,\nand is also stronger up close.
+@94
+While bombarding is powerful,\ncannon units' defence, normal attacks\nand movement are all the lowest.
+@95
+So the art of commanding cannon is to\nkeep the enemy at bay and use\nthe power of long-range bombardment.
+@96
+Bombarding works the same\nas shooting and bows,\nso here I'll show you a special skill.
+@97
+You can choose a special skill\nyou know that can be used.\nSkills cost skill points.
+@98
+Even a skill you know can't be used\nwithout enough skill points.\nThink about when to use them.
+@99
+Skill points recover 1 each turn.\nYou start with more the higher your Tactics\nand the skill for your troop type.
+@100
+What's the skill for my troop type?
+@101
+The skill key to using a troop type:\nInfantry for infantry, Cavalry for cavalry,\nGunnery for guns and cannon.
+@102
+In a ninja band, the troop type\nis always ninja,\nso the skill is Ninjutsu;
+@103
+in a pirate band, the troop types\nare all made of ships,\nso the skill is Navy.
+@104
+I see, so that's how it is...\nBest to train every day so I can\nhandle any troop type.
+@105
+By the way, Kanbee, what special\nskill would you use here?
+@106
+Let me see...\nI'll use "Volley Fire",\nwhich bombards 3 times in a row.
+@107
+My lord, field battles involve not only\ndaimyo armies but also\nninja and pirate armies.
+@108
+So I've asked Lord Momochi Sandayu\nto teach you about ninja bands.
+@109
+I am Momochi Sandayu.\nNinja bands, our Iga band included,\nare made up of ninja alone.
+@110
+Ninja units move less\nthan cavalry,\nbut come next after them.
+@111
+Like infantry, they can attack with bows,\nbut, again like infantry, bows are\nweaker than normal attacks.
+@112
+What you must not forget\nis that there are several\nskills only ninja can use.
+@113
+When you face us, be ready\nto take those skills.\nFor example...
+@114
+Not a moment of carelessness or a gap...\nTruly worthy of a ninja.
+@115
+I've asked Lord Kuki Yoshitaka\nof the pirate bands to teach you\nabout pirate bands.
+@116
+I'm Kuki Yoshitaka.\nAs the name says, pirate bands live at sea,\nand our Kumano navy is no exception.
+@117
+So pirate troop types are all ships,\nsekibune, large ships and so on.
+@118
+A sekibune carries up to 10 troops,\na large ship up to 100.
+@119
+Large ships beat sekibune\nin both movement and attack.
+@120
+Sekibune can attack with bows,\nlarge ships can shoot,\nand we can also go ashore.
+@121
+But it seems you pirates of the sea\nare poor at fighting on land.
+@122
+I hear your attack and defence are\nbelow infantry, and you can't\nattack from range like bows.
+@123
+That's one side of the truth.\nBut the same goes for you daimyo houses\nand ninja on seas and rivers.
+@124
+You can't attack from range either,\nand unless your Navy is high, you need\nmore movement than us on water.
+@125
+Seas and rivers are where our forces'\nattack and defence rise most.
+@126
+Just as you say.\nOn water, pirate bands have the strength\nto overwhelm us.
+@127
+Lord Kuki,\nthank you for a valuable talk.\nMy lord, mark his words well.
+@128
+Understood.\n(So it's folly to go on the water against\npirates; lure them onto land, is that it?)
+@129
+Monkey,\nit seems you've heard the basics:\nvictory terms, merit, terrain, troop types.
+@130
+Yes!
+@131
+There's one more thing I must teach you.
+@132
+What might that be?
+@133
+Sometimes retreating\nis the best plan.\nSo I'll teach you how to retreat.
+@134
+When the castle's reinforcements arrive\nduring a siege, that is, a case like this...
+@135
+an army that marched from the castle,\nlike mine, can retreat when next to it.\nWhen the commander retreats, all units do.
+@136
+Otherwise, you can retreat by reaching\nthe outermost edge of the field.
+@137
+But you leave the battlefield,\nso the army is disbanded.\nDon't use it unless you must.
+@138
+Good, that will do.\nPut what you learned here to use in real battle.
+@139
+I surely will.
+@140
+Reinforcements have arrived!\nShall we sally out too?
+@141
+I've been waiting for those words.\nLet's run wild to our hearts' content!
+@142
+Understood.\nThis time we'll stand by and watch.
+@143
+At this rate we'll only starve.\nWe'll seize this chance for a decisive battle!
+@144
+My lord, enemy reinforcements have arrived!\nLet's strike them down.
+@145
+Enemy reinforcements, you say!\nLaughable. I'll crush them all together!
+@146
+Enemy reinforcements have arrived!\nPerfect prey for us to win glory.
+@147
+Enemy reinforcements, you say!\nVery well, they'll relieve my boredom!
+@148
+We've clashed with the {02}{0B}e army!\nIt's battle!
+@149
+It's a wako raid!\nLet's show them our strength.
+@150
+Cursed wako!\nBut attacking our army\nwas a mistake they'll regret!
+@151
+Men, the pirates are attacking!\nTo your posts!\nWe'll make this sea their grave!
+@152
+We'll carry provisions into {02}{15}e!\nIf our unit 1 gets next to the base, we succeed.\nOther units, cover it!
+@153
+{02}{01}g's unit can't be controlled\nbecause of {02}yd.
+@154
+Unit {02}o{CC} of {02}{01}g's army\nis delegated.
+@155
+All units of {02}{01}g's army\nexcept unit 1 are delegated.
+@156
+Unit {02}o{CC} of {02}{01}g's army\nis no longer delegated.
+@157
+No units of {02}{01}g's army\nare delegated now.
+@158
+Which unit will you give orders to?
+@159
+What order will you give?
+@160
+Choose where to move or whom to attack.
+@161
+Choose where to move.
+@162
+Choose whom to attack.
+@165
+Which army's info will you view?
+@166
+The {02}yd army is acting.
+@167
+{02}{01}g's army is acting.
+@168
+Unit {02}o{CC} of {02}{01}g's army\nof {02}{0B}e is acting.
+@169
+{02}{01}g's army of {02}{0B}e is acting.
+@170
+The {02}{0B}e army is acting.
+@171
+There's nowhere to move.
+@172
+Argh, a pitfall!
+@173
+A pitfall!?\nWhat a cheap trick!
+@173.1
+Grr, what a sneaky trick!
+@174
+Caught in {02}yd,\nthe effect of {02}zd is lost.
+@175
+To fall into a pit\nour own side dug! Unthinkable!
+@176
+Aaaagh, I'm falling!
+@177
+This is no ordinary pitfall!\nThose cursed wretches set a trap!
+@177.1
+Ugh, to fall for a trap... a blunder.
+@178
+Unit {02}o{CC} of {02}{01}g's army\nlost {02}p{CB} troops.
+@179
+Hahaha!\nYou're caught in the net. Prepare yourselves!
+@180
+Hit by a surprise attack,\nthe effect of {02}yd is lost.
+@181
+We've brought provisions!
+@182
+{01}C3{00}, I thank you.
+@182.1
+{01}C3{00}, thank you very much.
+@182.2
+Uncle, I thank you.
+@182.3
+I thank you.\nTo be saved by my own child, truly.
+@182.4
+I thank you.\nI'm blessed to have a grandchild like you.
+@182.5
+{01}C3{00}, I thank you.
+@182.6
+{01}C3{00}, I thank you.
+@182.7
+{01}C3{00}, I thank you.
+@182.8
+{01}C3{00}, I thank you.
+@182.9
+{01}C3{00}, I thank you.
+@182.10
+{01}C3{00}, well done.
+@182.11
+You did well.\nI thank you.
+@182.12
+{01}C3{00}, I thank you.
+@182.13
+{01}C3{00}, well done.
+@182.14
+You did well.\nI thank you.
+@182.15
+{01}C3{00}, I thank you.
+@182.16
+{01}C3{00}, well done.
+@182.17
+You did well.\nI thank you.
+@183
+Where will you attack?
+@184
+{02}{01}g has mastered\nthe {02}yd skill.
+@185
+Using {02}yd will end the effect\nof {02}zd. Is that OK?
+@186
+The time for hiding is over.\nNow we go on the attack!
+@187
+So they were hiding...\nCursed wretches,\nI'll repay this without fail!
+@188
+That unit has already acted.
+@189
+That unit is confused\nand can't be given orders.
+@190
+That unit is berserk and can't be given orders.\nIt may attack allies; it's dangerous.
+@191
+{02}zd can't be used during {02}yd.
+@192
+Unit {02}o{CC} of {02}{01}g's army\nwas hit by a sudden gust,\nand {02}p{CB} troops were thrown into the sea.
+@193
+Unit {02}o{CC} of {02}{01}g's army\nwas hit by a sudden gust,\nand some troops seem to have gone overboard.
+@194
+Unit {02}o{CC} of {02}{01}g's army\nwas swept away by the wind.
+@195
+Unit {02}o{CC} of {02}{01}g's army\nwas swept away by the wind, and\n{02}p{CB} troops were thrown into the sea.
+@196
+Unit {02}o{CC} of {02}{01}g's army\nwas swept away by the wind, and some\ntroops seem to have gone overboard.
+@197
+There's no one to use {02}yd on.
+@198
+No ally will join in {02}yd.\nIs that OK?
+@199
+In which direction will you use {02}yd?
+@200
+On which unit will you use {02}yd?
+@201
+It has no effect on units that are berserk,\nconfused, stalled on water or provoked. OK?
+@202
+{02}yd is already in effect.\nUse it again?
+@203
+Swift as the wind, quiet as the forest,\nfierce as fire, immovable as the mountain: fight so!!
+@204
+{02}yd took effect on unit {02}o{CC}.
+@205
+Because of {02}yd, {02}zd\nhad no effect on unit {02}o{CC}.
+@206
+There are no other units in the army,\nso there's no one to use\n"{02}yd" on.
+@207
+The skill "{02}yd" has no effect on units that are berserk, confused, stalled on water, or provoked.
+@208
+That unit's commander isn't the\narmy commander, so it can't use {02}yd.
+@209
+That unit is stalled on water,\nso it can't use {02}yd.
+@210
+Take this letter to {01}C:{00}.\nThen they'll act as my other self!
+@210.1
+Take this letter to unit {02}o{CC}.\nThen they'll act as my other self!
+@211
+So no unit was affected\nby the skill "{02}yd".
+@212
+Form the Butterfly Formation!\nWe'll show them our strength!!
+@212.1
+Order all forces into\nthe Butterfly Formation.\nI'll give them something to see.
+@213
+Every unit of ours around the enemy\nwill attack at once!!
+@213.1
+Tell every soldier around the enemy:\nattack at once and crush them!
+@214
+They're moths flying into the flame!\nWe'll deal a great blow with Thunder Blast!!
+@214.1
+Good, now!\nUse Thunder Blast.\nCatch the enemy in one sweep.
+@215
+Fire, fire, keep firing!\nShoot down every enemy!!
+@215.1
+Rapid fire!\nMow down every enemy around us!
+@216
+Take aim!\nWe'll fire a volley!!
+@216.1
+Fire a volley!\nWipe them out at once!
+@217
+Now show the fruits of your training!\nShoot down every foe with your fine bows!!
+@217.1
+Rain arrows!\nShoot all who block our way!
+@218
+I'll show the true worth of mounted guns!\nReady guns!\nFiiire!!
+@218.1
+Shower the enemy with bullets!\nDon't let them raise their heads!!
+@219
+Good, the enemy is wavering!\nCharge!\nFollow me!!
+@219.1
+Follow me, men!\nThe guns have the enemy wavering!\nCharge in!!
+@220
+Fire, men!\nFire, fire, keep firing!!
+@220.1
+Good, a water charge!\nWe'll break through them!
+@221
+Now is our chance!\nTrample the enemy!
+@221.1
+Good, the enemy has left an opening!\nAll of you, follow me! Charge!
+@222
+Follow me, men!\nBreak through!\nWe'll punch through the enemy!
+@222.1
+Force your way through!\nScatter them in the name of our glory!
+@223
+Burn the enemy to ashes in crimson flames!\nStrike them with our fury!!
+@223.1
+Fools who block our way!\nI'll burn you up with Crimson Flame!
+@224
+Follow me, men!\nWe'll use the Wheel Charge\nand land a mighty blow!
+@224.1
+All forces, prepare the Wheel Charge!\nWhen ready, we attack!
+@225
+Send spies into the enemy camp!\nConfuse them with Bewilder!
+@225.1
+War isn't just brute force.\nConfuse the enemy with Bewilder.
+@226
+Loose the spies!\nMake them fight each other!
+@226.1
+Use Infighting!\nThis trick will work on that lot now.
+@227
+Which unit will you make them fight?
+@228
+Enemy attack!\nWe're under attack!!
+@229
+What!?\nThen we attack too!!
+@230
+Hm? Our allies should be that way.\nDid someone trick us into fighting each other!?\nSeize anyone suspicious!
+@231
+Counterattack!\nStrike them down!!
+@232
+Our allies should be that way.\nCheck at once!\nThis may be the Infighting trick!
+@233
+D-damn!\nIt seems we were attacking allies.\nUgh, what a dirty trick...!
+@234
+Stop attacking, they're allies!\nTo fall for a trick like this!
+@235
+Good, ready the horoku!\nShow the enemy the power of gunpowder!
+@235.1
+Hit the enemy hard with horoku!
+@236
+Use Demon Legs!\nWe'll show this battlefield\nhow fast our army is!
+@236.1
+Use Demon Legs!\nWe'll race across the field like a comet!
+@237
+We'll spring the Decoy Ambush!\nMen, don't slip up!
+@237.1
+Use the Decoy Ambush.\nLet the enemy fall for our plan.
+@238
+Good, fall back as planned.\nDraw the enemy in nicely.
+@238.1
+Fall back.\nThe enemy will follow, none the wiser.\nHahaha!
+@239
+Dig a pit with ninja tricks!\nMake it one they fall in\nto the very bottom of hell!
+@239.1
+Good, set a ninja pitfall!\nA trap they'll never climb out of once they fall!
+@240
+Send spies onto the enemy ships!\nFlood them and throw them into a panic!
+@240.1
+Hmm... time for Flooding.\nHeh heh, I can already picture them panicking!
+@241
+Send assassins into the enemy camp!\nStrike their general!
+@241.1
+Without their general they're a rabble.\nSend assassins; strike the general in the dark.
+@242
+Villain! An intruder!\nTo me, men, an enemy assassin!
+@243
+Ugh, it failed...\nNo matter, I'll make use of this\nfailure two or three moves ahead.
+@244
+Snipe the enemy general!\nIf the general can't lead, they're a rabble.
+@244.1
+I'll show them our marksmanship!\nSnipe the enemy general!
+@245
+Ugh......\nC-curse you...
+@246
+We seem to have wounded their general.\nThat unit's strength is halved.
+@247
+What are you aiming at?\nYou'll never hit with that feeble aim.\nHahaha!
+@248
+Ugh, missed...
+@249
+Loose spies on the enemy!\nBreak their chain of command and drive them mad!
+@249.1
+Send spies into the enemy unit\nand drive it berserk.
+@250
+Good, send spies into the enemy camp!\nLeave their ships unable to sail!
+@250.1
+Work to keep the enemy from moving!\nIf they can't move, we can attack at will.
+@251
+When our strength is one, the earth\nshakes and the heavens tremble!\nFear not, none can match us!!
+@251.1
+All of you, whether you leave a name\nor die here depends on what you do now.\nDon't flinch, we will surely win!!
+@252
+Hide your presence!\nVanish with Mist Veil.
+@252.1
+Hide from the enemy\nas if vanishing into mist.
+@253
+We'll use Skill Break!\nUndo the effects of the enemy's skills!
+@253.1
+We'll undo the enemy's skills!\nTake those cocky fools down a peg.
+@254
+Form three ranks!\nKeep firing without pause!\nWhen you've fired, fall back and reload!
+@254.1
+Volley Fire!\nI'll shoot them down utterly.
+@255
+Charge, men!\nShow them the might of our Red Guard!
+@255.1
+Red Guard charge!\nCrush all who oppose us without mercy!
+@256
+Shoot, men!\nShoot, shoot, keep shooting!\nGive the enemy a hail of arrows!
+@256.1
+Loose!\nGive the enemy a storm of arrows!
+@257
+Work together!!\nAttack in step with the units beside us!
+@257.1
+Attack with our neighbouring allies!\nAll at once!
+@258
+Prepare Godspeed!\nNow's the time to show your training!
+@258.1
+Use Godspeed!\nWe'll show them our speed!
+@259
+Men, break all who stand in our way!\nStrike the enemy at once!
+@259.1
+All forces, charge!\nShow them the full power of our cavalry!
+@260
+Form lines of three!!\nThose behind, get ready and wait!\nThose in front, take careful aim!
+@260.1
+Prepare Team Volley!\nThat will extend our range for a while.
+@261
+Ready the Gale Ships!\nDawdle and you'll be left behind!
+@261.1
+Gale Ships!\nWe'll move like creatures with wings!
+@262
+Dig pitfalls!\nHurt the enemy when they pass!
+@262.1
+Good, use Pitfall.\nHeh heh, if they pass here they'll fall in and suffer.
+@263
+Show all the strength you have!\nThen victory is ours!
+@263.1
+Dig deep for strength!\nWe're far from done yet!
+@264
+We'll recover!\nSo we can show all our strength.
+@264.1
+Recover!\nWe'll get out of this bad spot somehow.
+@265
+Archers, forward!\nGive them a good taste\nof our bows!
+@265.1
+Pour every arrow we have into their camp!\nLoose without rest!
+@266
+Laugh, all of you!\nThe enemy fears us and can do nothing.\nWahahaha!
+@266.1
+Pity the troops led by such a one.\nFew will get home alive.
+@267
+Rouse your hearts!\nHere's where we show our spirit!
+@267.1
+This is the decisive moment.\nDo well here, and rewards and honour are yours.
+@268
+Men, use the quick-loaders!\nFire, fiiire!\nKeep on firing!
+@268.1
+Men, fire, fiiire!\nShow them the power of quick-loaders!
+@269
+Here's where we stand firm!\nPush the enemy back!!
+@270
+Hide yourselves!\nRace across the field unseen by the enemy.
+@271
+Loose, loose!\nRain fire arrows on their camp!
+@271.1
+Shoot fire arrows!\nBurn their camp to the ground in hot flames!
+@272
+Raise a war cry!\nStrike fear into them and break their hearts!
+@272.1
+Know your place!\nIf you block our way we'll show no mercy.\nIf you value your lives, stand back!
+@273
+Send spies into the enemy!\nSpread false reports and sap their morale!
+@273.1
+Time for a devilish scheme.\nSend in spies and sap their morale.
+@274
+Fools who don't know their place!\nIf you'd rather not be hunted down,\nyou'd best flee quickly!
+@274.1
+You're no match for us!\nIf you value your lives, withdraw!
+@275
+The enemy is nothing but cowards!\nLaugh at them, all of you!
+@275.1
+Small fry are an eyesore.\nBegone, wherever you like.
+@276
+Loose spies on the enemy unit!!\nScatter gold among their troops, unseen\nby their general, and turn them to our side!
+@276.1
+Even hell's verdicts can be bought.\nScatter gold among their troops and win them over.
+@277
+{02}{01}g's unit\ncouldn't win over a single soldier.
+@277.1
+{02}{01}g's unit\nwon over {02}o{CB} soldiers.
+@278
+{02}{01}g's unit\ndidn't lose a single soldier.
+@278.1
+{02}{01}g's unit\nlost {02}o{CB} soldiers to the enemy.
+@279
+We'll use Clairvoyance!\nWe'll smoke out enemies and traps\nhidden to fool our eyes!
+@280
+{02}yd also hits enemies\nnext to the target.
+@281
+But no unit in range\nis next to another enemy.\nUse {02}yd anyway?
+@282
+But no other enemy is adjacent.\nUse {02}yd anyway?
+@283
+A hidden ally has been found!
+@284
+We've found a hidden enemy!
+@285
+{02}zd can't be used because of {02}yd.
+@286
+{02}zd can't be used while in {02}yd.
+@287
+Hm, what's that!\nThere are enemies hiding behind\nthe unit we attacked!
+@288
+Calm doooown!\nDon't fall for the enemy's ploy.
+@289
+Unit {02}o{CC} of {02}{01}g's army\ndidn't {02}yd.
+@290
+Using {02}yd will end\nthe effect of {02}zd.\nIs that OK?
+@291
+It's next to other units,\nso {02}yd can't be used.
+@292
+This is the only unit of ours the enemy can see.\nIt's being watched, so {02}yd can't be used.
+@293
+Once hidden you can fool the enemy anywhere,\nbut you can only hide in hills or woods.
+@294
+There's nowhere to use {02}yd.
+@295
+Where will you use {02}yd?
+@296
+,\nso {02}zd would be pointless.
+@297
+No unit in the army can gain more morale{01}C{08}0
+@298
+Morale can't rise any further{01}C{08}0
+@301
+Morale of unit {02}o{CC} of {02}{01}g's army\nrose by {02}p{CB}.
+@302
+Morale of unit {02}o{CC} of {02}{01}g's army\nfell by {02}p{CB}.
+@303
+Morale of unit {02}o{CC} of {02}{01}g's army\nis already at max and didn't rise.
+@304
+Water Stall worked: unit {02}o{CC}\nof {02}{01}g's army can't move for a while.
+@305
+Hit by Water Stall,\nthe effect of {02}yd is lost.
+@306
+Hm, the enemy is acting oddly.\nThey must have sent in spies.\nSeize every suspicious one!
+@307
+Unit {02}o{CC} of {02}{01}g's army\nwarded off Water Stall.
+@308
+W-why, you, I won't take that...
+@309
+Don't rise to the enemy's taunts!\nIt's a lure!
+@310
+Unit {02}o{CC} of {02}{01}g's army\nrose to the taunt.\nIt can't be controlled until it calms down.
+@311
+Unit {02}o{CC} of {02}{01}g's army\nrose to the taunt.
+@312
+Having risen to the taunt,\nthe effect of {02}yd is lost.
+@313
+Unit {02}o{CC} of {02}{01}g's army\ndidn't rise to the taunt.
+@314
+Using Skill Break on {02}yd\ncan undo the effect of {02}zd.
+@315
+Use {02}yd?
+@316
+There's no target for {02}yd.
+@317
+Which unit will you recover?
+@318
+The Recover art frees a unit\nfrom {02}yd and returns it to normal.
+@319
+Recover the selected unit?
+@320
+"Intimidate" also lowers the morale\nof enemies next to the target.
+@321
+"Crimson Flame" hits not only the target\nbut also land enemies in a straight line\nfrom it.
+@322
+But {02}yd isn't lined up\nwith other units to hit.\nUse Crimson Flame anyway?
+@323
+Which unit will you {02}yd?
+@324
+No named officer is within {02}yd range.\nThere's no point in {02}yd\nan officer easily replaced.
+@325
+The enemy generals nearby seem already hurt\nand don't show themselves where they can be shot.\nSorry, sniping isn't possible.
+@326
+The selected unit's leader isn't a named officer.\nThey're easily replaced, so there's\nno point in {02}yd.
+@327
+The enemy generals nearby seem already hurt,\nand their guards are several times stronger.\nSorry, an assassination isn't possible.
+@328
+Decoy Ambush attacks the enemy, then\nfalls back one space to lure them in.
+@329
+But it can't move back,\nso Decoy Ambush can't be used.
+@330
+No enemy unit of the same type is adjacent,\nso Win Over can't be used.
+@331
+To win troops over in secret,\nthe enemy unit needs a fair number of troops.
+@332
+But the adjacent units\ndon't have that many troops,\nso Win Over can't be used.
+@333
+This unit can't take any more troops.
+@334
+There are no war funds,\nso Win Over can't be used.
+@335
+That unit's troop type isn't {02}yd,\nso Win Over can't be used on it.
+@336
+That unit has too few troops\nfor Win Over to work.
+@337
+Decide how much to spend.\nThe limit is 5 kan per soldier\nwho can be won over.
+@337.1
+Decide how much to spend.\nThe limit is this army's\ntotal war funds.
+@338
+Clairvoyance reveals\nhidden enemies and traps.\nUse it?
+@339
+Filled in the pitfall the enemy set\nwith {02}yd, making it useless.
+@340
+Ugh, it seems the enemy found us.
+@341
+The enemy found our {02}yd trap.\nSorry, it no longer has any effect.
+@342
+Nothing was found.
+@343
+Nothing was discovered.
+@344
+{02}yd is in effect,\nso there's no need for {02}zd.
+@345
+There's no one to use Skill Break on.
+@346
+Which unit will you use Skill Break on?
+@347
+Win Over failed.
+@348
+Which unit will be the body double?
+@349
+Fear not, rouse your hearts!\nBishamonten's blessing is granted\nonly to those who show their strength!
+@350
+{02}yd is in effect.
+@351
+Don't let the {02}yd get wet!\nWe should be able to fire in this weather for a while!!
+@364
+Where will you build a fence?
+@365
+Wait. Is that OK?
+@366
+If the supreme commander retreats,\nall allied armies will disband.\nIs that OK?
+@367
+If the army commander retreats,\nthe army will disband.\nIs that OK?
+@368
+Retreat.\nIs that OK?
+@369
+The supreme commander retreated, so\nall armies on the {02}{0B}e side\nhave disbanded.
+@370
+Good, we've beaten the enemy!
+@370.1
+The enemy unit is wiped out.\nWell done, all of you.
+@371
+Good, we've beaten the enemy!
+@371.1
+Running away? How pathetic.\nMen, raise a victory cry!
+@372
+The army commander's unit {02}yd,\nso the rest of {02}{01}g's army\nof {02}{0B}e has collapsed.
+@373
+The army commander's unit {02}yd,\nso the rest of the {02}{0B}e army\nhas collapsed.
+@374
+The army commander's unit {02}yd,\nso the {02}zd army has collapsed.
+@375
+The army commander's unit {02}yd,\nso the rest of {02}{01}g's army has collapsed.
+@376
+The supreme commander's unit {02}yd,\nso all armies on the {02}{0B}e side\nhave collapsed.
+@377
+Unit {02}o{CC} of {02}{01}g's army\nof {02}{0B}e {02}yd.
+@378
+Unit {02}o{CC} of the {02}{0B}e army\n{02}yd.
+@379
+Unit {02}o{CC} of the {02}zd army\n{02}yd.
+@380
+Unit {02}o{CC} of {02}{01}g's army\n{02}yd.
+@381
+The effect of {02}yd has worn off unit\n{02}o{CC} of {02}{01}g's army of {02}{0B}e.
+@382
+The effect of {02}yd has worn off\nunit {02}o{CC} of {02}{01}g's army.
+@383
+My unit wiped out...\nWhat a disaster.
+@383.1
+Ugh... You'll pay for this!\nI'll get you back without fail!
+@383.2
+We can't fight without troops.\nWe must pull back.
+@383.3
+Hmm!\nNo choice; we must pull back.
+@383.4
+We can't fight without troops.\nWe must pull back.
+@383.5
+Hmm!\nNo choice; we must pull back.
+@384
+I'll clear this disgrace without fail!
+@384.1
+Bah,\nhow could I\nmake such a mess of it!
+@384.2
+My unit has collapsed...\nIt can't be helped.
+@384.3
+I won't forget this humiliation!
+@384.4
+My unit has collapsed...\nIt can't be helped.
+@384.5
+I won't forget this humiliation!
+@385
+Bah,\nto be beaten in a place like this!
+@385.1
+So this is the end...\nHow bitter.
+@386
+The troops seem shaken.\nI must rally them!
+@386.1
+Bah, how feeble!\nThe men have lost their nerve.
+@386.2
+Men, don't lose heart!\nWe haven't lost yet!
+@387
+My unit is wiped out...\nSo the contest is decided.
+@388
+Our unit {02}o{CC}\nhas been wiped out...
+@389
+It's started to rain!
+@390
+So it's started to rain.
+@391
+The {02}yd has stopped!
+@392
+The {02}yd seems to have stopped.
+@393
+Unit {02}o{CC} of {02}{01}g's army\nof {02}{0B}e has recovered from {02}yd.
+@394
+The effect of {02}yd has worn off unit {02}o{CC}.
+@395
+My lord, sorry to keep you waiting.\nWe've just arrived!
+@396
+I've been waiting for you.\nNow we bring down {02}{03}f!
+@397
+My lord, enemy reinforcements have appeared!
+@398
+So they've come after all!\n...Don't panic.\nOur only target is {02}{03}f!
+@399
+This time it's my complete victory.
+@399.1
+This time it's a fine win for me.
+@399.2
+This time it's my win.
+@399.3
+This time it's my loss.
+@399.4
+This time it's a complete defeat.\nStill, your command\nwas impressive.
+@400
+Splendid.\nI'm impressed.
+@400.1
+Quite a fine command.\nPut this experience to use in real battle.
+@400.2
+This time it's my loss.\nShow that strength in real battle too.
+@400.3
+Though you lost to me,\nit wasn't for nothing.\nLearn from it.
+@400.4
+Everything takes practice.\nPractise, and you'll surely\nshow a fine command.
+@401
+Good, one pirate down for a start.\nBut there's much more to do.
+@401.1
+That's more progress on the mission.
+@402
+Good, the mission is done.\nI must hurry back to report.
+@403
+What's this?\nTo achieve nothing at all...
+@403.1
+To fall behind in a place like this...
+@404
+Ugh............\nTo fail the mission...
+@405
+Good, perfect!\nThe drill couldn't have gone better.
+@405.1
+Good, that went well!\nThis drill must have taught the troops\nthe finer points of war.
+@405.2
+A satisfying result, at least.\nThe troops did well.
+@405.3
+Fair enough, I suppose.\nThe drill should have some effect.
+@405.4
+Hmm, not a result to be proud of.\nWas my command poor...
+@405.5
+Not wasted on the troops, but\nnot an effective drill either...
+@405.6
+With this result, the drill\nwon't do much good.
+@405.7
+What am I doing!\nThis drill will hardly do any good.
+@406
+Father
+@406.1
+Mother
+@406.2
+Sister
+@406.3
+Brother
+@406.4
+Brother
+@406.5
+Brother
+@406.6
+Grandfather
+@406.7
+Aunt
+@406.8
+Uncle
+@406.9
+Lord {02}{02}f
+@406.10
+Lord {02}{02}f
+@406.11
+Lord {02}{02}f
+@406.12
+Lord {02}{02}f
+@407
+That's {01}Cv0's banner...
+@407.1
+Is that unit {01}Cv0's...
+@407.2
+That's surely {01}Cv0's unit...
+@408
+That banner belongs to {01}Cv0.
+@408.1
+An attack led by {01}Cv0?
+@408.2
+!? An attack by {01}Cv0...
+@413
+{01}Cw0\nBut in the Sengoku world, I show no mercy.
+@413.1
+{01}Cw0\nBlood ties or not, you're my enemy now.\nPrepare yourself.
+@413.2
+{01}Cw0\nHitting you with all you taught me is how I honour you!\nMen, show no mercy!!
+@414
+{01}Cx0\nShall I see {01}Cv0's strength?
+@414.1
+{01}Cw0\nBlood ties or not, you're my enemy now!\nIn the Sengoku world, I show no mercy!!
+@414.2
+{01}Cw0\nNow we meet as foes, I'll bear no grudge\nif I fall to you! Men, attack!!
+@415
+{01}Cw0\nMy martial arts teacher or not, I won't hold back.\nAll of you, stay sharp!
+@415.1
+{01}Cw0\n...All of you, their commander is my teacher.\nDon't let your guard down.
+@415.2
+{01}Cw0\nMy teacher,\nlet me see your skill on the battlefield!
+@416
+{01}Cw0\n{01}Cv0, today I'll teach you\nnot martial arts but what war is!
+@416.1
+{01}Cw0\n...All of you, their commander is my student.\nDon't let your guard down.
+@416.2
+{01}Cw0\nI, {02}{01}f, will show I have the edge\nnot just in martial arts but on the battlefield!
+@417
+{01}Cw0\nA fellow student of my school?\nInteresting, let me see your skill!
+@417.1
+{01}Cw0\n...All of you, their commander is from my school.\nDon't let your guard down.
+@417.2
+{01}Cw0\nA duel on the battlefield, not in the dojo.\nVery well. Here I come!
+@418
+{01}Cw0\nI'd rather not have {01}Cv0 as a foe,\nbut this is the Sengoku era; so be it!
+@418.1
+{01}Cw0\nI don't want to fight a friend, but I lead an army.\nI'll set feelings aside and strike! Men, attack!
+@418.2
+{01}Cw0\nA warrior fights with all their might out of respect,\nall the more for a friend! I'm coming in earnest!!
+@419
+{01}Cw0\nSo even a traitor found a place to live.\nBut only until today.
+@419.1
+{01}Cw0\nMeeting here must be a sign to finish the traitor.\nMen, show no mercy!
+@419.2
+{01}Cw0\nI owe you for past service, and hate your betrayal.\nNow I forget both and give it my all!
+@420
+{01}Cw0\nNow you've shown yourself before me,\nI'll destroy you here!
+@420.1
+{01}Cw0\nI'd like to renew old ties, but I can't.\nOn the battlefield, I just strike you as a foe!
+@420.2
+{01}Cw0\nI haven't forgotten my debt to my old lord.\nBut now I'll crush you for the realm's sake!
+@421
+{01}Cw0\nTo fight someone I once served...\nBut in the Sengoku era, there's no room for pity!
+@421.1
+{01}Cw0\nEnemies with one I once served...\nI chose this road, but it's bitter irony.
+@421.2
+{01}Cw0\nI haven't forgotten my debt to my old lord.\nBut now I'll crush you for the realm's sake!
+@422
+{01}Cw0\nHow dare you show yourself before me.\nI'll teach the faithless what strength is.
+@422.1
+{01}Cw0\nWe meet at last! Now I'll avenge\nyour betrayal.
+@422.2
+{01}Cw0\nTraitor with a beast's heart!\nI'll deal you the hammer of justice!
+@423
+{01}Cw0\nIt's been a while. Had you stayed my vassal,\nyou wouldn't lose here. Poor fool.
+@423.1
+{01}Cw0\nHere I'll show you your mistake\nin not following me back then.
+@423.2
+{01}Cw0\nI bear no grudge, but for the realm, for Japan,\nyou'll fall here.
+@424
+{01}Cw0\nTo meet a former subordinate in battle...\nBut in the Sengoku era, so be it!
+@424.1
+{01}Cw0\nTo meet a former subordinate as a foe in battle;\nfate is full of irony.
+@424.2
+{01}Cw0\nI haven't forgotten how you served me.\nBut now I'll crush you for the realm's sake!
+@425
+{01}Cw0\nTo the faithless, we are King Enma of hell.\nI'll teach you that.
+@425.1
+{01}Cw0\nI cut down anyone who blocks my way,\nand why hold back against a traitor?
+@425.2
+{01}Cw0\nTraitor with a beast's heart!\nI'll deal you the hammer of justice!
+@426
+{01}Cw0\nWe once shared the same goals, but now you're a foe.\nMen, become demons and strike!
+@426.1
+{01}Cw0\n{01}C"{00} is someone I must defeat someday.\nThen I'll do it here, now!
+@426.2
+{01}Cw0\nI bear no grudge, but for the realm, for this land,\nyou'll fall here.
+@427
+{01}Cw0\nWe served the same power, but that's the past.\nNow you're only a foe. Men, show no mercy.
+@427.1
+{01}Cw0\nI cut down anyone who blocks my way.\nI bear {01}C"{00} no grudge, but this is fate.
+@427.2
+{01}Cw0\nI bear no grudge, but for the realm, for this land,\nyou'll fall here.
+@428
+{01}Cx0\nEven so, I can't let myself be struck down.
+@428.1
+{01}Cx0\nBut I won't give way here.\nI'll show no mercy either.
+@428.2
+{01}Cx0\nI lead an army too.\nI can't back off just because we're kin.
+@429
+{01}Cx0\nThe greenhorn is quite good.\nI'll have to get serious.
+@429.1
+{01}Cx0\nI'll praise you for a splendid fight.\nBut you can't beat me yet.
+@429.2
+{01}Cx0\nBut that's not enough to bring me down.
+@430
+{01}Cx0\nThe dojo and the battlefield differ.\nTeacher or not, I won't lose here.
+@430.1
+{01}Cx0\nA foe who knows your moves is trouble,\nall the more if it's your teacher.
+@430.2
+{01}Cx0\nAs expected of my teacher.\nBut I won't fall behind!
+@431
+{01}Cx0\nBut you're still green.
+@431.1
+{01}Cx0\nQuite good; I'll praise you as your teacher.\nBut that's not enough to bring me down yet.
+@431.2
+{01}Cx0\nAs a swordsman, you're not to be taken lightly.\nBut that alone won't win.
+@432
+{01}Cx0\nAs expected of my fellow student.\nBut I won't give way either.
+@432.1
+{01}Cx0\nI'd say 'as expected of my school', but an attack\nlike that won't bring me down yet.
+@432.2
+{01}Cx0\nAs a swordsman, you're not to be taken lightly.\nBut that alone won't win.
+@433
+{01}Cx0\nTo meet like this...\nSo this is the Sengoku world.
+@433.1
+{01}Cx0\nSo we meet as foes in battle.\nThen so be it; we fight with all we have.
+@433.2
+{01}Cx0\nTo meet in such a place...
+@434
+{01}Cx0\nAn attack like that is nothing.
+@434.1
+{01}Cx0\nYou used to attack so sharply...\nDoes betrayal make you this weak?
+@434.2
+{01}Cx0\nHahaha, is that all?\nA traitor can't bring me down.
+@435
+{01}Cx0\nIs that the best you can do?\nI was right to give up on you.
+@435.1
+{01}Cx0\nWhy I gave up on you,\nthis battle will show you.
+@435.2
+{01}Cx0\nAttacks like that won't bring me down.
+@436
+{01}Cx0\nTo meet a general I once served in such a place...\nSuch is the Sengoku world.
+@436.1
+{01}Cx0\nTo meet here a general I once served;\nit can only be fate.
+@436.2
+{01}Cx0\nTo meet in such a place...
+@437
+{01}Cx0\nAs always, you're all talk.\nBut that alone won't bring me down.
+@437.1
+{01}Cx0\nA faithless fool can't bring me down.
+@437.2
+{01}Cx0\nTraitor, regret your folly.
+@438
+{01}Cx0\nAn attack like that is nothing.
+@438.1
+{01}Cx0\n{01}Cv0, that won't bring me down.
+@438.2
+{01}Cx0\n{01}Cv0, I felt that attack less than a mosquito bite!
+@439
+{01}Cx0\nOnce we're on opposite sides, old debts and loyalty\nmean nothing... Truly the Sengoku era.
+@439.1
+{01}Cx0\nI remember how you served me.\nBut I won't let you beat me.
+@439.2
+{01}Cx0\nThat won't bring me down.\nBut you did learn something under me.
+@440
+{01}Cx0\nIs that all!\nThe faithless are powerless.
+@440.1
+{01}Cx0\nWould I lose to a traitor?
+@440.2
+{01}Cx0\nA beast-hearted traitor's strength can never\nbring down one who keeps faith!
+@441
+{01}Cx0\nI won't fall to that.
+@441.1
+{01}Cx0\nNo desertion? Too strait-laced, {01}Cv0.\nThe ambitious will just use you.
+@441.2
+{01}Cx0\nQuite good, but that won't bring me down.
+@442
+{01}Cx0\nFighting {01}Cv0 here must be fate.\nThis is the Sengoku era.
+@442.1
+{01}Cx0\n{01}Cv0, you'd block my way?\nVery well, I'll take you on.
+@442.2
+{01}Cx0\nQuite good, but that won't bring me down.
+@443
+Wiped out...\nAm I still no match for {01}Cv0?
+@443.1
+Ugh, wiped out.\nAs expected of {01}Cv0.
+@444
+To lose to {01}Cv0...\nHave I grown feeble?
+@444.1
+I was careless.\nOn the battlefield, age and youth don't matter.
+@444.2
+{01}Cv0, splendid.\nHeh, you've grown strong.
+@445
+As expected of {01}Cv0,\nsplendid in command of war too!\nI was wiped out, yet somehow I feel refreshed.
+@445.1
+I'm still no match for my teacher...\nLike martial arts, I can only close in by daily practice.
+@445.2
+Wiped out, then.\n{01}Cv0 learned the art of armies today, not just of the sword.
+@446
+Wiped out...\n{01}Cv0, splendid.\nToday I learned the art of war.
+@446.1
+...So I've been wiped out.\nAs a teacher, I should be glad.
+@446.2
+My unit is wiped out.\nTo lose to my student, I still have far to go.
+@447
+My unit is wiped out.\nBut I enjoyed {01}Cv0's command.\nNext time, without fail!
+@447.1
+I was wiped out, but that was fun.\nStay well, {01}Cv0, until our rematch.
+@447.2
+As expected of {01}Cv0.\nThis time I lose.
+@448
+My unit is wiped out.\n{01}Cv0, splendid. I'd like to stand\non a battlefield beside you someday.
+@448.1
+As expected of {01}Cv0.\nThis time I lose.
+@448.2
+I was wiped out, but that was fun.\nStay well, {01}Cv0, until our rematch.
+@449
+Wiped out by a traitor...\nC-curses.
+@449.1
+Wiped out...!\nUgh, I'll repay this without fail!
+@449.2
+I owed you for past service and hated your betrayal in equal\nmeasure, but this defeat tips it to hate. Just you wait.
+@450
+Wiped out!\nToday I admit defeat.\nBut next time it won't be so!
+@450.1
+My unit is wiped out.\nBeaten by the old superior I gave up on;\nwhat irony.
+@450.2
+My unit is wiped out!\nIf we meet again, it won't be so!
+@451
+As expected of {01}Cv0.\nThis time I lose.
+@451.1
+My unit is wiped out. Today I admit defeat.\nBut next time it won't be so!
+@451.2
+My unit is wiped out.\n{01}Cv0 is truly someone I'd rather not fight.
+@452
+Wretch, you forget the favour I showed you\nand shame me again... How bitter.
+@452.1
+My unit wiped out!\nBeaten by a beast-hearted scoundrel...\nI'll never forget this humiliation!!
+@452.2
+My unit is wiped out.\nJust you wait, this isn't over.\nEven if I die, someone will carry on my will!
+@453
+My unit is wiped out. Today I admit defeat.\nBut next time it won't be so!
+@453.1
+My unit is wiped out!\nIf we meet again, it won't be so!
+@453.2
+To lose to {01}Cv0...\nHave I grown feeble?
+@454
+Ugh, is this the end...
+@454.1
+My unit is wiped out.\nHow bitter...
+@454.2
+Wiped out by a former subordinate.\nToday I'll praise {01}Cv0.\nIf we meet again, I'll win without fail!
+@455
+Beaten by the faithless, what shame.\nEven if I fall to hell, I'll never forget it.
+@455.1
+Wiped out by a traitor of all people;\nwhat a fool I am. I'll avenge this someday.
+@455.2
+My unit wiped out!\nBeaten by a beast-hearted scoundrel...\nI'll never forget this humiliation!!
+@456
+Ugh, is this the end...
+@456.1
+My unit is wiped out!\nIf we meet again, it won't be so!
+@456.2
+Wiped out!\nToday I admit defeat.\nBut next time it won't be so!
+@457
+Ugh, is this the end...
+@457.1
+Wiped out...\nWith so many foes about, to lose to an old acquaintance;\nwhat irony.
+@457.2
+My unit is wiped out.\nAs expected of {01}Cv0.
+@458
+{01}Cv0 hasn't grown feeble.\n{02}{01}f has grown, that's all.
+@458.1
+I've repaid what {01}Cv0 once taught me.
+@458.2
+Thanks to {01}Cv0's teaching I can survive this\nSengoku world. Winning doesn't mean I'll neglect it.
+@459
+I had the edge, it seems.
+@459.1
+You've become quite good,\nbut you're no match for me yet.
+@459.2
+{01}Cv0,\nin the Sengoku world, even kin are prey to the strong.\nLearn that from this defeat.
+@460
+I managed to wipe them out, but\nas expected of {01}Cv0,\nskilled in command of war too.
+@460.1
+I won thanks to good troops.\nI mustn't think I've surpassed my teacher;\npride invites defeat.
+@460.2
+Phew, I only wiped out my teacher's unit thanks\nto good troops. Had it been one on one...
+@461
+{01}Cv0, today I taught you how war is fought.\nIf we meet again, you'll be an even stronger foe.
+@461.1
+Phew, I managed to wipe them out.\nIf {01}Cv0 learns from this defeat,\nthey'll grow even stronger.
+@461.2
+You've become quite good,\nbut you're no match for me yet.
+@462
+Though wiped out, {01}Cv0 commanded well.\nThey've learned from my teacher, after all.
+@462.1
+That was fun.\n{01}Cv0, it reminded me that victory is fortune's whim.
+@462.2
+As expected of {01}Cv0.\nThough my unit wiped out {01}Cv0's, I learned much.
+@463
+{01}Cv0,\nnext time I'd like to stand\non the battlefield as your comrade.
+@463.1
+That was fun.\nIt reminded me that victory is fortune's whim.
+@463.2
+Such is the Sengoku era; forgive me.
+@464
+Now do you see?\nThis is my strength.
+@464.1
+Heaven has punished the traitor!
+@464.2
+As expected, you were no match for us.\nThat's what comes of breaking faith.
+@465
+Serving a fool and dying young is folly!\nI was right to give up on you.
+@465.1
+Small, so small.\nFalling here shows how small\n{01}Cv0 is.
+@465.2
+I act for the sake of the realm.\nOf course I beat {01}Cv0,\nwho calls that betrayal.
+@466
+Such is the Sengoku era; forgive me.
+@466.1
+{01}Cv0,\nsuch is the law of the Sengoku world; forgive me.
+@466.2
+Sengoku ways or not,\nI hope this is the last time\nI fight {01}Cv0, whom I revere.
+@467
+Now do you see, traitor!
+@467.1
+Now do you feel the hammer of justice!
+@467.2
+Did you think you could win,\ntraitor!
+@468
+This is the Sengoku world.\nThe strong win; remember that well.
+@468.1
+Now do you see?\nThis is my strength.
+@468.2
+Come at me as often as you like.\nHowever often you come, you'll only\nbe beaten by me. Hahaha!
+@469
+This is the Sengoku world.\nThe strong win; remember that well.
+@469.1
+This too is the way of the Sengoku era. Forgive me.
+@469.2
+There's no way {01}Cv0 could beat me.\nThe result was decided the moment\n{01}Cv0 stood before me.
+@470
+Now do you see, traitor!
+@470.1
+Now do you feel justice's fury,\nyou fool!
+@470.2
+Beast-hearted scoundrel,\nnow do you feel the fury of the faithful!!
+@471
+Such is the Sengoku era; forgive me.
+@471.1
+The difference between {01}Cv0 and me\nis seeing which way the realm is going.\nIt seems that shows here too.
+@471.2
+You were wiped out because\n{01}Cv0 was too soft.\nLearn from it well.
+@472
+Such is the Sengoku era; forgive me.
+@472.1
+As expected of {01}Cv0.\nThough my unit wiped out {01}Cv0's, I learned much.
+@473
+The enemy flinched; now's our chance!\nWe attack too!
+@473.1
+We won't be outdone!\nWe'll press the attack!
+@473.2
+Let's seize this chance\nand hurt them even more!
+@473.3
+Ora ora ora ora oraaa!\nTake our attack!
+@473.4
+Let not one soldier escape!\nAttack in waves!
+@474
+Archers, forward!\nDon't miss this chance!
+@474.1
+Let's seize this chance\nand hurt them even more!
+@474.2
+A corner of their line has broken!\nDon't miss this chance!
+@474.3
+Don't let up the attack!\nWe'll settle it at once!
+@475
+Don't miss this chance!\nFire, fiiire!
+@475.1
+Let's seize this chance\nand hurt them even more!
+@475.2
+The enemy is in a panic!\nGive them a hail\nof bullets!
+@475.3
+Now show the fruits of your training!\nFiiire!
+@476
+Ride the momentum, one more shot!
+@476.1
+Don't let the enemy rest easy!\nOur unit attacks too!
+@476.2
+Don't miss this chance!\nFinish them in one go!\nFire, fiiire!!
+@476.3
+Bombard!\nShow them our army's true strength!
+@477
+Good, we'll press the attack too!\nLet them taste our three-wave assault!
+@477.1
+Give the enemy no rest!\nWe press the attack too!
+@477.2
+Ride the momentum, we attack too!
+@477.3
+The waves of attack have them wavering!\nA chance to scatter them!
+@478
+Our unit rides this push too!\nArchers, forward!\nRain arrows on the enemy!
+@478.1
+We won't be outdone by the other units!\nShow them what our arrows can do!
+@478.2
+Loose!\nOur unit rides this momentum too!
+@478.3
+Don't fall behind the other units!\nOur unit attacks too!
+@479
+Gunners, ready!\nFiiire!!
+@479.1
+We'll seize this chance too!\nFire, fiiire!
+@479.2
+Our chance has come!\nFire, fiiire, crush the enemy!
+@479.3
+Our side is on a roll!\nRide it and fiiire!
+@480
+Tasty prey lying about!\nDon't hold back, fiiire!
+@480.1
+We'll seize this chance too!\nShow them the power of cannon!
+@480.2
+Broken by our army,\nthe enemy is in a panic!\nIt's our chance, fiiire!
+@480.3
+Don't let them catch their breath!\nFiiire!
+@481
+Now, whom shall we send as envoy?
+@482
+Other demands will be discarded.\nIs that OK?
+@483
+Other offers will be discarded.\nIs that OK?
+@484
+Are these terms OK?
+@485
+Call off the talks?
+@486
+Is this counter-proposal OK?
+@487
+Call off the counter-proposal?
+@488
+Decide the terms of the talks.
+@489
+Decide the terms to propose.
+@490
+Decide the counter-proposal.
+@491
+If I may say so,\nnow is the perfect chance for talks.\nPlease send me as envoy.
+@491.1
+Now is the perfect chance for talks.\nWon't you leave it to me?
+@491.2
+If I may say so,\nnow is the perfect chance for talks.\nThe enemy commander {02}{03}g is {01}C{09}1\nPlease send me as envoy.
+@491.3
+If I may say so,\nnow is the perfect chance for talks.\nPlease send me as envoy.
+@492
+It's not yet time for talks.\nPlease wait a while.
+@492.1
+It's not yet time for talks.\nPlease wait a while.
+@492.2
+It's not yet time for talks.\nWait a while.
+@492.3
+It's not yet time for talks.\nWait a while.
+@493
+Understood.\nI leave it to Lord {02}{02}g.
+@493.1
+Understood.\nI leave it to Lord {02}{02}g.
+@493.2
+Very well.\nI appoint {02}{02}g as envoy.
+@493.3
+Good, very well.\nI appoint {02}{02}g as envoy.
+@494
+As you wish.
+@494.1
+Right, I'll surely bring back a peace.
+@494.2
+As you wish.
+@494.3
+Yes! I'll bring back a peace.
+@494.4
+Yes, sir!
+@494.5
+I'll surely live up to your hopes.
+@495
+Talks, you say...\n\n\nNo, we'll hold talks another time.
+@495.1
+Talks, you say...\n\n\nNo, we'll hold talks another time.
+@495.2
+Talks...\n\n\nNo, we'll hold talks another time.
+@495.3
+Hmm, talks...\n\n\nNo, we'll hold talks another time.
+@496
+If I may say so,\nthe battle is going against us.\n\nThe best plan is to sue for peace\nwhile we still can.\nPlease send me as envoy.
+@496.1
+The battle seems to be going against us.\nI think we should sue for peace now.\nWon't you leave it to me?
+@496.2
+If I may say so,\nthe battle is going against us.\n\nThe best plan is to sue for peace\nwhile we still can.\n\nLuckily, the enemy commander {02}{03}g\nis {01}C{09}1\nPlease send me as envoy.
+@496.3
+If I may say so,\nthe battle is going against us.\n\nThe best plan is to sue for peace\nwhile we still can.\nPlease send me as envoy.
+@497
+Understood.\n\n\nI leave it to {01}C3{00}.
+@497.1
+Hmm, understood.\n\n\nI leave it to {01}C3{00}.
+@497.2
+Very well.\n\n\nI appoint {01}C3{00} as envoy.
+@497.3
+Hmm, very well.\n\n\nI appoint {01}C3{00} as envoy.
+@498
+Now that we're this far behind,\nit can't be helped.\n\nI leave it to {01}C3{00}.
+@498.1
+Hmm, now that we're this far behind,\nit can't be helped.\n\nI leave it to {01}C3{00}.
+@498.2
+Now that we're this far behind,\nit can't be helped.\n\nI appoint {01}C3{00} as envoy.
+@498.3
+Hmm, now that we're this far behind,\nit can't be helped.\n\nI appoint {01}C3{00} as envoy.
+@499
+If I may say so,\nI must say the battle is\nvery grim now.\nIt's time to sue for peace.\nPlease send me as envoy.
+@499.1
+The battle is very grim.\nI think we should sue for peace.\nWon't you leave it to me?
+@499.2
+If I may say so,\nI must say the battle is\nvery grim now.\nIt's time to sue for peace.\nLuckily, the enemy commander {02}{03}g\nis {01}C{09}1\nPlease send me as envoy.
+@499.3
+If I may say so,\nI must say the battle is\nvery grim now.\nIt's time to sue for peace.\nPlease send me as envoy.
+@500
+I ask {01}C3{00} to serve as envoy\nto {02}{03}g's army.
+@500.1
+I ask {01}C3{00} to serve as envoy\nto {02}{03}g's army.
+@500.2
+I order {01}C3{00} to serve as envoy\nto {02}{03}g's army.
+@500.3
+I order {01}C3{00} to serve as envoy\nto {02}{03}g's army.
+@501
+What brings you here?
+@501.1
+What brings you here?
+@501.2
+What have you come for?\nYou've got some nerve\nshowing your face before me.
+@501.3
+What have you come for?
+@501.4
+What brings you here?
+@502
+It's only a matter of time\nbefore {02}{15}e falls.\nTake responsibility,\nand we'll spare your officers and troops.
+@502.1
+It's only a matter of time\nbefore {02}{15}e falls.\nTake responsibility,\nand we'll spare your officers and troops.
+@502.2
+Bluster all you like, it's only\na matter of time before {02}{15}e falls.\nTake responsibility,\nand we'll spare your officers and troops.
+@502.3
+It's only a matter of time\nbefore {02}{15}e falls.\nTake responsibility,\nand I'll spare your officers and troops.
+@502.4
+It's only a matter of time\nbefore {02}{15}e falls.\nTake responsibility,\nand we'll spare your officers and troops.
+@503
+It's only a matter of time\nbefore {02}{15}e falls.\nFurther resistance is pointless.\nSurrender.
+@503.1
+It's only a matter of time\nbefore {02}{15}e falls.\nFurther resistance is pointless.\nSurrender.
+@503.2
+Bluster all you like, it's only\na matter of time before {02}{15}e falls.\nFurther resistance is pointless.\nSurrender.
+@503.3
+It's only a matter of time\nbefore {02}{15}e falls.\nSurrender.\nI'll treat you well.
+@503.4
+It's only a matter of time\nbefore {02}{15}e falls.\nFurther resistance is pointless.\nSurrender.
+@504
+It's only a matter of time\nbefore {02}{15}e falls.\nHand over {02}{15}n,\nand we'll spare your officers and troops.
+@504.1
+It's only a matter of time\nbefore {02}{15}e falls.\nHand over {02}{15}n,\nand we'll spare your officers and troops.
+@504.2
+Bluster all you like, it's only\na matter of time before {02}{15}e falls.\nHand over {02}{15}n,\nand we'll spare your officers and troops.
+@504.3
+It's only a matter of time\nbefore {02}{15}e falls.\nHand over {02}{15}n,\nand we'll spare your officers and troops.
+@504.4
+It's only a matter of time\nbefore {02}{15}e falls.\nHand over {02}{15}n,\nand we'll spare your officers and troops.
+@505
+It's only a matter of time\nbefore {02}{15}e falls.\nSubmit to our house,\nand we'll withdraw our troops.
+@505.1
+It's only a matter of time\nbefore {02}{15}e falls.\nSubmit to our house,\nand we'll withdraw our troops.
+@505.2
+Bluster all you like, it's only\na matter of time before {02}{15}e falls.\nSubmit to our house,\nand we'll withdraw our troops.
+@505.3
+It's only a matter of time\nbefore {02}{15}e falls.\nSubmit to our house,\nand we'll withdraw our troops.
+@505.4
+It's only a matter of time\nbefore {02}{15}e falls.\nSubmit to our house,\nand we'll withdraw our troops.
+@506
+The battle clearly favours us.\nEnd your alliance with {02}{0B}e,\nand we'll withdraw our troops.
+@506.1
+The battle clearly favours us.\nEnd your alliance with {02}{0B}e,\nand we'll withdraw our troops.
+@506.2
+Come now, don't say that.\nThe battle clearly favours us.\nEnd your alliance with {02}{0B}e,\nand we'll withdraw our troops.
+@506.3
+The battle clearly favours us.\nEnd your alliance with {02}{0B}e,\nand we'll withdraw our troops.
+@506.4
+The battle clearly favours us.\nEnd your alliance with {02}{0B}e,\nand we'll withdraw our troops.
+@507
+The battle favours us.\nShall we settle on this?\nThen we'll withdraw our troops.
+@507.1
+The battle favours us.\nShall we settle on this?\nThen we'll withdraw our troops.
+@507.2
+Come now, don't say that.\nThe battle favours us.\nShall we settle on this?\nThen we'll withdraw our troops.
+@507.3
+The battle favours us.\nShall we settle on this?\nThen we'll withdraw our troops.
+@507.4
+The battle favours us.\nShall we settle on this?\nThen we'll withdraw our troops.
+@508
+The battle is even.\nThere's no need to shed more blood.\nWill you agree to a ceasefire?
+@508.1
+The battle is even.\nThere's no need to shed more blood.\nWill you agree to a ceasefire?
+@508.2
+Come now, don't say that.\nThe battle is even.\nThere's no need to shed more blood.\nWill you agree to a ceasefire?
+@508.3
+The battle is even.\nThere's no need to shed more blood.\nWill you agree to a ceasefire?
+@508.4
+The battle is even.\nThere's no need to shed more blood.\nWill you agree to a ceasefire?
+@509
+Now that it's come to this, it can't be helped.\nFrom now on I'll serve {02}{0B}e.
+@509.1
+Hmm, now that it's come to this, it can't be helped.\nFrom now on I'll serve {02}{0B}e.
+@510
+You've made a wise decision.\nI too am glad\nwe could make peace.
+@510.1
+You've made a wise decision.\nI too am glad\nwe could make peace.
+@510.2
+You've made a wise decision.\nI too am glad\nwe could make peace.
+@511
+You've made a wise decision.\nWith this, I've fulfilled\nmy great duty.
+@511.1
+You've made a wise decision.\nWith this, I've fulfilled\nmy great duty.
+@511.2
+You've made a wise decision.\nWith this, I've fulfilled\nmy great duty.
+@512
+Do you mock me!\nI would never betray my lord.
+@512.1
+Do you mock me!\nI would never betray my lord.
+@513
+I bow to no one.\nPlease leave.
+@513.1
+I bow to no one.\nPlease leave.
+@514
+Submit, you say?\nI refuse.
+@514.1
+Submit, you say?\nDon't make me laugh.
+@515
+End our alliance, you say?\nYou have no right to ask that.
+@515.1
+End our alliance, you say?\nYou have no right to ask that.
+@516
+A pity, but it can't be helped.\nYou'll regret this later.
+@516.1
+A pity, but it can't be helped.\nYou'll regret this later.
+@516.2
+A pity, but it can't be helped.\nYou'll regret this later.
+@517
+Now that it's come to this, it can't be helped.\nI accept those terms.
+@517.1
+Hmm, now that it's come to this, it can't be helped.\nI'll accept those terms.
+@517.2
+Hmm, now that it's come to this, it can't be helped.\nI'll accept those terms.
+@518
+I can't accept those terms.\nWe'll meet next on the battlefield.
+@518.1
+I can't accept those terms.\nWe'll meet next on the battlefield.
+@518.2
+I can't accept those terms.\nWe'll meet next on the battlefield.
+@519
+I can't accept such terms.
+@519.1
+I can't accept such terms.
+@519.2
+I can't accept such terms.
+@520
+Even if we fight on, it's only\na matter of time before {02}{15}e falls.\n\nIn exchange for my life,\nplease spare the lives\nof my officers and troops.
+@520.1
+Even if we fight on, it's only\na matter of time before {02}{15}e falls.\n\nIn exchange for my life,\nwill you spare my officers and troops?
+@520.2
+Now, don't say that.\nEven if we fight on, it's only\na matter of time before {02}{15}e falls.\nIn exchange for my life,\nwill you spare my officers and troops?
+@520.3
+Even if we fight on, it's only\na matter of time before {02}{15}e falls.\n\nIn exchange for my life,\nwill you spare my officers and troops?
+@520.4
+Even if we fight on, it's only\na matter of time before {02}{15}e falls.\n\nIn exchange for my life,\nwill you spare my officers and troops?
+@521
+Even if we fight on, it's only\na matter of time before {02}{15}e falls.\nOur commander {02}{03}g will take responsibility.\nPlease, will you spare my officers and troops?
+@521.1
+Even if we fight on, it's only\na matter of time before {02}{15}e falls.\nOur commander {02}{03}g will take responsibility.\nWill you spare my officers and troops?
+@521.2
+Now, don't say that.\nEven if we fight on, it's only\na matter of time before {02}{15}e falls.\nOur commander {02}{03}g will take responsibility.\nWill you spare my officers and troops?
+@521.3
+Even if we fight on, it's only\na matter of time before {02}{15}e falls.\nOur commander {02}{03}g will take responsibility.\nWill you spare my officers and troops?
+@521.4
+Even if we fight on, it's only\na matter of time before {02}{15}e falls.\n\nOur commander {02}{03}g\nwill take responsibility.\nWill you spare my officers and troops?
+@522
+Even if we fight on, it's only\na matter of time before {02}{15}e falls.\nWe surrender.\nWill you end the battle here?
+@522.1
+Even if we fight on, it's only\na matter of time before {02}{15}e falls.\nWe surrender.\nWill you end the battle here?
+@522.2
+Now, don't say that.\nEven if we fight on, it's only\na matter of time before {02}{15}e falls.\nWe surrender.\nWill you end the battle here?
+@522.3
+Even if we fight on, it's only\na matter of time before {02}{15}e falls.\nWe surrender.\nWill you end the battle here?
+@522.4
+Even if we fight on, it's only\na matter of time before {02}{15}e falls.\nWe surrender.\nWill you end the battle here?
+@523
+Even if we fight on, it's only\na matter of time before {02}{15}e falls.\nWe'll hand over {02}{15}n.\nWill you spare my officers and troops?
+@523.1
+Even if we fight on, it's only\na matter of time before {02}{15}e falls.\nWe'll hand over {02}{15}n.\nWill you spare my officers and troops?
+@523.2
+Now, don't say that.\nEven if we fight on, it's only\na matter of time before {02}{15}e falls.\nWe'll hand over {02}{15}n.\nWill you spare my officers and troops?
+@523.3
+Even if we fight on, it's only\na matter of time before {02}{15}e falls.\nWe'll hand over {02}{15}n.\nWill you spare my officers and troops?
+@523.4
+Even if we fight on, it's only\na matter of time before {02}{15}e falls.\nWe'll hand over {02}{15}n.\nWill you spare my officers and troops?
+@524
+The battle is clearly against us.\nWe submit.\nWill you withdraw your troops?
+@524.1
+The battle is clearly against us.\nWe submit.\nWill you withdraw your troops?
+@524.2
+Now, don't say that.\nThe battle is clearly against us.\nWe submit.\nWill you withdraw your troops?
+@524.3
+The battle is clearly against us.\nWe submit.\nWill you withdraw your troops?
+@524.4
+The battle is clearly against us.\nWe submit.\nWill you withdraw your troops?
+@525
+The battle is going against us.\nWe'll hand over these goods.\nWill you withdraw your troops?
+@525.1
+The battle is going against us.\nWe'll hand over these goods.\nWill you withdraw your troops?
+@525.2
+Now, don't say that.\nThe battle is going against us.\nWe'll hand over these goods.\nWill you withdraw your troops?
+@525.3
+The battle is going against us.\nWe'll hand over these goods.\nWill you withdraw your troops?
+@525.4
+The battle is going against us.\nWe'll hand over these goods.\nWill you withdraw your troops?
+@526
+{01}C3{00}, the battle is even.\nThere's no need to shed more blood.\nWill you agree to a ceasefire?
+@526.1
+The battle is even.\nThere's no need to shed more blood.\nWill you agree to a ceasefire?
+@526.2
+Now, don't say that.\nThe battle is even.\nThere's no need to shed more blood.\nWill you agree to a ceasefire?
+@526.3
+The battle is even.\nThere's no need to shed more blood.\nWill you agree to a ceasefire?
+@526.4
+The battle is even.\nThere's no need to shed more blood.\nWill you agree to a ceasefire?
+@527
+Well said.\nFrom now on, show your skill\nto the full in our house.
+@527.1
+Well said.\nFrom now on, show your skill\nto the full in our house.
+@527.2
+Well said.\nLet the past be water under the bridge;\nfrom now on, show your skill in our house.
+@527.3
+Well said.\nFrom now on, show your skill\nto the full in our house.
+@527.4
+Well said.\nFrom now on, show your skill\nto the full in our house.
+@528
+Oh! I'm grateful!\nI look forward to working with you!
+@529
+Thank you.\nI too am glad\nwe could make peace.
+@529.1
+Thank you.\nI too am glad\nwe could make peace.
+@529.2
+Thank you.\nI too am glad\nwe could make peace.
+@530
+Thank you.\nWith this, I've fulfilled\nmy great duty.
+@530.1
+Thank you.\nWith this, I've fulfilled\nmy great duty.
+@530.2
+Thank you.\nWith this, I've fulfilled\nmy great duty.
+@531
+The battle has only just begun.\nI have no intention of making peace.
+@531.1
+The battle has only just begun.\nI have no intention of making peace.
+@531.2
+The battle has only just begun.\nI have no intention of making peace.
+@532
+I have no intention of making peace yet.
+@532.1
+I have no intention of making peace yet.
+@532.2
+I have no intention of making peace yet.
+@533
+Well...\n\n\nThen how about these terms?
+@533.1
+Hmm...\n\n\nThen how about these terms?
+@533.2
+Hmm...\n\n\nThen how about these terms?
+@534
+So the talks have failed...\n\n\nWe keep up the attack. All forces, stay sharp!
+@534.1
+So the talks have failed...\n\n\nWe keep up the attack. All forces, stay sharp!
+@535
+I'm very sorry.\nThere was no peace.
+@535.1
+I'm sorry.\nThere was no peace.
+@535.2
+I'm very sorry.\nThe talks have failed.
+@536
+Fools who don't know their place.\n\n\nNo matter, we keep up the attack.\nAll forces, stay alert!
+@536.1
+Fools who don't know their place.\n\n\nNo matter, we keep up the attack.\nAll forces, stay alert!
+@537
+So the talks have failed...\n\n\nWe keep up the defence. All forces, stay sharp!
+@537.1
+So the talks have failed...\n\n\nWe keep up the defence. All forces, stay sharp!
+@538
+I see...\n\n\nNo choice, we keep up the defence!\nAll forces, stay alert!
+@538.1
+I see...\n\n\nNo choice, we keep up the defence!\nAll forces, stay alert!
+@539
+Peace has been made.\nThe battle ends here.
+@539.1
+Peace has been made.\nThe battle ends here.
+@540
+I've brought back a peace.
+@540.1
+I've brought back a peace.
+@540.2
+I've brought back a peace.
+@541
+Well done.\n\n\nThe battle ends here!
+@541.1
+Well done.\n\n\nThe battle ends here!
+@541.2
+Well done.\n\n\nThe battle ends here!
+@542
+Well done.\n\n\nFor now, the battle ends here.
+@542.1
+Well done.\n\n\nFor now, the battle ends here.
+@542.2
+Well done.\n\n\nFor now, the battle ends here.
+@542.3
+Well done.\n\n\nFor now, the battle ends here.
+@543
+Peace has been made.\n\n\nFor now, the battle ends here.
+@543.1
+Peace has been made.\n\n\nFor now, the battle ends here.
+@544
+Very well.\nI accept peace on those terms.
+@544.1
+Very well.\nI accept peace on those terms.
+@544.2
+Very well.\nI accept peace on those terms.
+@545
+Hmm...\nI can't accept such terms.
+@545.1
+Hmm...\nI can't accept such terms.
+@545.2
+Hmm...\nI can't accept such terms.
+@546
+Very well.\nI accept peace on those terms.
+@546.1
+Very well.\nI accept peace on those terms.
+@546.2
+Very well.\nI accept peace on those terms.
+@547
+This is hopeless.\n\n\nWe keep up the attack. All forces, stay sharp!
+@547.1
+This is hopeless.\n\n\nWe keep up the attack. All forces, stay sharp!
+@548
+So there's no peace...\n\n\nWe keep up the defence. All forces, stay sharp!
+@548.1
+So there's no peace...\n\n\nWe keep up the defence. All forces, stay sharp!
+@549
+An envoy for peace has arrived\nfrom {02}{15}e.
+@550
+An envoy for peace has arrived\nfrom {02}{03}g's army.
+@551
+Accept this counter-proposal?
+@552
+(Shall I accept these terms...)
+@553
+my father.
+@553.1
+my mother.
+@553.2
+my daughter.
+@553.3
+my son.
+@553.4
+my older sister.
+@553.5
+my older brother.
+@553.6
+my older brother.
+@553.7
+my younger sister.
+@553.8
+my younger brother.
+@553.9
+my younger brother.
+@553.10
+my grandmother.
+@553.11
+my grandfather.
+@553.12
+my aunt.
+@553.13
+my uncle.
+@553.14
+of my blood.
+@554
+{01}C3{00},\nThat demand surely\nwon't pass.
+@554.1
+Well...\nisn't that demand\nunreasonable?
+@554.2
+{01}C3{00},\nThat demand surely\nwon't pass.
+@554.3
+Well...\nThat demand surely\nwon't pass.
+@555
+That demand may be\nhard to get through.
+@555.1
+That demand may be\nhard to get through.
+@555.2
+That demand may be\nhard to get through.
+@556
+Whether the defenders accept that demand\nis fifty-fifty.
+@556.1
+Whether the defenders accept that demand\nis fifty-fifty.
+@556.2
+Whether the defenders accept that demand\nis fifty-fifty.
+@557
+The defenders should\naccept that demand.
+@557.1
+The defenders should\naccept that demand.
+@557.2
+The defenders should\naccept that demand.
+@558
+Go to the talks with these terms?
+@559
+{01}C3{00},\nThis demand surely\nwon't pass.
+@559.1
+Well...\nisn't this demand\nunreasonable?
+@559.2
+{01}C3{00},\nThis demand surely\nwon't pass.
+@560
+This demand may be\nhard to get through.
+@560.1
+This demand may be\nhard to get through.
+@560.2
+This demand may be\nhard to get through.
+@561
+Whether the defenders accept this demand\nis fifty-fifty.
+@561.1
+Whether the defenders accept this demand\nis fifty-fifty.
+@561.2
+Whether the defenders accept this demand\nis fifty-fifty.
+@562
+The defenders should\naccept this demand.
+@562.1
+The defenders should\naccept this demand.
+@562.2
+The defenders should\naccept this demand.
+@563
+Send them to the talks with these terms?
+@564
+As you wish.
+@564.1
+Right, I'll do what I can.
+@564.2
+As you wish.
+@564.3
+Yes, sir! I'll do what I can.
+@564.4
+Yes, sir!
+@564.5
+I'll do what I can.
+@565
+{01}C3{00}!\nDo you truly mean to offer the\ncommander's death? Please think again.
+@565.1
+{01}C3{00}!\nDo you truly mean to offer the\ncommander's death? Please think again.
+@565.2
+{01}C3{00}!\nDo you truly mean to offer the\ncommander's death? Please think again.
+@566
+{01}C3{00},\nthe attackers surely won't\naccept those terms.
+@566.1
+Well...\nwon't the attackers\nrefuse those terms?
+@566.2
+{01}C3{00},\nthe attackers surely won't\naccept those terms.
+@567
+Making peace on those terms\nmay be hard.
+@567.1
+Making peace on those terms\nmay be hard.
+@567.2
+Making peace on those terms\nmay be hard.
+@568
+Whether the attackers accept peace\non those terms is fifty-fifty.
+@568.1
+Whether the attackers accept peace\non those terms is fifty-fifty.
+@568.2
+Whether the attackers accept peace\non those terms is fifty-fifty.
+@569
+On those terms, the attackers\nshould make peace.
+@569.1
+On those terms, the attackers\nshould make peace.
+@569.2
+On those terms, the attackers\nshould make peace.
+@570
+{01}C3{00},\nthe attackers surely won't\naccept these terms.
+@570.1
+Well...\nwon't the attackers\nrefuse these terms?
+@570.2
+{01}C3{00},\nthe attackers surely won't\naccept these terms.
+@571
+Making peace on these terms\nmay be hard.
+@571.1
+Making peace on these terms\nmay be hard.
+@571.2
+Making peace on these terms\nmay be hard.
+@572
+Whether the attackers accept peace\non these terms is fifty-fifty.
+@572.1
+Whether the attackers accept peace\non these terms is fifty-fifty.
+@572.2
+Whether the attackers accept peace\non these terms is fifty-fifty.
+@573
+On these terms, the attackers\nshould make peace.
+@573.1
+On these terms, the attackers\nshould make peace.
+@573.2
+On these terms, the attackers\nshould make peace.
+@574
+({01}C:{00} would never\nagree to these terms...)
+@574.1
+({01}C:{00} would never\nagree to these terms...)
+@575
+Attack a land enemy and break through.
+@576
+Attack a land enemy 3 times and break through.
+@577
+Fire guns, then charge on horse to break through.
+@578
+Fire twice when able to shoot or bombard.
+@579
+Extends shooting and bombard range for a time.
+@580
+Fire 3 times when able to shoot or bombard.
+@581
+Snipe an enemy unit commander to wound them.
+@582
+Attack every enemy in shooting or bombard range.
+@584
+Raises movement for a time.
+@585
+All army units able to fire attack one enemy at once.
+@586
+Raises the army's move, attack and defence for a time. Commander only.
+@587
+Stalls an adjacent enemy on water for a time.
+@588
+Attack an enemy on water and break through. No effect on land.
+@589
+Hole an enemy ship's hull to damage it.
+@590
+Attack with horoku fire bombs to damage the enemy.
+@591
+Set a pitfall.
+@592
+Detect ambushes and traps within an area.
+@594
+Set a deep pitfall.
+@595
+Neutralize enemy skills and cancel their effects.
+@596
+Drive the enemy berserk with a smoke screen.
+@597
+Hide from the enemy. Also raises movement.
+@598
+Make adjacent enemies attack each other.
+@599
+Set a bomb to hit the target and enemies around it.
+@600
+Increases movement for a time.
+@601
+Lowers the morale of one adjacent enemy unit. Strong.
+@602
+Engulf enemies in a line in the attack direction in fire.
+@603
+Confuse the target and enemies around it.
+@604
+Attack an enemy unit commander to wound them.
+@607
+Pay to win over troops from an enemy unit of the same type.
+@608
+Raises defence for a time.
+@609
+Raises attack for a time.
+@610
+Attack an adjacent enemy together with an adjacent unit of your army.
+@611
+After attacking, move past the enemy.
+@612
+All army units next to one enemy attack it at once.
+@613
+Lie in ambush, hidden from the enemy.
+@614
+Restores a unit that is confused, berserk or under enemy skill effects.
+@615
+Raises movement for a time.
+@616
+Attack an enemy that is next to an ally on the other side.
+@617
+Raises the army's move, attack and defence for a time. Commander only.
+@618
+A unit commander gets the army commander's abilities for a time. Commander only.
+@619
+After attacking, fall back to lure the enemy in.
+@620
+Shoot fire arrows.
+@621
+A bow attack stronger than a normal one.
+@622
+Shoot arrows 3 times.
+@623
+Attack every enemy in bow range.
+@624
+Lowers the morale of one adjacent enemy unit. Weak.
+@625
+Taunt an enemy into chasing you.
+@626
+Raises your unit's morale.
+@627
+Lowers the morale of one adjacent enemy unit. Medium.
+@628
+Lowers the morale of the target and all enemies next to it.
+@629
+Raises the morale of every unit in your army. Commander only.
+@639
+Fire twice when able to shoot or bombard.
+@641
+Fire 3 times when able to shoot or bombard.
+@642
+Wound an enemy unit commander when able to shoot.
+@644
+Fire 4 times when able to shoot or bombard.
+@647
+Raises the army's attack and defence for a time. Commander only.
+@651
+Attack with horoku fire bombs to damage the enemy.
+@654
+Confuse an enemy unit with false reports to cut its troops.
+@660
+Set a bomb to hit the target and enemies around it.
+@662
+Greatly lowers the morale of one enemy unit.
+@665
+Attack an enemy unit commander to wound them.
+@666
+Blow up a gate with a bomb. Attackers only.
+@667
+Hold a feast to raise morale. Costs 300 kan of war funds.
+@669
+Raises defence for a time.
+@670
+Raises attack for a time.
+@678
+Raises the army's attack and defence for a time. Commander only.
+@681
+Shoot fire arrows.
+@682
+A bow attack stronger than a normal one.
+@683
+Shoot arrows 3 times.
+@684
+Shoot arrows 4 times in a row.
+@685
+Lowers the morale of one enemy unit. Weak.
+@686
+Taunt an enemy and lower its morale. Medium.
+@687
+Raises your unit's morale.
+@688
+Lowers the morale of one enemy unit. Strong.
+@689
+Lowers the morale of every enemy at the same place.
+@690
+Raises the morale of every unit in your army. Commander only.
+@691
+Batter the gate by force to lower its durability.
+@692
+Set fire to the gate to lower its durability.
+@693
+Greatly lowers a gate's durability.
+@694
+Pour boiling water. Defenders only.
+@695
+Drop stones. Defenders only.
+@696
+Repair the gate in haste to restore durability.
+@697
+{02}=e can't be used.
+@698
+{02}=e has already been used.
+@699
+Use {02}yd?
+@700
+{02}zd can't be used\nbecause of {02}yd.
+@701
+{02}yd can't be used right now.
+@702
+There's no one to use {02}yd on.
+@703
+Choose a target for {02}yd.
+@704
+Use the quick-loaders!\nWe'll crush them in one go!
+@704.1
+Use the quick-loaders!\nWe'll crush them in one go!
+@705
+Good!\nForm 3 ranks, take turns,\nand keep firing!
+@705.1
+Good!\nForm 3 ranks, take turns,\nand keep firing!
+@706
+There are no named officers\nwithin sniping range.
+@707
+The selected unit's leader\nisn't a named officer.
+@708
+{02}{02}g is already wounded.
+@709
+Snipe {02}{02}g!
+@709.1
+Snipe {02}{02}g!
+@710
+Ugh...\nWho did that...
+@710.1
+Ugh...\nCurse you...
+@711
+We seem to have wounded their general.\nNow they can't move their troops as they like.
+@711.1
+We seem to have wounded their general.\nNow they can't move their troops as they like.
+@712
+Hm...\nSomeone seems to have taken a shot at me.
+@712.1
+Hm...\nSomeone seems to have taken a shot at me.
+@713
+Missed...
+@714
+Rapid volleys!\nKeep pounding the enemy without pause!
+@714.1
+Rapid volleys!\nKeep pounding the enemy without pause!
+@715
+Only an army commander can use {02}yd.
+@716
+Using {02}yd will end\nthe current effect.\nIs that OK?
+@717
+Form the Butterfly Formation!\nWe'll show them our strength!
+@717.1
+Form the Butterfly Formation!\nWe'll show them our strength!
+@718
+Good, use the horoku!\nShow them the power of gunpowder!
+@718.1
+Good, use the horoku!\nI'll show them the power of gunpowder!
+@719
+Good!\nLoose spies on {02}{02}g's unit!\nSow chaos from behind!
+@719.1
+Good!\nLoose spies on {02}{02}g's unit!\nSow chaos from behind!
+@720
+Hey! Don't panic!\nDon't be fooled by false reports like these!
+@721
+Heh heh...\nThey fell right for it.
+@722
+No one here is fooled by such false reports!
+@723
+Did we fail...
+@724
+Witness the power of gunpowder!\nYou'll regret fighting me!
+@725
+Good! Send in spies\nand sap the enemy's morale!
+@726
+Send assassins to {02}{02}g's unit!\nOnce the general's gone, the rest are a rabble!
+@727
+Ugh...\nWho did that...
+@727.1
+Ugh...\nCurse you...
+@728
+We seem to have wounded their general.\nNow they can't move their troops as they like.
+@729
+I, {02}{01}g, won't be beaten\nby the likes of a ninja!
+@730
+Did we fail...
+@731
+{02}yd can't be used at Siege.
+@732
+Behold the power of the bomb!
+@733
+A feast needs 300 kan of war funds.
+@734
+Morale can't rise any further,\nso {02}yd can't be used.
+@737
+Come, come, today we feast!\nEat your fill and restore your spirits!
+@737.1
+Come, come, today we feast!\nEat your fill and restore your spirits!
+@738
+Everyone, hold the defence firmly!\nDon't underestimate the enemy!
+@738.1
+Everyone, hold the defence firmly!\nDon't underestimate the enemy!
+@739
+Everyone, fight with all your might!\nVictory is at hand!
+@739.1
+Everyone, fight with all your might!\nVictory is at hand!
+@740
+Hear me, all forces!\nSwift as the wind,\nquiet as the forest,\nfierce as fire,\nimmovable as the mountain: fight so!
+@740.1
+Hear me, all forces!\nSwift as the wind,\nquiet as the forest,\nfierce as fire,\nimmovable as the mountain: fight so!
+@741
+Use fire arrows!\nRain fire on the enemy!
+@741.1
+Use fire arrows!\nRain fire on the enemy!
+@742
+All of you, draw your bows hard!\nShow them our strong bows!
+@742.1
+All of you, draw your bows hard!\nShow them our strong bows!
+@743
+Loose arrow after arrow!\nWe'll make them regret\nfighting us!
+@743.1
+Loose arrow after arrow!\nWe'll make them regret\nfighting us!
+@744
+We have arrows to spare!\nDon't worry about later,\njust shoot, shoot, shoot!
+@744.1
+We have arrows to spare!\nDon't worry about later,\njust shoot, shoot, shoot!
+@745
+The enemy is nothing but cowards!\nThey're no match for us.
+@745.1
+The enemy is nothing but cowards!\nThey're no match for us.
+@746
+Laugh, all of you!\nThe enemy are cowards!
+@746.1
+Laugh, all of you!\nThe enemy are cowards!
+@747
+Rouse your hearts!\nHere's where we show our spirit!
+@748
+You'll regret fighting our army!\nBetter start saying your prayers now!
+@749
+My name is {02}{01}g!\nAnyone who wants to rust my blade,\ncome at me!
+@750
+Fear not!\nPress on without flinching and we'll surely win!
+@751
+Assault in force!\nSmash the gate in one go!
+@751.1
+Assault in force!\nSmash the gate in one go!
+@752
+Set fire to the gate!\nBring it down in one go!
+@752.1
+Set fire to the gate!\nBring it down in one go!
+@753
+Mole attack!\nBring the gate down from behind!
+@753.1
+Mole attack!\nBring the gate down from behind!
+@754
+Good, now!\nPour boiling water on them!
+@754.1
+Good, now!\nPour boiling water on them!
+@755
+Right, drop the stones!\nWe'll make them regret\nattacking {02}{15}n!
+@756
+{02}yd is at full durability,\nso {02}zd can't be used.
+@757
+Everyone!\nHurry and repair {02}yd!\nHold firm and it won't fall yet!
+@757.1
+Everyone!\nHurry and repair {02}yd!\nHold firm and it won't fall yet!
+@758
+Bishamonten's blessing is with us.\nThere's nothing to fear.\nFollow me!
+@759
+Ready the {02}yd covers!\nDon't let the {02}zd get wet!
+@760
+No more troops can be deployed.
+@761
+Reinforce Troops can't be used.
+@762
+{02}od troops can be added.\nReinforce troops?
+@763
+Send in the unassigned troops!\nWe can still fight!
+@775
+
+@775.1
+
+@775.2
+@299
+Skill points can't rise any further{01}C{08}0
+@300
+There's no unit to target{01}C{08}0
+@352
+We will win this battle, without fail!
+@353
+Men, take aim!
+@354
+Show them the mettle of Mikawa warriors!
+@355
+The time has come! Behold the essence\nof my command!
+@356
+Roar, thunder! Sweep the enemy away!
+@357
+Be at ease. Yield to my banner.
+@358
+No enemy unit of the same type is adjacent,\nso Grand Bearing can't be used.
+@359
+It has no effect unless the enemy\nhas a certain number of troops.
+@360
+The target unit has too few troops\nfor our prestige to reach them,\nso it can't be used.
+@361
+Ora ora ora!
+@362
+I can already see the path to victory!
+@363
+Grant us courage...!
+@735
+Skill points can't rise any further,\nso {02}yd can't be used.
+@736
+There's no unit to target,\nso {02}yd can't be used.
+@764
+We will win this battle, without fail!
+@765
+We'll hold this castle, even at the cost of our lives!
+@766
+Men, take aim!
+@767
+Show them the mettle of Mikawa warriors!
+@768
+Raaagh! Behold our matchless might!
+@769
+Whoops...
+@770
+Trust in my command!
+@771
+Behold! Loose endless arrows on the foe!
+@772
+Roar, thunder! Sweep the enemy away!
+@773
+I can already see the path to victory!
+@774
+Grant us courage...!

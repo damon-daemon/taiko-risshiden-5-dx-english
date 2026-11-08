@@ -1,0 +1,38 @@
+@0.0
+\#07FE! \51E7 has fallen to the \A409's fierce assault. They say the \A408 has lost its last castle!
+@0.1
+I see... Our support wasn't enough. To let our master's house be destroyed...
+@0.2
+But such is this age of war... It can't be helped. With \#086D's ability, the successor to Lord \#086E...
+@0.3
+Chief, if the \A408 falls, we must submit to some other daimyo house.
+@0.4
+......Hmm.
+@0.5
+The \A408 fell because the \A406 and the \A407 allied... So siding with one of them would be wise.
+@0.6
+Perhaps so...
+@0.7
+Perhaps so...
+@0.8
+Side with the \A406
+@0.9
+Side with the \A407
+@0.10
+It's decided... Our \E079 will submit to the \A406! Now, send an envoy to Lord \#09C1!
+@0.11
+Aye aye!
+@0.12
+It's decided... Our \E079 will submit to the \A407! Now, send an envoy to Lord \#09FA!
+@0.14
+I see... Our support wasn't enough. To let our master's house be destroyed...
+@0.15
+But such is this age of war... It can't be helped. With \#086D's ability, the successor to Lord \#086E...
+@0.16
+The chief has given up on the \A408 and decided to submit to the \A406.
+@0.17
+The \A406... Certainly \#01C1's strength is unmatched...
+@0.21
+The \A406... Certainly \#01C1's strength is unmatched...
+@0.22
+The \E079 has come under the \A40A.

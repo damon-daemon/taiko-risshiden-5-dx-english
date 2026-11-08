@@ -1,0 +1,21 @@
+# Never commit Koei's data: game files, extracted data, build output
+game_clean/
+build/
+script/
+extract/
+release/
+*.G1T
+*.DAT
+*.TR5
+*.TS5
+*.TE5
+*.exe
+*.dll
+
+# Local environment and AI-session notes
+.venv/
+__pycache__/
+*.pyc
+CLAUDE.md
+notes/
+.claude/

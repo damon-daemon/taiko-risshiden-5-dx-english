@@ -1,0 +1,97 @@
+# Loose exe strings: VA<TAB>English (see tools/exestr.py)
+140b1eb94	Castellan
+140b1ecdc	Manager
+140b1ece4	Sq. Chief
+140b1ecec	Admiral
+140b1f374	Head
+140b205bc	Spear
+140b205c0	Chain-Sickle
+140b205c8	Kunai
+140b205d0	Bow
+140b20824	Sword
+140b2082c	Matchlock
+140b20910	Merchant
+140b20918	Tea Master
+140b21be4	Tea Caddy
+140b21bec	Tea Bowl
+140b21bf4	Vase
+140b21bfc	Tea Scoop
+140b244f8	Townsman
+140b24800	Noble
+140b25b9c	Instructor
+140b28d1c	Boss
+140b28dbc	Ninja
+140b29030	Daimyo
+140b29088	Nanban Goods
+140b29090	Treasure
+140b29a00	Japanese Book
+140b29ea0	Smith
+140b29f74	Ronin
+140c0d548	Tohoku
+140c0d550	Hokuriku
+140c0d558	Koshin
+140c0d560	Kanto
+140c0d568	Tokai
+140c0d570	Kinki
+140c0d578	Chugoku
+140c0d580	Shikoku
+140c0d588	Kyushu
+140c0ffa8	A. Captain
+140c0ffb8	A. General
+140c0ffc4	S. General
+140c0ffcc	Cmdr.
+140c0ffd4	Elder
+140c0ffdc	Prov. Lord
+140c0ffe4	Apprentice
+140c0ffec	Clerk
+140c0fff4	Head Clerk
+140c0fffc	Genin
+140c10004	Chunin
+140c1000c	Jonin
+140c10014	Sailor
+140c1001c	Bosun
+140c10024	Skipper
+140c1002c	Chief
+140c10034	Emperor
+140c1003c	Samurai
+140c10044	Farmer
+140c1004c	Artisan
+140c10054	Monk
+140c1005c	Master
+140c10064	Nanban
+140c1006c	Traveller
+140c10074	Owner
+140c1007c	Hostess
+140c10084	Doctor
+140c1008c	Guard
+140c10094	Servant
+140c1009c	Page
+140c100a4	Girl
+140c100a8	Bandit
+140c102c8	Armour
+140c102d0	Fine Horse
+140c102d8	Scroll
+140c102e0	Screen
+140c102e8	Kettle
+140c102f0	Tea Jar
+140c102f8	Censer
+140c10300	Art of War
+140c10308	War Tale
+140c10310	Politics
+140c10318	Chinese Book
+140c10320	Literature
+140c10328	Diplomatic Doc
+140c10334	Cheap Sake
+140c1033c	Fine Sake
+140c10344	Foreign Drink
+140c1034c	Cold Remedy
+140c10354	Tonic
+140c1035c	Panacea
+140c10364	Poison
+140c58ad0	Could not load the siege tutorial data.\nPlease create the data again.\n
+140c6f1b0	%3d％ done
+140c6f1bc	Abort
+140c6fb88	%d-%d%s
+140c104a8	%s (%d/15)
+140c5a468	%d (%s)
+140c5a470	%dk/%dk %s

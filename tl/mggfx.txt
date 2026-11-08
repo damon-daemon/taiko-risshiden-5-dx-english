@@ -1,0 +1,66 @@
+# Mini-game textures with baked-in labels (tools/mggfx.py): FILE<TAB>TEX<TAB>labels ('|' between labels)
+# Oicho-Kabu: players 子1-3, dealer 親, hand names, speech bubbles
+data/MG/MG21.G1T	16	P1|P2|P3
+data/MG/MG21.G1T	19	P1|P2|P3
+data/MG/MG21.G1T	68	Dealer
+data/MG/MG21.G1T	72	Buta|Inketsu|Nitako|Santa|Shini|Goke|Roppo|Naki|Oicho|Kabu|Shippin|Kuppin|Arashi
+data/MG/MG21.G1T	0	Again!
+data/MG/MG21.G1T	3	Showdown!
+# Chinchirorin: 振番 (whose turn to roll), 親 dealer
+data/MG/MG24.G1T	0	Roller
+data/MG/MG24.G1T	3	Dealer
+# Result banners (PS2 English)
+data/MG/MG23.G1T	0	LANDSLIDE
+data/MG/MG23.G1T	1	HIT
+data/MG/MG23.G1T	2	GREAT SUCCESS!
+data/MG/MG23.G1T	3	DEFEAT
+data/MG/MG23.G1T	4	DRAW
+data/MG/MG23.G1T	5	PERFECT!
+data/MG/MG23.G1T	6	TOTAL VICTORY!
+data/MG/MG23.G1T	7	FLAWLESS!
+data/MG/MG23.G1T	8	JACKPOT!
+data/MG/MG23.G1T	9	VICTORY
+data/MG/MG23.G1T	10	BEST IN THE LAND!
+data/MG/MG23.G1T	11	ALL CORRECT!
+data/MG/MG23.G1T	12	WELL DONE
+# Gold mining: 止 button (= msg01 [Stop]); 獲得した金塊 個 (counter erased)
+data/MG/MG01.G1T	0	Stop
+data/MG/MG04.G1T	11	Gold Found|
+# Medicine mixing: pots (mixtures), herb jars い ろ は -> A B C (small 薬 erased), 成功 banner
+data/MG/MG10.G1T	13	Medicine
+data/MG/MG10.G1T	16	Medicine
+data/MG/MG10.G1T	19	Medicine
+data/MG/MG10.G1T	26	|A
+data/MG/MG10.G1T	29	|B
+data/MG/MG10.G1T	32	|C
+data/MG/MG10.G1T	3	SUCCESS!
+# Tiles 一二三四 (PS2: 1-4)
+data/MG/MG13.G1T	4	1|2|3|4
+data/MG/MG13.G1T	7	1
+data/MG/MG13.G1T	8	2
+data/MG/MG13.G1T	9	3
+data/MG/MG13.G1T	10	4
+data/MG/MG13.G1T	11	1
+data/MG/MG13.G1T	12	2
+data/MG/MG13.G1T	13	3
+data/MG/MG13.G1T	14	4
+data/MG/MG13.G1T	15	1
+data/MG/MG13.G1T	16	2
+data/MG/MG13.G1T	17	3
+data/MG/MG13.G1T	18	4
+data/MG/MG13.G1T	19	1
+data/MG/MG13.G1T	20	2
+data/MG/MG13.G1T	21	3
+data/MG/MG13.G1T	22	4
+# Kanji numeral strips
+data/MG/MG09.G1T	2	1|2|3|4|5|6
+data/MG/MG14.G1T	16	2|3|4|5|6
+data/MG/MG00.G1T	7	1|2|3|4|5|6
+# Duel results (PBBATTLE): 連勝中 (follows a number: "5 wins in a row"), 勝 / 敗 (tally after
+# numbers, not seen yet), 引き分け, 勝利, 敗北
+data/PBBATTLE/PBGRP1.G1T	0	WINS IN A ROW
+data/PBBATTLE/PBGRP1.G1T	1	WINS
+data/PBBATTLE/PBGRP1.G1T	2	LOSSES
+data/PBBATTLE/PBGRP1.G1T	4	DRAW
+data/PBBATTLE/PBGRP1.G1T	5	VICTORY
+data/PBBATTLE/PBGRP1.G1T	6	DEFEAT

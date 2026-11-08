@@ -1,0 +1,118 @@
+@0.0
+This year, \#0128 changed his name to Kamiizumi Nobutsuna.
+@0.1
+Now that I've changed my name, I must work even harder!
+@1.0
+With the \#11C1 driven off, western Kozuke should be safe for a while. Perhaps now I can fulfil my long-held wish...
+@1.1
+Should I take the plunge, leave the \#1218 house, and ask my lord's leave to go on a training journey?
+@1.2
+Ask him
+@1.4
+Right, I've decided. I'll ask my lord.
+@1.5
+\#0928, what is it?
+@1.6
+My lord, there is something I wish to say.
+@1.7
+\#0928... You needn't say it all. You want to leave my service and live by the sword, don't you?
+@1.8
+How did you know?
+@1.9
+Come now, it's plain enough from the way you always carry yourself.
+@1.11
+\#0928...
+@1.13
+...Do as you wish.
+@1.14
+What! You will allow my selfishness?
+@1.15
+Mm, you have served me well. From now on, follow the path you believe in.
+@1.16
+You are too kind. I am deeply grateful!
+@1.17
+I won't see you off. Farewell, \#0928.
+@1.19
+Uncle! Is it true you're leaving the \#1218 house?
+@1.20
+\#0A59, yes, it's true. I've just said my farewells to Lord \#0A18.
+@1.21
+I'll come with you.
+@1.22
+I see. I'm thinking of settling in \41DF for now.
+@1.23
+Then I'll move to \41DF too. I have preparations to make, so excuse me!
+@1.24
+Now, I'll pack up here and head for \41DF first.
+@1.25
+In month \M002 of \M001, \#0128 left \51E5 Castle, and from then on lived by the sword...
+@1.26
+No, serving Lord \#0A18 faithfully is surely the way of the samurai.
+@3.5
+It has come to this... Nothing left but to die with honour... Hnn!!
+#ps2 @3.7  And so \#0A18, head of the \#1218 house, took his own life in the inner bailey of the keep... Age \1007.
+@3.7
+And so \#0A18, head of the \#1218 house, fell in the Gozen bailey of the keep, his ambitions unfulfilled... Age \1007.
+@3.8
+(With Lord \#0A18 gone, there's no point in my living on alone. I'll charge the \#11C1 camp and die with honour.)
+@3.9
+I'm charging the \#11C1 camp! Follow me, whoever has the nerve! Let them see the banner of Marishiten!
+@3.11
+Please wait!!
+@3.12
+Hm, that's Lord \#0FF2's banner.
+@3.13
+I am \#07F2 of the \#11C1 house.
+@3.14
+I am \#07FE of the \#1218 house.
+@3.15
+Lord \#0FFE, now that \41DE has fallen, what good will shedding blood in vain do?
+@3.17
+My lord, Lord \#09C1, says the surviving castle troops may do as they please.
+@3.18
+They may serve the \#11C1 or serve another land; he does not mind at all.
+@3.19
+So please, lay down your arms.
+@3.20
+...Very well. I will resist no more.
+@3.21
+Thank you for listening. Lord \#09C1 wishes to meet you, Lord \#0FFE, so please come with me.
+@3.22
+Then I will come.
+@3.23
+My lord, I have brought Lord \#0128.
+#ps2 @3.25  Ah, \#0928! Welcome! First, Lord \#0A18's suicide is a grievous loss.
+@3.25
+Ah, \#0928! Welcome! First, the loss of Lord \#0A18 is truly grievous.
+@3.26
+You are most kind.
+@3.27
+Now you have no lord you owe loyalty to. How about it, will you serve our \#11C1 house?
+@3.28
+Serve the Takeda
+@3.29
+Decline
+@3.30
+I understand. From now on, I will serve the \#11C1 house.
+@3.31
+Is that so! Known as "the Lone Spear of Kozuke", first of the "Sixteen Spears of the \#1218", with you I have the strength of a hundred!
+@3.32
+You are too kind.
+@3.33
+Then right away, I'll give you part of my name. From now on, call yourself "Kamiizumi Nobutsuna".
+@3.38
+Sir, I am deeply honoured!
+@3.43
+I see... Then it can't be helped. I grant your wish to live only by the sword.
+@3.44
+Sir. Thank you for granting my wish!
+@3.53
+Uncle! They say you refused the \#11C1's offer to serve.
+@3.54
+\#0A59, yes, that's right.
+@3.57
+Then I'll move to \41DF too.
+@3.60
+In month \M002 of \M001, \#0128 left \41DE, and from then on lived by the sword...
+@4.15
+Ugh, a huge army... \%027F0, what will you do?

@@ -1,0 +1,158 @@
+@0.1
+Lord \#07FE! The old lord is calling for you!
+@0.2
+What, the old lord...? I wonder what it is.
+@0.3
+What, the old lord...?
+@0.4
+The old lord has come to this castle. Please come to the castle at once.
+@0.5
+Hmm... Understood. If the old lord came all this way, it must be something very important...
+@0.6
+Oh! You've come, \#0FFE.
+@0.7
+My lord, what is it?
+@0.8
+Now, don't be so hasty. It's happy news... The truth is, it's a marriage proposal.
+@0.9
+A marriage...? For me?
+@0.10
+Mm, that's right... Come, \#09C8!
+@0.11
+Yes, sir...! Here!
+@0.12
+...Then, Lord \%041C8's daughter... for me...?
+@0.13
+The truth is, \%041CA... I have only a daughter now... I want you to marry into our house.
+@0.14
+I ask it of you too... The Tachibana are a great house, and I don't want it to die out.
+@0.15
+My other adopted son has inherited my birth house, the Bekki... There's no one to carry on the Tachibana name...
+@0.16
+My daughter \#04A5 is a fine girl. I once even thought of handing her the headship, but that wouldn't do...
+@0.17
+So I thought of adopting a son-in-law... And the one I wanted was you.
+@0.18
+Sir! I'm deeply honoured.
+@0.19
+Your father, \#01B7, has already agreed to this.
+@0.21
+Come, \#04A5! Greet him too!
+@0.22
+Yes! Lord \#09CA, I'm pleased to meet you.
+@0.23
+I raised her like a boy since she was little, so she's an odd girl who likes to wear armour...
+@0.24
+As you see, she looks like a boy, but once she has a husband, her tomboy ways should settle down.
+@0.25
+Father!!
+@0.26
+Hahaha... Well, \#09CA? Would you rather not marry this wild filly?
+@0.27
+N-no... not at all.
+@0.28
+I'm so glad!
+@0.29
+Then it's settled. From now on, inherit the Tachibana house and call yourself Muneshige.
+@0.30
+Tachibana... Muneshige... Yes, sir! Understood.
+@0.31
+A perfect match, aren't they, \#09C8?
+@0.32
+Yes, sir! I'm overjoyed to gain such a reliable son-in-law.
+@0.33
+And so \#01CA married into the great Tachibana house and changed his name to Tachibana Muneshige.
+@0.38
+I must keep working hard, so as not to shame the great Tachibana name...
+@0.39
+Lord \#0FFE... I place myself in your hands, now and always.
+@0.40
+Mm. From now on, let's go through life together, hand in hand...
+@1.0
+\#0FFE, come closer.
+@1.1
+Yes... Father-in-law, what is it?
+@1.2
+\#01C8 took his beloved sword Raikiri from his belt.
+@1.3
+Father-in-law...?
+@1.4
+Now, listen.
+@1.5
+As if answering \#01C8's voice, Raikiri glowed pale blue.
+@1.6
+\#01CA's sword Raikiri glowed pale blue.
+@1.7
+Hm, Raikiri...?
+@1.8
+...I rode the battlefields with Raikiri all my life, and at some point I came to be called the Thunder God.
+@1.9
+But every man must die someday.
+@1.10
+To keep the martial fame of the Tachibana ringing into the next generation, there is something I must do.
+@1.11
+Now is the time.
+@1.12
+Father-in-law... can it be, your health...?
+@1.14
+I give this Raikiri to you... Take it.
+@1.15
+Father-in-law...
+@1.16
+My son, \#0FFE. I entrust the future of the Tachibana to you.
+@1.17
+Obtained Raikiri.
+@1.18
+For now, I will only pass on to you the secret art of the Thunder God. That is all.
+@1.21
+I humbly accept.
+@1.22
+(I too have grown old...)
+@2.0
+...Were you thinking of Father?
+@2.1
+Yes...
+@2.2
+I'm sorry about Father-in-law. If only I had noticed his illness sooner...
+@2.3
+...I hear you guarded his body and carried it all the way to Mt. Tachibana.
+@2.4
+Yes... Though it meant going against Father-in-law's instructions.
+@2.5
+His instructions?
+@2.6
+I see, you hadn't heard...
+@2.7
+Father-in-law ordered that his body be buried on the battlefield, facing the enemy lines.
+@2.8
+Oh... No one ever told me that.
+@2.9
+Because I went against his last wishes, everyone must have thought it best not to speak of it.
+@2.10
+Not even to me... his daughter... your wife?
+@2.11
+...Forgive me for being a thoughtless husband.
+@2.12
+Did Father leave any other words?
+@2.13
+As if answering \#04A5's words, Raikiri glowed pale blue.
+@2.14
+Hm, this is...
+@2.15
+...To you, as the one who inherits Raikiri, he entrusts the future of the Tachibana... That seems to be what Father says.
+@2.16
+How can you tell?
+@2.17
+Because I am Father's daughter too.
+@2.18
+Ever since you came, Father went out with no one but you... He never even looked my way.
+@2.20
+Since I was little, I always thought I would be the one to inherit the Tachibana house. That never came to be, but...
+@2.21
+\#0FFE, as the son of \#01C8, make the Tachibana name ring through the generations to come!
+@2.22
+Yes, Father-in-law! ......Eh?
+@2.23
+(Just now, I clearly heard Father-in-law's voice... What on earth...)
+@2.24
+Heh heh... As a general, you are of greater calibre than Father. You are just as Father said.

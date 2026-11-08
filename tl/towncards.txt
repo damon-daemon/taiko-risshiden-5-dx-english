@@ -1,0 +1,32 @@
+# Town facility cards (tools/towncards.py): MAINBOX.G1T member N<TAB>English ("|" = line break)
+1	Castle
+2	Samurai Home
+3	Drill Ground
+4	Rice Shop
+5	Stable
+6	Tavern
+7	Inn
+8	Common Home
+9	Merchant House
+10	Physician
+11	Tea Master
+12	Temple
+13	Smithy
+14	Craftsman
+15	Nanban Temple
+16	Nanban House
+17	Noble's House
+18	Palace
+19	Guild
+20	Dojo
+21	Exchange
+22	Ninja House
+23	Drill Ground
+24	Training
+25	Ninja Home
+26	Pirate House
+27	Drill Ground
+28	Training
+29	Shipyard
+30	Pirate Home
+31	Own Home
