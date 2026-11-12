@@ -183,7 +183,7 @@ def check():
 # registers kept), which fall back to the record's own field.
 
 FNV_BASIS, FNV_PRIME = 0x811C9DC5, 0x01000193
-PAIR_MARK, PART_MARK = 0xFF, 0xFE
+PAIR_MARK, PART_MARK, HOUSE_MARK = 0xFF, 0xFE, 0xFD
 
 def fnv(data, h=FNV_BASIS):
     for c in data:
@@ -198,6 +198,9 @@ def pair_hash(f, g):
 
 def part_hash(p):
     return fnv(cp(p), fnv([PART_MARK]))
+
+def house_hash(p):
+    return fnv(cp(p), fnv([HOUSE_MARK]))
 
 # parts read two ways: the reading used where only the part is known (e.g. the clan
 # name 北条 in the Powers list; Kitajo people still get theirs from their pair)
@@ -273,6 +276,15 @@ def lookup_entries(names, tab):
             put(part_hash(jp), (PART_PREFER[jp], ''), jp)
         elif len(ens) == 1:
             put(part_hash(jp), (ens.pop(), ''), jp)
+    # one-kanji family names (the house 宗 in the clan panel): the only two-byte texts the
+    # set-text hook turns into English (one-kanji given names like 者 or 男 are left out)
+    fam = {}
+    for (f, g), (ef, eg) in pr.items():
+        if len(f) == 1 and ef:
+            fam.setdefault(f, set()).add(ef)
+    for jp, ens in fam.items():
+        if len(ens) == 1 and len(cp(jp)) == 2:
+            put(house_hash(jp), (ens.pop(), ''), jp)
     return out
 
 # officer table (canonical names, shown e.g. by the id -> name dispatcher 0x14036BD30 with
@@ -291,10 +303,14 @@ SITES = [
     # msg power variables ({02}{0B..14}e: daimyo house / merchant / ninja / pirate name, e.g.
     # 島津) in the power field handler 0x1404172D0: name = [vtbl+0x38](power), then strcpy
     (0x1404175AA, '498bc8ff5038488bd0', 'mov rcx, r8\ncall qword ptr [rax + 0x38]\nmov rcx, rax\ncall en_str\nmov rdx, rax', 0x1404175B3),
+    # msg person field {EC} (the house a person serves: "I am {02}{01}g of {02}{01}{EC}"):
+    # name = house-name getter 0x1403A4A10 (thunk 0x140024BDB), then strcpy
+    (0x1404197C8, 'e80eb4c0ffe9b7f6ffff', 'call 0x140024bdb\nmov rcx, rax\ncall en_str', 0x140418E89),
 ]
 # Text-object set-text core 0x140694510 (obj, flags, text, r9b; ~200 callers, display
 # only), hooked at entry (set_text):
-#  - text = one known name part (SJIS, 4-8 bytes) -> its English; "A B" (half- or
+#  - text = one known name part (SJIS, 4-8 bytes; 2 bytes = a one-kanji family name
+#    only) -> its English; "A B" (half- or
 #    full-width space) with A and B known parts -> "English-A English-B" (ring buffer);
 #    A known and B ASCII ("%s Diplomacy" with a clan name) -> "English-A B".
 #    Catches names read straight from a record (clan names, hero-select cards, ...).
@@ -567,6 +583,8 @@ st_len:
     jb st_len
     jmp st_fit
 st_lend:
+    cmp eax, 2
+    je st_two
     cmp eax, 4
     jb st_fit
     mov esi, eax
@@ -594,6 +612,24 @@ st_nothira:
     call en_part_n
     cmp eax, -1
     je st_split
+    lea rdx, [rip + tab_h + {off_a}]
+    call str_of
+    mov r8, rax
+    jmp st_widen
+st_two:
+    push rsi
+    push r8
+    mov rsi, r8
+    mov ecx, 2
+    mov eax, 0x811c9dc5
+    xor eax, 0xfd
+    imul eax, eax, 0x01000193
+    call fnv_add
+    call find
+    pop r8
+    pop rsi
+    cmp eax, -1
+    je st_fit
     lea rdx, [rip + tab_h + {off_a}]
     call str_of
     mov r8, rax
