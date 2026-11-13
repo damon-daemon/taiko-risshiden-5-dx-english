@@ -94,7 +94,7 @@ Until then, find out what \#000E is up to.
 @7.41
 The rest of you, we intercept \#17F2!
 @7.43
-Yes! Everyone, listen well! \#07F2 has joined the traitor \#080E like a coward and is attacking us!
+Very well! Everyone, listen well! \#07F2 has joined the traitor \#080E like a coward and is attacking us!
 @7.47
 No, we'll split the army in two! \%03!
 @7.49
@@ -235,7 +235,7 @@ T-to be slain by a nameless foot soldier... Is this... my end?
 @16.15
 Hold on!
 @16.16
-Old lord... forgive Gonroku. I could not repay your kindness... ending up... like this... urgh!
+My lord... forgive Gonroku. I could not repay your kindness... ending up... like this... urgh!
 @16.18
 \#017B, who served both Oda Nobuhide and \#08C3 and stood foremost among their retainers...
 @16.19
@@ -247,7 +247,7 @@ A great victory for our side!
 @16.22
 No, not yet...! Not until we have \#080E's head! Where did he run to... Find him!
 @16.23
-Yes! With all our strength!
+At once! With all our strength!
 @16.24
 But of the enemy commander, \#000E, there was no trace at all...
 @16.25
@@ -279,7 +279,7 @@ They say a foot soldier of the \#07F3 unit, under Lord \#0205, killed him!
 @16.44
 What?! The Monkey's men?! How can that be?!
 @16.45
-Yes... It seems the \#1205 army had laid a net around the \#100E in step with our movements...
+Well... It seems the \#1205 army had laid a net around the \#100E in step with our movements...
 @16.46
 They happened to catch \#000E passing Ogurusu village as he fled, and slew him...
 @16.47

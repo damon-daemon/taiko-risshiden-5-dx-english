@@ -28,7 +28,7 @@ The envoy Lord \#01FA sent to Lord \#0074 has returned, but...
 @4.0
 My lord! Congratulations on your great victory!
 @4.1
-Yes, thank you for coming to greet me.
+Mm, thank you for coming to greet me.
 @4.2
 Sir! And... A letter has arrived from Lord \#004B.
 @4.3
@@ -68,7 +68,7 @@ Now, what shall we do with the Eastern daimyo?
 @5.12
 Those who sided with \Z003 must be punished severely!
 @5.13
-Yes. Then let us confiscate the Eastern lords' domains and share them among the daimyo loyal to the \#1206. Agreed?
+Indeed. Then let us confiscate the Eastern lords' domains and share them among the daimyo loyal to the \#1206. Agreed?
 @5.14
 Yes, I have no objection.
 @5.15
@@ -234,7 +234,7 @@ It seems he's besieging \41DF.
 @9.3
 \#09FA may have been beaten at Sekigahara, but he is a seasoned veteran. Drop our guard and it will be our heads that roll.
 @9.4
-Yes. Let us proceed with care.
+Indeed. Let us proceed with care.
 @9.5
 Very well, we advance!
 @10.1
@@ -286,7 +286,7 @@ Oh yes! How goes the battle!?
 @13.2
 The \#113B forces charged down on the \#11F3 forces, and the enemy fell apart at once. A great victory for our side!!
 @13.3
-Yes! Raise a victory cry!
+Good! Raise a victory cry!
 @14.0
 After all the trouble of shaking off the \#006E hostages, we have finally come this far...
 @14.1
@@ -295,7 +295,7 @@ We were one step from the realm... How bitter!!
 @14.3
 \#01FA fought until his strength gave out, and \#09FC was struck down by straggler hunters!
 @14.4
-Yes, well done! Now the \#1206 realm is safe!!
+Ha, well done! Now the \#1206 realm is safe!!
 @14.5
 Before the deeds of \#018B, \#07F1 and the rest, \#01FA, who had half the realm in his grasp, finally fell, aged \1006...
 @14.6

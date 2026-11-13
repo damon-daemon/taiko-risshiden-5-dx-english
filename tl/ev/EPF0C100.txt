@@ -9,7 +9,7 @@ Treason! \#000E has rebelled!
 @0.6
 The \#100E... rebelled?!
 @0.7
-Yes! The old lord was staying at Honnoji in the capital on his way to reinforce \#0205...
+He has! The old lord was staying at Honnoji in the capital on his way to reinforce \#0205...
 @0.8
 He had only a few dozen men with him... It seems \#080E seized that moment to rebel!
 @0.10
@@ -57,7 +57,7 @@ Rumours or not, I can't leave it be... I must remove the seeds of trouble.
 @1.23
 I'll send letters to Father and to Lord \#100E.
 @1.25
-Yes... asking them not to be swayed by rumours, and for lord and vassal to trust each other.
+Indeed... asking them not to be swayed by rumours, and for lord and vassal to trust each other.
 @1.27
 Listen, don't spread these rumours.
 @1.29

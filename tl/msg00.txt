@@ -105,13 +105,13 @@ Your Holiness
 @19.3
 My lord
 @20
-My liege
+the Shogun
 @20.1
-My lord
+His Lordship
 @20.2
-Your Holiness
+His Holiness
 @20.3
-My lord
+His Lordship
 @21
 My liege
 @21.1
@@ -121,13 +121,13 @@ Your Holiness
 @21.3
 My lord
 @22
-My liege
+the Shogun
 @22.1
-My lord
+His Lordship
 @22.2
-Your Holiness
+His Holiness
 @22.3
-My lord
+His Lordship
 @23
 you
 @23.1
@@ -469,7 +469,7 @@ the master
 @33.13
 that person
 @34
-our lord
+His Lordship
 @34.1
 the master
 @34.2
@@ -603,7 +603,7 @@ this one
 @40.10
 this person
 @41
-our lord
+His Lordship
 @41.1
 the master
 @41.2
@@ -845,7 +845,7 @@ the master
 @56.8
 Master {02}{03}{EC}
 @57
-our lord
+His Lordship
 @57.1
 your master
 @57.2
@@ -901,7 +901,7 @@ Lord {02}{03}f
 @58
 the Shogun
 @58.1
-our lord
+His Lordship
 @58.2
 the master
 @58.3
@@ -989,7 +989,7 @@ the master
 @62.7
 Master {02}{03}{EC}
 @63
-our lord
+His Lordship
 @63.1
 your master
 @63.2
@@ -1041,7 +1041,7 @@ Lord {02}{03}g
 @64
 the Shogun
 @64.1
-our lord
+His Lordship
 @64.2
 the master
 @64.3

@@ -3,7 +3,7 @@
 @0.1
 I can leave the \#11D0 house to him with peace of mind.
 @0.3
-Yes, here.
+Here, my lord.
 @0.6
 Lord \#09D0 is calling for you.
 @0.7

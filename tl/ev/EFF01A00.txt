@@ -87,7 +87,7 @@ Oh, I am grateful! Then I will leave one army to hold the \#1074 clan in check a
 @5.21
 Is \#0AFC here?!
 @5.22
-Yes, here.
+Here I am.
 @5.23
 I leave that army in your command! Do not start anything yourself!
 @5.25
@@ -117,7 +117,7 @@ Lord \#09FC? No, he has not shown up yet...
 @7.6
 The Nakasendo... It passes through Lord \#0167's lands. Could it be...
 @7.7
-Yes, he vanished at the time of the Oyama council. So \#0167 has sided with the Western Army.
+Indeed, he vanished at the time of the Oyama council. So \#0167 has sided with the Western Army.
 @7.8
 \#1167... He is bad luck for \%041FA...
 @7.9
@@ -165,7 +165,7 @@ Then I'll take as many enemies as I can with me to the underworld!
 @9.9
 \%03! I'll go with you!
 @9.10
-Yes, let's go!
+Right, let's go!
 @9.11
 Raaah!
 @9.12

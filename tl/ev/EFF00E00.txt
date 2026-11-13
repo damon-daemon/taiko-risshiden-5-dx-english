@@ -1,5 +1,5 @@
 @0.1
-Old lord, what will you do now?
+My lord, what will you do now?
 @0.2
 Don't call me "old lord"... I didn't rebel because I wanted to be a daimyo.
 @0.4
@@ -232,13 +232,13 @@ Ugh...?! Wh-what...?!
 @6.26
 Prepare to die!
 @6.27
-\%01! You lot! Who are you?!
+My lord! You lot! Who are you?!
 @6.28
 These look like high-ranking samurai. If we bring in their heads, we'll get a fat reward.
 @6.29
 I-I am... to die... in a place... like this...? Gwaah...
 @6.30
-\%01!!
+My lord!!
 @6.31
 And so \#000E, whose name has come down to later ages as a traitor without equal, was struck down by nameless peasants of Ogurusu...
 @7.0
@@ -257,8 +257,8 @@ Hyaah!
 @7.13
 You've done it, \%03!
 @7.14
-Yes... but it's a pity he escaped. Well, no matter... we'll crush him at our leisure.
+We have... but it's a pity he escaped. Well, no matter... we'll crush him at our leisure.
 @7.15
 Now those who meant to side with \#0A05 may change their minds.
 @7.16
-Yes... Well then, first a triumphant return. And then we shall welcome the Shogun.
+Indeed... Well then, first a triumphant return. And then we shall welcome the Shogun.

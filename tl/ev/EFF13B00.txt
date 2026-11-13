@@ -4,11 +4,11 @@ But \#09FA could not touch the \#113B clan, which had stayed neutral, and its st
 @0.7
 \#004B has been put to death.
 @4.1
-Yes. Thank you for coming to meet me.
+Mm. Thank you for coming to meet me.
 @4.2
-Yes, sir. And... a letter has arrived from Lord \#004B.
+Sir. And... a letter has arrived from Lord \#004B.
 @4.5
-Yes, sir. And... a letter has arrived from Lord \#01FA.
+Sir. And... a letter has arrived from Lord \#01FA.
 @4.6
 Let's see... He is to settle the fates of the Western Army daimyo, and I am to come to \41DF at once...
 @4.8
@@ -33,7 +33,7 @@ And how shall the Western Army daimyo be dealt with?
 @5.56
 Those who sided with \#084B must be punished severely!
 @5.57
-Yes. Then we seize the lands of the Western commanders and share them among the Eastern daimyo. What say you?
+Indeed. Then we seize the lands of the Western commanders and share them among the Eastern daimyo. What say you?
 @5.58
 I have no objection.
 #~ @5.61  \#004B was executed.
@@ -83,7 +83,7 @@ No. He left \#09FA's second son \#0AFC at Utsunomiya in Shimotsuke to hold back 
 @7.20
 He leaves just enough men to keep \#1074 from attacking and strikes us with all the rest. That is his aim...
 @7.22
-Yes. We march!
+Right. We march!
 @8.0
 The \#11FA army is gathering at \51E7.
 @8.1
@@ -97,11 +97,11 @@ Where should we take up position...
 @8.5
 I think Mt. Matsuo would be best.
 @8.6
-Yes, then let it be so.
+Very well, then let it be so.
 @8.7
 \%03, when the smoke signal goes up, charge down the mountain and join the attack. Then the battle is ours.
 @8.8
-Yes, understood.
+Understood.
 @8.9
 And once this battle is over, I would like you, \%03, to become Lord \#0A06's guardian...
 @8.10
@@ -201,9 +201,9 @@ From \%0404B... What could it be?
 @12.6
 This is serious... \%03, what do you think?
 @12.11
-Yes, I have decided! Our house will join \%0404B!
+Right, I have decided! Our house will join \%0404B!
 @12.13
-Yes. I too have been sick of \#09FA's high-handedness.
+Indeed. I too have been sick of \#09FA's high-handedness.
 @12.14
 Everyone, we march!
 @12.17
@@ -217,7 +217,7 @@ Right! Understood!! Our house will join \%0404B!
 @12.26
 If we side with one and they lose, there's no guarantee the house will survive!
 @12.27
-Yes, your view makes sense. The \#113B clan will side with neither and stay neutral!
+Hm, your view makes sense. The \#113B clan will side with neither and stay neutral!
 @12.29
 Everyone seems to be here. Then...
 @12.34
@@ -236,4 +236,4 @@ But I am torn. I came to talk it over with you before deciding.
 @12.54
 I am glad I came after all. Then farewell.
 @13.4
-Yes. He asks that Lord \#093B lead the vanguard of the campaign against \#11FA!
+And he asks that Lord \#093B lead the vanguard of the campaign against \#11FA!

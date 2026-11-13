@@ -239,7 +239,7 @@ My lady! Lord \#00BF has joined hands with \#11FA and declared himself our house
 @5.24
 What! Is that true?!
 @5.25
-Yes! Lord \#08BF cut down three chief retainers close to our house: Okada Shigetaka, Asai Tamiyamaru and Tsugawa Yoshifuyu!
+Sir! Lord \#08BF cut down three chief retainers close to our house: Okada Shigetaka, Asai Tamiyamaru and Tsugawa Yoshifuyu!
 #~ @5.26  Okada Shigetaka, Asai Tamiyamaru and Tsugawa Katsuharu, chief retainers of \#00BF, were men in league with \#0205......
 @5.28
 Which means... he truly means to make war on our house.
@@ -681,7 +681,7 @@ By the way, I have one request.
 @12.19
 Wh-what is it? Speak!
 @12.20
-Yes, my lord. Your battle surcoat is truly magnificent. Would you grant it to me, \#09FA?
+My lord, your battle surcoat is truly magnificent. Would you grant it to me, \#09FA?
 @12.21
 My surcoat...? That is what I wear in battle. If you want one, I will have a new one made for you...
 @12.22
@@ -737,7 +737,7 @@ Have you come to see the finished castle too?
 @15.2
 \%04205! A truly splendid castle!
 @15.3
-Yes... When I heard it was finished, I could not keep still...
+My lord... When I heard it was finished, I could not keep still...
 @15.4
 I have never seen a keep that shines like this.
 @15.5
@@ -829,7 +829,7 @@ How could I ever slight you, Lord \#08BF, our late lord's own son?
 @18.12
 Y-yes... Quite so. A-anyway, I trust you. I am counting on you from now on.
 @18.13
-Yes, my lord! Most gracious words. Then I shall take my leave.
+My lord! Most gracious words. Then I shall take my leave.
 @18.15
 Ha ha ha! \#08BF is a hopelessly good-natured fool. At this rate he will ruin himself sooner or later...
 @18.16
@@ -837,7 +837,7 @@ So... \#08BF is dealt with. That leaves \#11FA.
 @20.0
 Everyone is waiting. Please come to the Council Chamber.
 @20.1
-Yes, thank you.
+Ah, good work.
 @20.4
 First, the heir to the \#10C3 clan...
 @20.8
@@ -865,7 +865,7 @@ We must show the realm who Lord \#08C3's successor is.
 @21.6
 Then it must be done in grand style.
 @21.7
-Yes. It must be a funeral grander than any ever seen!
+Indeed. It must be a funeral grander than any ever seen!
 @21.11
 The meeting with Lord \#117B is over for now, but a great task remains.
 @21.12
@@ -889,7 +889,7 @@ How about holding a funeral for Lord \#08C3?
 @21.23
 Then it must be done in grand style.
 @21.24
-Yes! It must be a funeral grander than any ever seen!
+Indeed! It must be a funeral grander than any ever seen!
 @21.29
 Lord \#0A05 has held Lord \#08C3's funeral!
 @21.30
@@ -1192,7 +1192,7 @@ What! She followed him?
 @36.1
 News, sir! Our lord has fought a battle with \#01FA's forces at Komaki!
 @36.4
-Yes... In truth, Lord \#00BF joined hands with \#01FA and rose in revolt against our house!
+My lord... In truth, Lord \#00BF joined hands with \#01FA and rose in revolt against our house!
 #~ @36.5  Okada Shigetaka, Asai Tamiyamaru and Tsugawa Katsuharu, chief retainers of \#00BF, were men in league with \#0205......
 @36.8
 Well... Our lord fell into \#01FA's trap and was defeated.
@@ -1323,7 +1323,7 @@ You are an old hand who has shared my hardships and joys. I did not want to lose
 @13.47
 I dismiss you. Go wherever you will.
 @13.48
-Yes, sir... I am grateful for your lenient judgement.
+Sir... I am grateful for your lenient judgement.
 @13.49
 Then, farewell!
 @13.50
@@ -1357,9 +1357,9 @@ I was thinking how great \#09E3's grief must be, losing his son so suddenly, jus
 @13.86
 Indeed... I fear for the future of the \#11E3 clan.
 @13.87
-Yes... At least, to ease \#09E2's sorrow, we must avenge him...
+Hm... At least, to ease \#09E2's sorrow, we must avenge him...
 @13.88
-From now on, it is a battle of vengeance! Shimazu, wash your necks and wait!
+From now on, it is a battle of vengeance! Shimazu, make your peace and wait!
 @13.94
 On the sole judgement of \#01A9, \#1205's overseer, the \#11E3 army was ordered to make a surprise attack on the \#118A.
 @13.95
@@ -1369,7 +1369,7 @@ But that was just what \#0183 wanted. The Shikoku forces were utterly crushed.
 @13.97
 The death of such a son was a terrible blow to \#09E3.
 @13.105
-Yes... \#0A04, I leave the aftermath to you.
+Hm... \#0A04, I leave the aftermath to you.
 @13.106
 (To be so shaken over another house's loss... If one day my brother's own child met the same fate...)
 @13.107
@@ -1447,7 +1447,7 @@ With his eye on the next enemy, \#0A05 made the \#11E3 clan break off its allian
 @14.56
 As expected of you... Skilfully done.
 @16.0
-Yes, it is time to tell everyone.
+Hm, it is time to tell everyone.
 @16.3
 Gather the retainers!
 @16.4

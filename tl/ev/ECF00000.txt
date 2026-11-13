@@ -549,7 +549,7 @@ At last my \D079 has become a ninja band without equal in Japan, the power that 
 @9.3
 \%047FE, congratulations!
 @9.4
-Thanks to all of you, the ninja of this land are united as one. I'm counting on you from now on.
+Thanks to all of you, the ninja of this land are united as one. I'll keep counting on you.
 @9.5
 \%047FE is now the foremost ninja master in Japan... There is nothing left to fear.
 @9.6
@@ -575,11 +575,11 @@ Lord \#17F4... I hear the people of \41E2 are grumbling that their taxes are too
 @9.16
 It would be wise to hold back a little from now on.
 @9.17
-Yes... my apologies! I will be careful from now on!
+Sir... my apologies! I will be careful from now on!
 @9.18
 And Master \B079, I'm thinking of a major renovation of the training grounds at \41DE before long.
 @9.19
-Yes, sir... If it's a matter of money, leave it to us! Ask for as many thousands of kan as you like.
+Certainly, sir... If it's a matter of money, leave it to us! Ask for as many thousands of kan as you like.
 @9.20
 Heh heh heh... you're as wicked as ever.
 @9.21
@@ -587,7 +587,7 @@ No, no... we can only do business thanks to the \D079...
 @9.22
 We are counting on you as well. If anything is inconvenient, just say the word.
 @9.23
-Yes... As long as my \D079 rules this land, you have nothing to worry about... Ha ha ha!
+Hm... As long as my \D079 rules this land, you have nothing to worry about... Ha ha ha!
 @9.24
 Even the imperial court could no longer ignore the \D079, which ruled the land with hidden power...
 @9.25
@@ -901,7 +901,7 @@ Kusakabe no Ason \Z004
 @11.141
 By imperial decree... "\Z003, of the Senior First Rank, is appointed Chancellor." Receive it with gratitude...
 @11.142
-Yes, sir.
+I humbly accept.
 @11.143
 Thank you all for your hard work. From today I will rule the land as \Z001... I am counting on you.
 @11.144
@@ -921,7 +921,7 @@ Thank you all for coming!
 @11.153
 We all humbly swear to serve the \A406 faithfully...
 @11.154
-Yes... this ends the age of war. From today I issue the Sobuji Edict to the whole land.
+Indeed... this ends the age of war. From today I issue the Sobuji Edict to the whole land.
 @11.155
 From now on, private wars over land without the leave of the \A406 are forbidden!
 @11.157
@@ -935,7 +935,7 @@ Ooh!
 @11.161
 Congratulations...
 @11.162
-Yes... I am counting on you all from now on.
+Good... I'll keep counting on you all.
 @11.163
 Yes, my liege!
 @11.164
@@ -953,7 +953,7 @@ That we came this far, \#07FE, is thanks to your efforts. Let me thank you again
 @11.183
 You praise me too much... \%03, please rule this land in peace as \Z001 from now on.
 @11.184
-Yes...
+Hm...
 @11.186
 No, no... it is all your own doing, my liege. \%03, please rule this land in peace as \Z001 from now on.
 @11.189
@@ -1208,7 +1208,7 @@ With the help of \#0FF5, \#0FFE in turn firmly established the rule of the \Z002
 @11.401
 Grandfather, congratulations on uniting the realm.
 @11.402
-Yes... \#0FFE, when I retire, you will one day become ruler of the realm... Work hard for that day.
+Hm... \#0FFE, when I retire, you will one day become ruler of the realm... Work hard for that day.
 @11.405
 Grandmother, congratulations on uniting the realm.
 @11.406
@@ -1546,7 +1546,7 @@ It was the dawn of the \#17F5 era, when a gorgeous culture blossomed. And the ye
 @11.613
 The rule of the \Z001 was refined with each generation, and a firm political order was built...
 @11.614
-It went on to last more than three hundred years, and the \#17F5 era, shining in Japanese history, is spoken of with envy by later ages.
+It endured for over three centuries, and the \#17F5 era, a shining age in Japanese history, is looked back on with longing.
 @11.615
 To tighten its grip at home, the \Z002 banned Christianity and closed the country, but many were discontented...
 @11.616
@@ -1554,7 +1554,7 @@ In the west especially, where Christians were many, believers shut themselves in
 @11.617
 The \Z002 at once sent an army and soon crushed it, and the land was pacified again.
 @11.618
-To tighten a slackening mood, the \Z002 strengthened its grip on the land and kept watchful eyes everywhere.
+To stamp out complacency, the \Z002 tightened its grip on the land and set watchers everywhere.
 @11.619
 Aiming for a firm feudal order, the \Z002 stripped defiant daimyo of their lands over trifles and cracked down on ronin.
 @11.620
@@ -1682,9 +1682,9 @@ A message to Lord \#1267...?
 @15.9
 Yes. I have a letter I want delivered. An important letter... I can't trust just anyone with it.
 @15.10
-Yes, sir! If you put it that way, my lord, \#0FFE will gladly go.
+Sir! If you put it that way, my lord, \#0FFE will gladly go.
 @15.11
-Yes... But one word of warning.
+Good... But one word of warning.
 @15.12
 Yes...?\nWhat is it?
 @15.13
@@ -1698,7 +1698,7 @@ Oh...\nSo I mustn't drink...
 @15.17
 You are going to see Lord \#1267 on important business. Don't you dare make a mess of it with drink.
 @15.18
-Yes, sir...\nThen I'll be off.
+Sir...\nThen I'll be off.
 @15.19
 Hmm...\nI'm worried...
 @16.0
@@ -2252,7 +2252,7 @@ Still, knowing it or not makes a difference. It won't hurt to hear it.
 @27.18
 And that's about it.\nHope it helps.
 @27.19
-Yes, I understand.\nThank you.
+I understand it well now.\nThank you.
 @27.20
 No matter, no matter.\nI know it already.
 @27.21
@@ -2316,7 +2316,7 @@ My talk is finish now. You understand?
 @29.15
 Well, more or less...
 @29.16
-Yes, let's say I do...
+Hm, let's leave it at that...
 @29.17
 N-no,\nthere's no need.
 @29.18
@@ -2406,13 +2406,13 @@ No, I already know, thank you.
 @31.19
 Is that so? Then I'll spare you the explanation.
 @32.0
-Well, well!\nWelcome, \%03.
+Oh, my!\nWelcome, \%03.
 @32.1
 Is this your first time at this guild?
 @32.2
 If you like, I would be happy to explain the guild to you. Heh, heh, heh.
 @32.5
-Yes. Let's see. Could you tell me a little?
+Hm. Let's see. Could you tell me a little?
 @32.6
 Certainly. Though I hardly think the guild is a place you'd need to trouble yourself with now, sir.
 @32.7
@@ -2466,7 +2466,7 @@ That is how to use the guild.
 @32.31
 If you feel I've left something out, speak to me with [Talk]. I may remember something I forgot.
 @32.32
-Yes. I understand well. Thank you.
+I understand it well now. Thank you.
 @32.33
 No, no explanation needed.
 @32.34
@@ -2478,7 +2478,7 @@ Hey, welcome.
 @32.37
 You look a bit lost. If you don't know what to do at the guild, I'll tell you.
 @32.40
-Yes, I really don't know much. Could you tell me?
+Indeed, I really don't know much. Could you tell me?
 @32.41
 All right. The guild deals in trade goods. Most of what you can do here has to do with them.
 @32.42
@@ -2712,7 +2712,7 @@ A ninja must never let anyone sense his presence.
 @41.8
 That's true, but there's no need to surprise your own side. Well, never mind. What is it?
 @41.9
-Yes, sir. I was told to explain to you what your home is for.
+Sir. I was told to explain to you what your home is for.
 @41.10
 Hm, what's wrong? Has something happened?
 @41.11
@@ -2731,7 +2731,7 @@ Just back, \%03?
 @41.20
 A ninja must never let anyone sense her presence.
 @41.22
-Yes. I was told to explain to you what your home is for.
+I was told to explain to you what your home is for.
 @41.24
 No, nothing like that. I was told to explain to you what your home is for.
 @41.26
@@ -3087,7 +3087,7 @@ Understood. You may leave the dojo with peace of mind, master.
 @43.16
 It's too soon for you to worry about such things. Keep training.
 @43.17
-Yes, master...\nForgive me...
+Master...\nForgive me...
 @43.18
 What is it?\nTell me.
 @43.20
@@ -3890,7 +3890,7 @@ Last month, too, several students quit in frustration.
 @65.13
 Could you expand the dojo and make it a little bigger?
 @65.14
-Yes, I'll think about it.
+Hm, I'll think about it.
 @65.15
 Yes, I'll think about it.
 @66.7
@@ -7017,7 +7017,7 @@ I'm glad. Then I'll take my leave.
 @126.0
 \37F1 has built a castle at Sunomata!
 @127.0
-\%01, you look rather bored.
+You look rather bored.
 @127.1
 No... I was just thinking.
 @127.2
@@ -7039,17 +7039,17 @@ Oh, that's a fine idea! Samurai, merchants, nobles, commoners: everyone who want
 @127.10
 Hold such a grand tea party, and the people will feel your glory, \%03, and the peace of the world!
 @127.11
-Yes! The only condition to take part: bring your own tea bowl... that's all!
+Indeed! The only condition to take part: bring your own tea bowl... that's all!
 @127.12
 \%03, please provide some famous tea ware too! And let's gather the noted tea masters from the area.
 @127.13
-Yes, make it splendid! Ah... I can't wait!
+Right, make it splendid! Ah... I can't wait!
 @127.14
 And so...
 @127.15
 \%03! All is ready! Let the tea party begin!
 @127.16
-Yes!!
+Good!!
 @127.17
 That day, over 700 people took part in the tea party...
 @127.18
@@ -7093,7 +7093,7 @@ Welcome... Oh...
 @128.3
 Our household is a little short of money... so I've been helping out here to add even a little.
 @128.5
-I won't neglect the housework. Can't I work just while you're away, \%01?
+I won't neglect the housework. Can't I work just while you're away?
 @128.6
 Make her quit
 @128.8
@@ -7187,7 +7187,7 @@ It's \>3FA. I was told not to tell you until after leaving...
 @129.101
 I see... They're very thoughtful. I'll use it with care.
 @129.102
-\%01, there's a grain of rice by your mouth...
+Oh, there's a grain of rice by your mouth...
 @129.103
 Hm?
 @129.104
@@ -7233,7 +7233,7 @@ Hmm... I seem to have fallen asleep.
 @130.18
 ...Good morning, \%01...
 @130.19
-You fell asleep too, \%01? ...\n...Where's the old man?
+You fell asleep too? ...\n...Where's the old man?
 @130.20
 Hmm? He seems to have gone home...
 @130.21
@@ -7285,7 +7285,7 @@ Ugh... Caught off guard...
 @131.7
 Oh, that was dangerous! What are you doing all of a sudden!
 @131.8
-\%01, are you all right?
+Are you all right?
 @131.9
 My lady, forgive me. Taken by surprise, I struck back without thinking.
 @131.10
@@ -7293,7 +7293,7 @@ That's quite all right. He attacked you without warning, after all.
 @131.11
 Eh? \%01, why are you defending this fellow?
 @131.12
-You've misunderstood, \%01!
+You've misunderstood!
 @131.13
 ...I see. So \%03 once helped this man out of a tight spot...
 @131.14
@@ -7359,7 +7359,7 @@ Next time, please handle things a little more calmly.
 @131.44
 Please, don't scold me any more. I'm sorry...
 @132.0
-\%01?
+Is that you?
 @132.1
 Hm? Oh, \%03...
 @132.2
@@ -7415,7 +7415,7 @@ Caught by the unexpected counterattack, the drunk passed out.
 @132.27
 Oh dear, how unladylike of me. Oh ho ho ho ho...
 @132.28
-\%01, are you all right? Are you hurt anywhere?
+Are you all right? Are you hurt anywhere?
 @132.29
 I'm not hurt anywhere. But to be saved by the wife I meant to protect... how pathetic...
 @132.30
@@ -7433,41 +7433,41 @@ Some day I should have \%03 taught martial arts or something...
 @133.0
 Welcome home, \%01.
 @133.1
-\%01, I hear the etiquette teacher is visiting nearby again.
+I hear the etiquette teacher is visiting nearby again.
 @133.2
 Apparently he'll give an etiquette lecture for 100 kan again.
 @133.3
-\%01, I hear the strategy teacher is visiting nearby again.
+I hear the strategy teacher is visiting nearby again.
 @133.4
 Apparently he'll give a strategy lecture for 100 kan again.
 @133.5
-\%01, I hear the politics teacher is visiting nearby again.
+I hear the politics teacher is visiting nearby again.
 @133.6
 Apparently he'll give a politics lecture for 100 kan again.
 @133.7
-\%01, I hear the martial arts teacher is visiting nearby again.
+I hear the martial arts teacher is visiting nearby again.
 @133.8
 Apparently he'll give a martial arts lecture for 100 kan again.
 @133.9
-\%01, did you know an etiquette teacher is visiting nearby right now?
+Did you know an etiquette teacher is visiting nearby right now?
 @133.10
 He's an old acquaintance of mine... He's a physician now, but he was once famous as an authority on etiquette.
 @133.11
 He said if I asked, he'd give an etiquette lecture for 100 kan.
 @133.12
-\%01, did you know a strategy teacher is visiting nearby right now?
+Did you know a strategy teacher is visiting nearby right now?
 @133.13
 He's an old acquaintance of mine... He's a monk now, but he was once famous as a scholar of strategy.
 @133.14
 He said if I asked, he'd give a strategy lecture for 100 kan.
 @133.15
-\%01, did you know a politics teacher is visiting nearby right now?
+Did you know a politics teacher is visiting nearby right now?
 @133.16
 He's an old acquaintance of mine... He's a merchant now, but his family ran the affairs of noble houses for generations.
 @133.17
 He said if I asked, he'd give a politics lecture for 100 kan.
 @133.18
-\%01, did you know a martial arts teacher is visiting nearby right now?
+Did you know a martial arts teacher is visiting nearby right now?
 @133.19
 He's an old acquaintance of mine... a superb swordsman, versed in both theory and practice.
 @133.20
@@ -8697,7 +8697,7 @@ No, surely it's "hana zo mukashi no ka ni nioikeru".
 @196.350
 \%03's answer is correct.
 @196.351
-Yes!
+All right!
 @196.352
 (Damn, I've fallen behind.)
 @196.353
@@ -9966,7 +9966,7 @@ Are you \%03?\nI am Kikutei.
 @208.12
 I am truly honoured to be invited to so auspicious an occasion.
 @208.13
-Well, well.\nWelcome.
+Why, how good of you to come!\nWelcome.
 @208.14
 To share tea with you under this clear sky is the greatest luxury. How could I miss such a chance?
 @208.15
@@ -10628,7 +10628,7 @@ Very well. Let's go somewhere we can find iron sand.
 @215.38
 \%03, I'll be out for a while.
 @215.39
-Yes, my business is not urgent. Teach well and take your time.
+Very well, my business is not urgent. Teach well and take your time.
 @215.40
 Yes, my business is not urgent. Teach well and take your time.
 @215.43
@@ -10766,19 +10766,19 @@ Well,\nI wish you a safe journey.
 @216.22
 Sadly, I've only\nheard the name.
 @216.23
-Is that so.\nWell, no help for it.
+Is so?\nWell, no can help.
 @216.24
 \37F0 chatted for a while,\nthen took his leave.
 @216.25
-I fly around everywhere for some time. Maybe I come again.
+For a while I travel here, there, everywhere. Maybe I come again.
 @216.26
-So, goodbye, be well.
+So, goodbye. You be well.
 @216.27
 Sorry I couldn't help.\nUntil next time.
 @217.0
-With all my training, my skill at making arms seems to have improved a great deal, but...
+With all my training, I believe my craft has come a long way, and yet...
 @217.1
-Good work alone isn't enough. Perhaps I'm stuck too firmly in one mould.
+Being well made isn't enough. Perhaps I'm stuck too firmly in one mould.
 @217.2
 To break out of this rut, perhaps I need to visit smiths around the land again and study their skills.
 @217.3
@@ -11014,7 +11014,7 @@ So, did you steal anything in the end?
 @220.99
 Er, this...
 @220.100
-Why, that's soap. What did you mean to do stealing that?
+Why, that's soap. Whatever did you want with that?
 @220.103
 Soap?
 @220.104
@@ -11022,9 +11022,9 @@ It's a Nanban import for washing hands and body.
 @220.107
 Well, I was sure it was food...
 @220.108
-Good thing you didn't eat it by mistake. Your mouth would've been full of bubbles.
+Good thing you didn't eat it by mistake. You'd have been frothing at the mouth.
 @220.109
-Hmm.\nDid you keep such a thing in your forge?
+Hmm.\nDid I keep such a thing in my forge?
 @220.110
 Perhaps it's my wife's.
 @220.111
@@ -11036,9 +11036,9 @@ Whatever the reason, that settles this matter.
 @220.114
 He doesn't seem to be hiding anything else...
 @220.115
-Now I have my things back, I don't intend to press charges.
+Now I have my things back, I've no wish to punish him further.
 @220.116
-He seems to have been in a pitiable situation.
+He had his reasons, poor fellow.
 @220.117
 Now I have my things back, I don't intend to press charges.
 @220.118
@@ -12378,13 +12378,13 @@ I am honoured to be granted an audience. I trust \#1267 is in good health...
 @253.6
 \&03, enough of the stiff greetings. Speak freely.
 @253.7
-Yes... Today I bring a letter from my lord.
+Sir... Today I bring a letter from my lord.
 @253.8
 Hmm... let's see.
 @253.10
 Mm, understood.\nGive my regards to \#1125.
 @253.11
-Yes!\nThen I'll take my leave...
+Certainly!\nThen I'll take my leave...
 @253.12
 Now, wait, \&03. Since you're here, won't you have a drink?
 @253.13
@@ -12527,7 +12527,7 @@ Now...\nTime to report to my lord.
 @254.1
 Ah!\nYou're back, \#0FFE.\nSo, how did it go?
 @254.2
-Yes... As ordered, I delivered your letter to Lord \#1267...
+Sir... As ordered, I delivered your letter to Lord \#1267...
 @254.3
 Mm, well done.\nAnd you didn't drink, I trust?
 @254.4
@@ -12551,7 +12551,7 @@ No, no, you keep it. It's your reward for raising the name of \#1125's warriors.
 @254.14
 But go easy on the sake.
 @254.15
-Yes...
+Sir......
 @254.18
 Yes! Of course. I would never disobey your command.
 @254.19
@@ -12807,7 +12807,7 @@ Oh, the \#11C1 and \#1276 armies...\nTell me more.
 @261.2
 Oh, the \#11C1 and \#1276 armies...\nTell me more.
 @261.3
-Yes, well...
+Sir. It was like this......
 @261.4
 Have you heard? There was a great battle between the \#11C1 and \#1276 armies.
 @261.5
@@ -12950,7 +12950,7 @@ Megata Shinsuke, to whom Ryuwakamaru was entrusted, betrayed us and handed him o
 What, then...
 #ps2 @267.4  Yes... it pains me to say it, but he was put to the sword at \41DF.
 @267.4
-Yes... it pains me to say it, but he was put to death at \41DF.
+I regret to say it, but he was put to death at \41DF.
 @267.5
 Ryuwakamaru, not yet even of age... What of Takematsumaru and Tsuruwakamaru?
 #ps2 @267.6  Your second son, Takematsumaru, was caught by \#1276's men and also put to the sword.
@@ -12997,7 +12997,7 @@ I hope Echigo cooking is to your taste.
 @268.15
 Oh, it's excellent indeed. ...Now, Lord \#0877.
 @268.16
-Yes.
+Sir.
 @268.17
 I came for no other reason: I want you to march into Kanto and destroy \#1276.
 @268.18
@@ -13030,7 +13030,7 @@ Now there is no one to inherit the Yamanouchi \#1320 house, the Kanto deputies..
 @268.32
 So I want you, Lord \#0877, a man who knows duty and courtesy, to inherit my name.
 @268.33
-Yes! I am unworthy... To live up to your hopes, Lord \#0B20, I, \#0877, will strive with all my might.
+Such an honour, I am unworthy... To live up to your hopes, Lord \#0B20, I, \#0877, will strive with all my might.
 @268.34
 Mm, I'm counting on you.
 @269.0
@@ -14327,7 +14327,7 @@ Well now, training... What should I do?
 @323.1
 Ho ho ho. You look troubled. Shall I teach you?
 @323.4
-Yes, training. In short, raise your own skills.
+Ah, training. In short, raise your own skills.
 @323.5
 How do I raise my skills?
 @323.6
@@ -14353,7 +14353,7 @@ Sell Rice, they say... Where should I go and what should I do?
 @324.1
 Ho ho ho. Troubled? This old man will teach you.
 @324.4
-Yes, Sell Rice. In short, sell provisions to earn money.
+Ah, Sell Rice. In short, sell provisions to earn money.
 @324.5
 Where do I sell provisions?
 @324.6
@@ -14367,7 +14367,7 @@ Naturally, the more money you earn, the more highly you'll be rated at the counc
 @325.0
 Well now, Buy Rice... What should I do?
 @325.4
-Yes, Buy Rice. In short, buy as much rice as you can.
+Ah, Buy Rice. In short, buy as much rice as you can.
 @325.5
 Where do I buy provisions?
 @325.6
@@ -14379,7 +14379,7 @@ Naturally, the more provisions you add, the more highly you'll be rated at the c
 @326.0
 Buy Horses, they say... What should I do?
 @326.4
-Yes, Buy Horses. In short, buy as many warhorses as you can.
+Ah, Buy Horses. In short, buy as many warhorses as you can.
 @326.5
 Where do I buy warhorses?
 @326.6
@@ -14391,7 +14391,7 @@ Naturally, the more warhorses you buy, the more highly you'll be rated at the co
 @327.0
 Well now, Buy Guns... What should I do?
 @327.4
-Yes, Buy Guns. Get hold of as many guns as you can.
+Ah, Buy Guns. Get hold of as many guns as you can.
 @327.5
 How do I get hold of guns?
 @327.6
@@ -14405,7 +14405,7 @@ Naturally, the more guns you add, the more highly you'll be rated at the council
 @328.0
 Sell Guns, they say... What should I do?
 @328.4
-Yes, Sell Guns. Sell guns to a castle lord to earn money.
+Ah, Sell Guns. Sell guns to a castle lord to earn money.
 @328.5
 How do I sell guns?
 @328.6
@@ -14419,7 +14419,7 @@ Naturally, the more money you earn, the more highly you'll be rated at the counc
 @329.0
 Well now, Buy Cannon... What should I do?
 @329.4
-Yes, Buy Cannon. Get hold of as many cannon as you can.
+Ah, Buy Cannon. Get hold of as many cannon as you can.
 @329.5
 How do I get hold of cannon?
 @329.6
@@ -14431,7 +14431,7 @@ Naturally, the more cannon you add, the more highly you'll be rated at the counc
 @330.0
 Corner the rice of \41DF, they say... What should I do?
 @330.4
-Yes, cornering rice. Buy up as much of the target castle's provisions as you can.
+Ah, cornering rice. Buy up as much of the target castle's provisions as you can.
 @330.5
 How do I buy up provisions?
 @330.6
@@ -14443,7 +14443,7 @@ Naturally, the more provisions you buy up, the more highly you'll be rated at th
 @331.0
 Well now, a gift of war funds to \C498... What should I do?
 @331.4
-Yes, Gift Funds. Give war funds to the target power to improve relations.
+Ah, Gift Funds. Give war funds to the target power to improve relations.
 @331.5
 How do I give war funds?
 @331.6
@@ -14455,7 +14455,7 @@ Naturally, the more you improve relations, the more highly you'll be rated at th
 @332.0
 Well now, repairs at \41DF... What should I do?
 @332.4
-Yes, Repair. Strengthen the defences of the target.
+Ah, Repair. Strengthen the defences of the target.
 @332.5
 How do I strengthen the defences?
 @332.6
@@ -14469,7 +14469,7 @@ Naturally, the stronger the defences, the more highly you'll be rated at the cou
 @333.0
 Well now, expanding \41DF... What should I do?
 @333.4
-Yes, Expand. Enlarge the target.
+Ah, Expand. Enlarge the target.
 @333.5
 How do I enlarge it?
 @333.8
@@ -14479,13 +14479,13 @@ Naturally, the more you enlarge it, the more highly you'll be rated at the counc
 @334.0
 Well now, investing in \41DF... What should I do?
 @334.4
-Yes, Invest. Go to the target and invest funds.
+Ah, Invest. Go to the target and invest funds.
 @334.5
 Naturally, the more you invest, the more highly you'll be rated at the council.
 @335.0
 A gift for \37F1, they say... What should I do?
 @335.4
-Yes, a gift. Slip the target a bribe to improve relations.
+Ah, a gift. Slip the target a bribe to improve relations.
 @335.5
 How do I give the gift?
 @335.6
@@ -14495,13 +14495,13 @@ The bigger the bribe, the better relations get. With high Speech, it's more effe
 @336.0
 Resign as purveyor to \C498, they say... What should I do?
 @336.4
-Yes, resigning as purveyor. Go to the target daimyo's castle and resign as his purveyor.
+Ah, resigning as purveyor. Go to the target daimyo's castle and resign as his purveyor.
 @336.5
 Resigning always succeeds. Of course, relations with that daimyo's clan will turn sour.
 @337.0
 Well now, moneylending... What should I do?
 @337.4
-Yes, moneylending. Lend money to daimyo.
+Ah, moneylending. Lend money to daimyo.
 @337.5
 How do I lend money?
 @337.6
@@ -14521,7 +14521,7 @@ Naturally, the more you lend, the more highly you'll be rated at the council.
 @338.0
 Dun Debts, they say... Where should I go and what should I do?
 @338.4
-Yes, debt collecting. Recover money lent to daimyo.
+Ah, debt collecting. Recover money lent to daimyo.
 @338.5
 How do I recover the money?
 @338.6
@@ -14535,7 +14535,7 @@ Naturally, the more debts you collect, the more highly you'll be rated at the co
 @339.0
 Well now, surveying specialities in \e7FC... What should I do?
 @339.4
-Yes, Survey Specialties. Look into the prices of specialities in the towns of the target trade area.
+Ah, Survey Specialties. Look into the prices of specialities in the towns of the target trade area.
 @339.5
 How do I look into prices?
 @339.6
@@ -14545,7 +14545,7 @@ Naturally, the more towns in the trade area you check, the more highly you'll be
 @340.0
 Ship goods to \41DF, they say... Hmm, what should I do?
 @340.4
-Yes, shipping goods. Deliver the trade goods safely to the target town.
+Ah, shipping goods. Deliver the trade goods safely to the target town.
 @340.5
 But bandits may attack on the way, after the goods. Watch out for that.
 @340.6
@@ -14553,7 +14553,7 @@ When you reach the town, deliver the goods to the guild. Got it? Not a merchant 
 @341.0
 Well now, Find Talent... What should I do?
 @341.4
-Yes, Find Talent. In short, find ronin.
+Ah, Find Talent. In short, find ronin.
 @341.5
 How do I find ronin?
 @341.6
@@ -14565,7 +14565,7 @@ Naturally, the more ronin you find, the more highly you'll be rated at the counc
 @342.0
 Well now, recruiting \37F1... What should I do?
 @342.4
-Yes, recruiting. Visit the target's home and bring him into your merchant house.
+Ah, recruiting. Visit the target's home and bring him into your merchant house.
 @342.5
 This time you should go and see Lord \37F1... He's probably in \41E1.
 @342.6
@@ -14575,7 +14575,7 @@ Trust between you matters too. Well, whether it works or not, you won't know unt
 @343.0
 Well now, advertising the shop... What should I do?
 @343.4
-Yes, advertising. Go to the target town and advertise the branch to extend its promotion period.
+Ah, advertising. Go to the target town and advertise the branch to extend its promotion period.
 @343.5
 How do I advertise?
 @343.6
@@ -14595,7 +14595,7 @@ Naturally, the longer the promotion period, the more highly you'll be rated at t
 @344.0
 Peddling, they say... Where should I go and what should I do?
 @344.4
-Yes, peddling. In short, sell the valuables you were given to earn money.
+Ah, peddling. In short, sell the valuables you were given to earn money.
 @344.5
 How do I sell the valuables?
 @344.6
@@ -14603,7 +14603,7 @@ Sell them to passers-by. In short, get the highest price you can.
 @345.0
 Well now, Buy Trade Goods... What should I do?
 @345.4
-Yes, Buy Trade Goods. Buy plenty of the target goods.
+Ah, Buy Trade Goods. Buy plenty of the target goods.
 @345.5
 How do I buy trade goods?
 @345.6
@@ -14615,7 +14615,7 @@ Naturally, the more trade goods you buy, the more highly you'll be rated at the 
 @346.0
 Buy Treasure, they say... Where should I go and what should I do?
 @346.4
-Yes, Buy Treasure. Buy the target treasure.
+Ah, Buy Treasure. Buy the target treasure.
 @346.5
 How do I buy treasure?
 @346.6
@@ -14627,7 +14627,7 @@ If the shop doesn't have the treasure, get closer to the person at the shop. If 
 @347.0
 Well now, selling treasure... Where should I go and what should I do?
 @347.4
-Yes, selling treasure. Sell the treasure you were given to the target.
+Ah, selling treasure. Sell the treasure you were given to the target.
 @347.5
 How do I sell the treasure?
 @347.6
@@ -14643,7 +14643,7 @@ A benefit show (kanjin kogyo), eh? Well, I could carry on like this, but...
 @348.1
 Ho ho ho. Shall I teach you a way to earn even more credit?
 @348.4
-Yes, the benefit show. Go and see retainers of the ruling clan and ask them to compete in the shrine sumo.
+Ah, the benefit show. Go and see retainers of the ruling clan and ask them to compete in the shrine sumo.
 @348.5
 How do I ask them?
 @348.6
@@ -14659,7 +14659,7 @@ The more skilled in Martial Arts the officers you bring, the more credit you'll 
 @349.0
 Sutras and sermons, eh? Well, I could carry on like this, but...
 @349.4
-Yes, sutras and sermons. Go and see monks and ask them to give sermons.
+Ah, sutras and sermons. Go and see monks and ask them to give sermons.
 @349.6
 First meet a monk. Visit a temple in town.
 @349.7
@@ -14673,7 +14673,7 @@ The more monks you gather to preach, the more credit you'll earn.
 @350.0
 Temple repair (garan kaiso), eh? Well, I could carry on like this, but...
 @350.4
-Yes, temple repair. Gather timber as building material for the repairs and supply it to the temple.
+Ah, temple repair. Gather timber as building material for the repairs and supply it to the temple.
 @350.5
 Timber can be bought at a town guild. Oh, but surely you know that already.
 @350.6
@@ -14681,7 +14681,7 @@ The more timber you supply to the temple of the target town, the more credit you
 @351.0
 Buddha carving (butsuzo chokoku), eh? Well, I could carry on like this, but...
 @351.4
-Yes, Buddha carving. Get a craftsman to introduce you to a sculptor who'll carve a new Buddha.
+Ah, Buddha carving. Get a craftsman to introduce you to a sculptor who'll carve a new Buddha.
 @351.5
 How can I get an introduction?
 @351.6
@@ -14693,7 +14693,7 @@ And if you've earned the title [Arts Patron], this event will be more likely to 
 @352.0
 Founding a library (bunko sosetsu), eh? Well, I could carry on like this, but...
 @352.4
-Yes, founding a library. Collect books and donate them to the new library.
+Ah, founding a library. Collect books and donate them to the new library.
 @352.5
 How do I collect books?
 @352.6
@@ -14709,7 +14709,7 @@ The more books you donate to the library, the more credit you'll earn.
 @353.0
 Inviting scholars (gakuso shohei), eh? Well, I could carry on like this, but...
 @353.4
-Yes, inviting scholars. Get a monk to introduce you to scholar-monks who'll teach Chinese and sutras at the school.
+Ah, inviting scholars. Get a monk to introduce you to scholar-monks who'll teach Chinese and sutras at the school.
 @353.5
 How do I get an introduction?
 @353.7
@@ -14719,7 +14719,7 @@ The more scholars you're introduced to, the more credit you'll earn.
 @354.0
 Inviting missionaries (senkyoshi shohei), eh? Well, I could carry on like this, but...
 @354.4
-Yes, inviting missionaries. Get a missionary to introduce you to missionaries who'll teach Nanban learning at the school.
+Ah, inviting missionaries. Get a missionary to introduce you to missionaries who'll teach Nanban learning at the school.
 @354.6
 First meet a missionary. Visit a town's Nanban temple.
 @354.7
@@ -14731,7 +14731,7 @@ The more missionaries you're introduced to, the more credit you'll earn.
 @355.0
 A name plaque (hengaku kigo), eh? Well, I could carry on like this, but...
 @355.4
-Yes, the name plaque. Have a craftsman write the characters for the plaque over the college's main gate.
+Ah, the name plaque. Have a craftsman write the characters for the plaque over the college's main gate.
 @355.5
 "Kigo" means having a great person write something with their own brush.
 @355.6
@@ -14741,7 +14741,7 @@ Once you've met a craftsman, ask by [Commission Plaque]. If you're close, you'll
 @356.0
 Sewers (gesui seibi), eh? Well, I could carry on like this, but...
 @356.4
-Yes, sewers. Gather the hands needed to build sewers for the townhouses under construction.
+Ah, sewers. Gather the hands needed to build sewers for the townhouses under construction.
 @356.5
 How do I gather the hands?
 @356.6
@@ -14755,7 +14755,7 @@ The more people you gather, the more credit you'll earn.
 @357.0
 Digging a canal (unga kussaku), eh? Well, I could carry on like this, but...
 @357.4
-Yes, digging a canal. Buy a great many hoes from smithies to dig the town's canal.
+Ah, digging a canal. Buy a great many hoes from smithies to dig the town's canal.
 @357.5
 How do I buy hoes?
 @357.6
@@ -14767,7 +14767,7 @@ The more hoes you gather, the more credit you'll earn.
 @358.0
 Getting lumber (mokuzai chotatsu), eh? Well, I could carry on like this, but...
 @358.4
-Yes, getting lumber. Gather timber as building material and supply it for the townhouses.
+Ah, getting lumber. Gather timber as building material and supply it for the townhouses.
 @358.5
 First find a town that sells timber. Then just buy it. Best to buy where it's cheap.
 @358.6
@@ -14777,7 +14777,7 @@ The more timber you supply for the townhouses, the more credit you'll earn.
 @359.0
 Digging wells (idohori), eh? Well, I could carry on like this, but...
 @359.4
-Yes, digging wells. Ask a daimyo clan to lend its ashigaru to help dig the town's wells.
+Ah, digging wells. Ask a daimyo clan to lend its ashigaru to help dig the town's wells.
 @359.5
 And how do I do that?
 @359.6
@@ -14790,7 +14790,7 @@ With high Speech, more will come. The [Mole Attack] technique may come in handy 
 @360.0
 A dance show (odori kogyo), eh? Well, I could carry on like this, but...
 @360.4
-Yes, the dance show. Ask Izumo no Okuni's troupe to put on a dance at the town festival.
+Ah, the dance show. Ask Izumo no Okuni's troupe to put on a dance at the town festival.
 @360.5
 Do you know Izumo no Okuni's troupe, famous for kabuki dance?\n\nThey travel, so I can't say where they're performing. First, go and look for them.
 @360.6
@@ -14800,7 +14800,7 @@ And knowing [Kabuki Dance] should make this event more likely to succeed.
 @361.0
 A dengaku show (dengaku kogyo), eh? Well, I could carry on like this, but...
 @361.4
-Yes, the dengaku show. Gather people who can dance dengaku at the town festival.
+Ah, the dengaku show. Gather people who can dance dengaku at the town festival.
 @361.5
 How do I gather them?
 @361.6
@@ -14814,7 +14814,7 @@ And knowing [Dengaku Noh] should help you find them more efficiently.
 @362.0
 Street stalls (roten shobai), eh? Well, I could carry on like this, but...
 @362.4
-Yes, street stalls. Just as it says: set up a stall and sell goods.
+Ah, street stalls. Just as it says: set up a stall and sell goods.
 @362.5
 Naturally, rare things you can't get in this town will please people.
 @362.6
@@ -14828,7 +14828,7 @@ The more goods you sell, the more credit you'll earn.
 @363.0
 Food and drink (shushoku furumai), eh? Well, I could carry on like this, but...
 @363.4
-Yes, food and drink. Treat the young folk at the festival to sake.
+Ah, food and drink. Treat the young folk at the festival to sake.
 @363.5
 How do I treat them to sake?
 @363.6
@@ -14840,7 +14840,7 @@ The more sake you serve, the more credit you'll earn.
 @364.0
 Tea ware appraisal (chaki kantei), eh? Well, I could carry on like this, but...
 @364.4
-Yes, tea ware appraisal. Appraise tea ware for free for those who bring it to the grand tea party.
+Ah, tea ware appraisal. Appraise tea ware for free for those who bring it to the grand tea party.
 @364.5
 How can I appraise tea ware efficiently?
 @364.6
@@ -14852,7 +14852,7 @@ Tea masters, of course... and craftsmen who love paintings and antiques know a l
 @365.0
 Spreading tea (kissa fukyu), eh? Well, I could carry on like this, but...
 @365.4
-Yes, spreading tea. Stock tea ware and supply it to the grand tea party, so more people can enjoy the tea ceremony.
+Ah, spreading tea. Stock tea ware and supply it to the grand tea party, so more people can enjoy the tea ceremony.
 @365.5
 First get hold of tea ware. It can be bought at merchant houses and tea masters' homes.
 @365.6
@@ -14864,7 +14864,7 @@ Once there's enough tea ware for everyone to understand the tea ceremony, it sho
 @366.0
 Inviting tea masters (chajin shohei), eh? Well, I could carry on like this, but...
 @366.4
-Yes, inviting tea masters. Invite famous tea masters to the tea party.
+Ah, inviting tea masters. Invite famous tea masters to the tea party.
 @366.5
 How do I invite them?
 @366.6
@@ -14878,7 +14878,7 @@ The higher the Tea skill of the guests you invite, the more credit you'll earn.
 @367.0
 Buying fine tea (meicha shiire), eh? Well, I could carry on like this, but...
 @367.4
-Yes, buying fine tea. Stock fine tea and supply it to the grand tea party, so more people can enjoy the tea ceremony.
+Ah, buying fine tea. Stock fine tea and supply it to the grand tea party, so more people can enjoy the tea ceremony.
 @367.5
 How do I supply it to the tea party...?
 @367.6
@@ -14894,7 +14894,7 @@ The more fine tea you supply, the more credit you'll earn.
 @368.0
 Inviting peddlers (gyoshonin shohei)...\nWell, I could carry on like this, but...
 @368.4
-Yes, inviting peddlers. Invite peddlers to the free market held in the target town.
+Ah, inviting peddlers. Invite peddlers to the free market held in the target town.
 @368.5
 How do I invite peddlers...?
 @368.6
@@ -14908,7 +14908,7 @@ Gather peddlers at inns in towns of this region.
 @369.0
 Patrol (shuhen keibi), eh? Well, I could carry on like this, but...
 @369.4
-Yes, patrol. Guard the guild so no one disrupts the free market in the target town.
+Ah, patrol. Guard the guild so no one disrupts the free market in the target town.
 @369.5
 How do I guard it...?
 @369.6
@@ -14920,7 +14920,7 @@ Deal with the thugs, and the market will thrive and you'll earn more credit.
 @370.0
 Publicity (senden), eh? Well, I could carry on like this, but...
 @370.4
-Yes, publicity. Promote the free market held in the target town at taverns.
+Ah, publicity. Promote the free market held in the target town at taverns.
 @370.5
 How can I promote it?
 @370.6
@@ -15181,7 +15181,7 @@ Kind of you, but I already know how to make the voyage.
 @373.12
 Please, do teach me.
 @373.13
-Yes. A voyage abroad needs three things: the right standing, the strength of a pirate band, and diplomatic papers.
+Very well. A voyage abroad needs three things: the right standing, the strength of a pirate band, and diplomatic papers.
 @373.14
 First, standing. Unless you're a merchant with your own shop, no one abroad will deal with you.
 @373.15
@@ -16203,7 +16203,7 @@ With the fall of the \#11BF, \#0167 of \51E6 Castle broke away and became a daim
 @401.0
 That's...... Could it be...
 @401.2
-Oh my, \%01! What a coincidence.
+Oh my! What a coincidence.
 @401.3
 Coincidence or not... What are you doing in a place like this?
 @401.4
@@ -17675,7 +17675,7 @@ When the three-way alliance was made, \#09C5 married my sister \#04CD and became
 @527.7
 When the three-way alliance was made, \#09C5 married the old lord's sister, Princess \#04CD. Of course he objected.
 @527.8
-Yes...... Since then, father and son seem to have been at odds.
+Indeed...... Since then, father and son seem to have been at odds.
 @527.9
 \#09C5 plotted with \#00D0, a senior \#11C1 retainer, to exile his father \#09C1, but \#08D0's brother \#0AEE told \#09C1, and it came out!
 @527.10
@@ -17755,7 +17755,7 @@ It is to end this age of war and build an age of peace!
 @528.9
 It is to end this age of war and build an age of peace!
 @528.10
-Yes, sir! We'll command the realm by force of arms!
+My lord! We'll command the realm by force of arms!
 @528.11
 In month \M002 of \M001, \#07F0 at last made the long-desired march into Kyoto...
 @528.12
@@ -17821,7 +17821,7 @@ You honour us...
 @529.26
 Now it's no dream for our house and \E07A to join hands and control the sea trade...
 @529.27
-Yes, my lord...
+As you wish, my lord...
 @529.28
 Big trouble! Chief!
 @529.29
@@ -19176,7 +19176,7 @@ What! Tell me everything!
 @601.2
 What! Tell me everything!
 @601.3
-Yes, sir...
+Sir. It was like this...
 @601.4
 Shogun \#081F, seeking to restore the \#101F shogunate's power, was a thorn in the side of the \#12C0 house that ran the government.
 @601.5
@@ -19334,7 +19334,7 @@ It's so precious that the Emperor grants it only to those of special merit. A gr
 @605.16
 \#07FE!
 @605.17
-Well, well... Lord \#1496! Welcome.
+Why... Lord \#1496! Welcome.
 @605.18
 In truth, I have brought you happy tidings.
 @605.19
@@ -20998,7 +20998,7 @@ But \#07FE never saw that end, falling in the midst of the enemy, aged \1006...
 @652.0
 Victory is ours!
 @652.1
-Yes! Lord Taiko lent his strength to this golden gourd standard!
+Indeed! Lord Taiko lent his strength to this golden gourd standard!
 @652.2
 Look! Seeing us winning, the \#11FA side's generals are coming over to us!
 @652.3
@@ -21108,7 +21108,7 @@ Why did \#07FE turn traitor...? No records tell, and now there is no way of know
 @652.63
 Victory is ours! The \#1206 army is routed!
 @652.64
-Yes, everyone fought well!
+Everyone, you fought well!
 @652.65
 Ready to die, the \#1206 army resisted fiercely.
 @652.67
@@ -21527,7 +21527,7 @@ Perhaps so...
 @754.6
 Why not propose to \A407 that we become allies on equal terms?
 @754.7
-Old lord, I believe Lord \#07F2 is quite right.
+My lord, I believe Lord \#07F2 is quite right.
 @754.8
 Then let us send an envoy to \%047F1...
 @754.9
@@ -21603,7 +21603,7 @@ Did you all hear? Nothing could be happier. Let us keep working hard and support
 @754.58
 Then let us begin the council.
 @755.1
-Old lord, an envoy has come from our ally \A407.
+My lord, an envoy has come from our ally \A407.
 @755.2
 What... Then show him in.
 @755.4
@@ -21656,7 +21656,7 @@ Happy news...?
 @755.36
 \A407, our ally, has now become a vassal of our house.
 @756.1
-Old lord, an envoy has come from \A407, which serves our house.
+My lord, an envoy has come from \A407, which serves our house.
 @756.2
 From \A407...? Then show him in.
 @756.6
@@ -22751,7 +22751,7 @@ The diplomatic contest between \#09E3 and Nobunaga ended in a way that profited 
 @635.0
 Bungo, there's something I want to ask you.
 @635.1
-Yes! What is it, young lord?
+Sir! What is it, young lord?
 @635.2
 "Bungo" was \#07F1, so called because he styled himself Governor of Bungo. To \#07F0, he was his teacher in the art of war.
 @635.3

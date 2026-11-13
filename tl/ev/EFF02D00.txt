@@ -54,7 +54,7 @@ What is he thinking... Cutting off the Shingu Clique, the right arm of the \#102
 @1.11
 All those tied to \#0B47 and \#0B48 were purged to the last man, and the Shingu Clique perished entirely.
 @1.15
-Old lord... I am a \D07A ninja. I bring a message from our chief.
+My lord... I am a \D07A ninja. I bring a message from our chief.
 @1.16
 Oh... And what does he say?
 @1.17
@@ -75,7 +75,7 @@ What a weight off my shoulders! With the Shingu Clique gone, no one in the clan 
 @1.27
 Now at last the \#102D clan is united! Ha ha ha ha ha!!
 @1.28
-Old lord! Terrible news!
+My lord! Terrible news!
 @1.29
 What is it!
 @1.30
@@ -173,7 +173,7 @@ But I can no longer overlook the tyranny of \#0B47 and \#0B48! Summon the \D07A 
 @4.13
 Y-yes, my lord!
 @4.14
-Old lord, you called for me?
+My lord, you called for me?
 @4.15
 Ah, you have come. I have something to ask of you \D07A men.
 @4.16
@@ -181,7 +181,7 @@ What might it be...
 @4.17
 It is nothing other than... the assassination of \#0347 and his son \#0B48.
 @4.18
-What?! Old lord, are you in your right mind?! They are your uncle and your cousin!
+What?! My lord, are you in your right mind?! They are your uncle and your cousin!
 @4.19
 In this warring age, there is no father, brother or blood... Relatives or not, drop your guard and they'll cut your throat in your sleep.
 @4.20
@@ -213,7 +213,7 @@ Order the killing
 @4.34
 Think better of it
 @4.35
-No need to ask... I hesitate no more. The worm within the lion must be removed!
+No need to ask... I hesitate no more. The traitor in our midst must be removed!
 @4.36
 ...As you command. Then I will send my men.
 @4.38

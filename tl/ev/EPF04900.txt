@@ -107,7 +107,7 @@ Since I've been caught, it can't be helped... I am \#0049, the finest ninja in t
 @2.28
 Guards! Guards! A thief has entered my bedchamber!
 @2.29
-What is it, old lord?! Ah?! A thief?!
+What is it, my lord?! Ah?! A thief?!
 @2.30
 Heh... You think you can catch me?
 @2.31

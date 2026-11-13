@@ -4,7 +4,7 @@ But \#09FA could not touch the \#11CA clan, which had stayed neutral, and its st
 @0.7
 \#004B has been put to death.
 @4.2
-Yes, sir. And... a letter has arrived from Lord \#004B.
+My lord. And... a letter has arrived from Lord \#004B.
 #ps2 @5.34  One: \#01FA and his son \#09FC are to commit seppuku.
 @5.34
 One: \#01FA and his son \#09FC shall atone with their lives.
@@ -115,9 +115,9 @@ From \%0404B... What could it be?
 @15.6
 This is serious... \%03, what do you think?
 @15.11
-Yes, I have decided! Our house will join \%0404B!
+Right, I have decided! Our house will join \%0404B!
 @15.13
-Yes. I too have been sick of \#09FA's high-handedness.
+Indeed. I too have been sick of \#09FA's high-handedness.
 @15.14
 Everyone, we march!
 @15.17
@@ -131,7 +131,7 @@ Right! Understood!! Our house will join \%0404B!
 @15.26
 If we side with one and they lose, there's no guarantee the house will survive!
 @15.27
-Yes, your view makes sense. The \#11CA clan will side with neither and stay neutral!
+Indeed, your view makes sense. The \#11CA clan will side with neither and stay neutral!
 @15.29
 Everyone seems to be here. Then...
 @15.34
@@ -150,4 +150,4 @@ But I am torn. I came to talk it over with you before deciding.
 @15.54
 I am glad I came after all. Then farewell.
 @16.4
-Yes. He asks that Lord \#09CA lead the vanguard of the campaign against \#11FA!
+He asks, my lord, that Lord \#09CA lead the vanguard of the campaign against \#11FA!

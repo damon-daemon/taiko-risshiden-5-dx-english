@@ -678,7 +678,7 @@ That was a rare chance for peace... Forgive me, all of you.
 @19.43
 Do not trouble yourself, \&03. No one could accept such terms. Now, give the order to storm the castle!
 @19.44
-Yes! Very well, attack!
+Indeed! Now, attack!
 #ps2 @23.16  \#00C3 set fire to Honnoji himself and is thought to have taken his own life!
 @23.16
 \#00C3 set fire to Honnoji himself and is thought to have perished!

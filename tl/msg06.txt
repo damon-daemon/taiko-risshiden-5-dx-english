@@ -39,7 +39,7 @@ Abandoning the mission...\nSo that's all you're capable of.\nI'm disappointed.
 @10
 Understood...\nYou seem to have your reasons,\nbut it's a pity.
 @10.1
-You can't fulfill the mission...?\nI see.\nI'm disappointed in {01}C3{00}.
+You can't fulfill the mission...?\nI see.\nI'm disappointed in you.
 @11
 {02}{01}g's samurai merit\nfell by {02}od.
 @11.1
@@ -1013,7 +1013,7 @@ I'm sorry...\nI couldn't get any advertising effect\nat the {02}{15}e branch...
 @180.1
 I'm sorry...\nI couldn't get any advertising effect\nat the {02}{15}e branch...
 @180.2
-At the {02}{15}e branch I got\n{02}od months of advertising effect.
+I ran {02}od months of publicity\nat the {02}{15}e branch.
 @181
 I'm sorry...\nI couldn't make a profit\nselling {02}3g...
 @181.1
@@ -1087,15 +1087,15 @@ Quite good work, isn't it?\n{01}C3{00}, thank you for your trouble.
 @190.4
 Good, {01}C3{00}.\nThank you for your trouble.
 @190.5
-...{01}C3{00}, I expected\na little more of {01}C{1B}{00}...\nAnyway, thank you for your trouble.
+...{01}C3{00}, I expected\na little more of you...\nAnyway, thank you for your trouble.
 @190.6
-...{01}C3{00}, I expected\na little more of {01}C{1B}{00}...\nWell, fine. Thank you for your trouble.
+...{01}C3{00}, I expected\na little more of you...\nWell, fine. Thank you for your trouble.
 @190.7
 ...{01}C3{00},\nthat's no result to praise.\nI hope for better next time.
 @190.8
 ...{01}C3{00},\nthat's hardly a result to praise.\nWork harder from now on.
 @190.9
-From someone like {01}C3{00}...\nI am disappointed.
+From someone of your standing...\nI am disappointed.
 @190.10
 Fool!!\n{01}C3{00}, what have you been doing?!\nEnough, get out!
 @191
@@ -1111,13 +1111,13 @@ I see.\nThank you for your trouble.
 @191.5
 Oh, is that all...?\nAh, no, just talking to myself.\n{01}C3{00}, thank you for your trouble.
 @191.6
-...{01}C3{00}, I expected\na little more of {01}C{1B}{00}...\nAnyway, thank you for your trouble.
+...{01}C3{00}, I expected\na little more of you...\nAnyway, thank you for your trouble.
 @191.7
 {01}C3{00}...\nNo, it's nothing.\nI hope for better next time.
 @191.8
-...Surely {01}C3{00}\ncan do better than that?\nI expect more next time.
+...Surely you\ncan do better than that?\nI expect more next time.
 @191.9
-From someone like {01}C3{00}...\nCould you show a little\nmore effort?
+From someone of your standing...\nCould you show a little\nmore effort?
 @191.10
 What is the meaning of this?!!\n{01}C3{00}, what have you been doing?\n...Enough, get out.
 @192
@@ -1157,13 +1157,13 @@ Too late!\n{01}C3{00}, what were you doing?!\nThe deadline for {02}yd is long pa
 @200.1
 You're late, {01}C3{00}!\nThe deadline for {02}yd is long past!
 @201
-On a battlefield, I would have\n{01}C{1B}{00} executed on the spot!\nBe careful from now on!
+On a battlefield, I would have\nyou executed on the spot!\nBe careful from now on!
 @201.1
-On a battlefield, I would have\n{01}C{1B}{00} executed on the spot!\nBe careful from now on!
+On a battlefield, I would have\nyou executed on the spot!\nBe careful from now on!
 @202
-With {01}C{1B}{00} behaving like that,\nwhat example is it for the other {01}C{AC}{01}s? Pull yourself together!
+With you behaving like that,\nwhat example is it for the other {01}C{AC}{01}s? Pull yourself together!
 @202.1
-On a battlefield, I would have\n{01}C{1B}{00} executed on the spot!\nBe careful from now on!
+On a battlefield, I would have\nyou executed on the spot!\nBe careful from now on!
 @203
 A single day's delay can cause\ntens of thousands of kan in losses.\nPlease engrave that on your heart!
 @203.1
@@ -1175,7 +1175,7 @@ A single day's delay can cause\ntens of thousands of kan in losses.\nEngrave tha
 @205
 I'm ashamed...
 @205.1
-Yes, sir...!\nI am very sorry!
+Sir...!\nI am very sorry!
 @206
 I'll reflect on it...
 @206.1
@@ -1195,7 +1195,7 @@ Then we'll hold council at once.\nFollow me.
 @210
 Then we'll hold council at once.\nPlease come to the council room too...
 @210.1
-Then we'll hold council at once.\n{01}C{1B}{00}, come too.
+Then we'll hold council at once.\nYou come too.
 @211
 ...I'm sorry.\nTo tell the truth, it's not yet.........
 @211.1
@@ -1341,17 +1341,17 @@ Oho, you want more {01}C{9B}{01}s?\nWho do you want?
 @241.1
 I see, you want more {01}C{9B}{01}s.\nWho do you want?
 @242
-{01}C:{00} is on campaign.\nI can't send them now.
+I'm afraid {01}C:{00} is on campaign.\nI can't send them now.
 @243
 You want {01}C:{00} as your {01}C{9B}{01}?
 @243.1
 You want {01}C:{00} as your {01}C{9B}{01}?
 @244
-{01}C:{00}, then.\nI'll arrange it at once.
+So it's {01}C:{00}, then.\nI'll arrange it at once.
 @244.1
 Very well.\nI'll send {01}C:{00} as your {01}C{9B}{01}.\nI'll arrange it at once.
 @245
-{01}C:{00}, then.\nI'll arrange it at once.
+So it's {01}C:{00}, then.\nI'll arrange it at once.
 @245.1
 Understood.\nI'll lend you {01}C:{00} as your {01}C{9B}{01}.\nI'll arrange it at once.
 @246
@@ -1363,13 +1363,13 @@ Is there anyone else you want?
 @247.1
 Is there anyone else you want?
 @248
-Now {01}C{1B}{00} seems to have\nenough {01}C{9B}{01}s.\nPlease make good use of them.
+Now you seem to have\nenough {01}C{9B}{01}s.\nPlease make good use of them.
 @248.1
-Good, now {01}C{1B}{00} seems to have\nenough {01}C{9B}{01}s.\nMake good use of them.
+Good, now you seem to have\nenough {01}C{9B}{01}s.\nMake good use of them.
 @249
-Now {01}C{1B}{00} has\nenough {01}C{9B}{01}s.\nPlease make good use of them.
+Now you have\nenough {01}C{9B}{01}s.\nPlease make good use of them.
 @249.1
-Now {01}C{1B}{00} has\nenough {01}C{9B}{01}s.\nMake good use of them.
+Now you have\nenough {01}C{9B}{01}s.\nMake good use of them.
 @250
 What?\nYou don't need {01}C{9B}{01}s?
 @250.1
@@ -1403,69 +1403,69 @@ I'm drawing up the next strategy now.\nIt will be decided by the next council.
 @257.1
 I'm drawing up the next strategy now.\nIt should be decided by the next council.
 @258
-{02}{0B}e's goal is\n{02}yd.\n{01}C{1B}{00} too, please act with that in mind.
+{02}{0B}e's goal is\n{02}yd.\nYou too, please act with that in mind.
 @258.1
-{02}{0B}e's goal is\n{02}yd.\n{01}C{1B}{00} too, act with that in mind.
+{02}{0B}e's goal is\n{02}yd.\nYou too, act with that in mind.
 @259
-{02}{0B}e's goal is\n{02}yd.\n{01}C{1B}{00} too, please act with that in mind.
+{02}{0B}e's goal is\n{02}yd.\nYou too, please act with that in mind.
 @259.1
-{02}{0B}e's goal is\n{02}yd.\n{01}C{1B}{00} too, act with that in mind.
+{02}{0B}e's goal is\n{02}yd.\nYou too, act with that in mind.
 @260
-{02}{0B}e's goal is\nto take {02}{15}e.\n{01}C{1B}{00} too, please act with that in mind.
+{02}{0B}e's goal is\nto take {02}{15}e.\nYou too, please act with that in mind.
 @260.1
-{02}{0B}e's current goal is\nto take {02}{15}e.\n{01}C{1B}{00} too, act with that in mind.
+{02}{0B}e's current goal is\nto take {02}{15}e.\nYou too, act with that in mind.
 @261
-{02}{0B}e's goal is\nto take {02}{15}e.\n{01}C{1B}{00} too, please act with that in mind.
+{02}{0B}e's goal is\nto take {02}{15}e.\nYou too, please act with that in mind.
 @261.1
-{02}{0B}e's current goal is\nto take {02}{15}e.\n{01}C{1B}{00} too, act with that in mind.
+{02}{0B}e's current goal is\nto take {02}{15}e.\nYou too, act with that in mind.
 @262
-{02}{0B}e's goal is\nto take {02}{0C}e.\n{01}C{1B}{00} too, please act with that in mind.
+{02}{0B}e's goal is\nto take {02}{0C}e.\nYou too, please act with that in mind.
 @262.1
-{02}{0B}e's current goal is\nto take {02}{0C}e.\n{01}C{1B}{00} too, act with that in mind.
+{02}{0B}e's current goal is\nto take {02}{0C}e.\nYou too, act with that in mind.
 @263
-{02}{0B}e's goal is\nto take {02}{0C}e.\n{01}C{1B}{00} too, please act with that in mind.
+{02}{0B}e's goal is\nto take {02}{0C}e.\nYou too, please act with that in mind.
 @263.1
-{02}{0B}e's current goal is\nto take {02}{0C}e.\n{01}C{1B}{00} too, act with that in mind.
+{02}{0B}e's current goal is\nto take {02}{0C}e.\nYou too, act with that in mind.
 @264
-Our house's goal is\n{02}yd of {02}{1F}e.\n{01}C{1B}{00} too, please act with that in mind.
+Our house's goal is\n{02}yd of {02}{1F}e.\nYou too, please act with that in mind.
 @264.1
-Our house's current goal is\n{02}yd of {02}{1F}e.\n{01}C{1B}{00} too, act with that in mind.
+Our house's current goal is\n{02}yd of {02}{1F}e.\nYou too, act with that in mind.
 @265
-Our house's goal is\n{02}yd of {02}{1F}e.\n{01}C{1B}{00} too, please act with that in mind.
+Our house's goal is\n{02}yd of {02}{1F}e.\nYou too, please act with that in mind.
 @265.1
-Our house's current goal is\n{02}yd of {02}{1F}e.\n{01}C{1B}{00} too, act with that in mind.
+Our house's current goal is\n{02}yd of {02}{1F}e.\nYou too, act with that in mind.
 @266
-{02}{0B}e's goal is\n{02}yd.\n{01}C{1B}{00} too, please act with that in mind.
+{02}{0B}e's goal is\n{02}yd.\nYou too, please act with that in mind.
 @266.1
-{02}{0B}e's goal is\n{02}yd.\n{01}C{1B}{00} too, act with that in mind.
+{02}{0B}e's goal is\n{02}yd.\nYou too, act with that in mind.
 @267
-{02}{0B}e's goal is\n{02}yd.\n{01}C{1B}{00} too, please act with that in mind.
+{02}{0B}e's goal is\n{02}yd.\nYou too, please act with that in mind.
 @267.1
-{02}{0B}e's goal is\n{02}yd.\n{01}C{1B}{00} too, act with that in mind.
+{02}{0B}e's goal is\n{02}yd.\nYou too, act with that in mind.
 @268
-{02}{0B}e's goal is\nto take {02}{0C}e.\n{01}C{1B}{00} too, please act with that in mind.
+{02}{0B}e's goal is\nto take {02}{0C}e.\nYou too, please act with that in mind.
 @268.1
-{02}{0B}e's current goal is\nto take {02}{0C}e.\n{01}C{1B}{00} too, act with that in mind.
+{02}{0B}e's current goal is\nto take {02}{0C}e.\nYou too, act with that in mind.
 @269
-{02}{0B}e's goal is\nto take {02}{0C}e.\n{01}C{1B}{00} too, please act with that in mind.
+{02}{0B}e's goal is\nto take {02}{0C}e.\nYou too, please act with that in mind.
 @269.1
-{02}{0B}e's current goal is\nto take {02}{0C}e.\n{01}C{1B}{00} too, act with that in mind.
+{02}{0B}e's current goal is\nto take {02}{0C}e.\nYou too, act with that in mind.
 @270
-For now, {02}{0B}e will\nsupport {02}{0C}e.\n{01}C{1B}{00} too, please act with that in mind.
+For now, {02}{0B}e will\nsupport {02}{0C}e.\nYou too, please act with that in mind.
 @270.1
-For now, {02}{0B}e will\nsupport {02}{0C}e.\n{01}C{1B}{00} too, act with that in mind.
+For now, {02}{0B}e will\nsupport {02}{0C}e.\nYou too, act with that in mind.
 @271
-For now, {02}{0B}e will\nsupport {02}{0C}e.\n{01}C{1B}{00} too, please act with that in mind.
+For now, {02}{0B}e will\nsupport {02}{0C}e.\nYou too, please act with that in mind.
 @271.1
-For now, {02}{0B}e will\nsupport {02}{0C}e.\n{01}C{1B}{00} too, act with that in mind.
+For now, {02}{0B}e will\nsupport {02}{0C}e.\nYou too, act with that in mind.
 @272
-Our house's goal is\n{02}zd of {02}yd.\n{01}C{1B}{00} too, please act with that in mind.
+Our house's goal is\n{02}zd of {02}yd.\nYou too, please act with that in mind.
 @272.1
-Our house's current goal is\n{02}zd of {02}yd.\n{01}C{1B}{00} too, act with that in mind.
+Our house's current goal is\n{02}zd of {02}yd.\nYou too, act with that in mind.
 @273
-Our house's goal is\n{02}zd of {02}yd.\n{01}C{1B}{00} too, please act with that in mind.
+Our house's goal is\n{02}zd of {02}yd.\nYou too, please act with that in mind.
 @273.1
-Our house's current goal is\n{02}zd of {02}yd.\n{01}C{1B}{00} too, act with that in mind.
+Our house's current goal is\n{02}zd of {02}yd.\nYou too, act with that in mind.
 @274
 Our house has been ordered\nby {02}{0B}e\n
 @274.1
@@ -1479,45 +1479,45 @@ We have been ordered\nby the boss\n
 @274.5
 We have been ordered\nby our lord\n
 @275
-{01}C{82}{18}to take {02}{15}e.\n{01}C{1B}{00} too, please act with that in mind.
+{01}C{82}{18}to take {02}{15}e.\nYou too, please act with that in mind.
 @275.1
-{01}C{82}{18}to take {02}{15}e.\n{01}C{1B}{00} too, act with that in mind.
+{01}C{82}{18}to take {02}{15}e.\nYou too, act with that in mind.
 @276
-{01}C{82}{18}to take {02}{15}e.\n{01}C{1B}{00} too, please act with that in mind.
+{01}C{82}{18}to take {02}{15}e.\nYou too, please act with that in mind.
 @276.1
-{01}C{82}{18}to take {02}{15}e.\n{01}C{1B}{00} too, act with that in mind.
+{01}C{82}{18}to take {02}{15}e.\nYou too, act with that in mind.
 @277
-{01}C{82}{18}to take {02}{1F}e.\n{01}C{1B}{00} too, please act with that in mind.
+{01}C{82}{18}to take {02}{1F}e.\nYou too, please act with that in mind.
 @277.1
-Our house has been ordered by {02}{0B}e\nto take {02}{1F}e.\n{01}C{1B}{00} too, act with that in mind.
+Our house has been ordered by {02}{0B}e\nto take {02}{1F}e.\nYou too, act with that in mind.
 @278
-{01}C{82}{18}to take {02}{1F}e.\n{01}C{1B}{00} too, please act with that in mind.
+{01}C{82}{18}to take {02}{1F}e.\nYou too, please act with that in mind.
 @278.1
-Our house has been ordered by {02}{0B}e\nto take {02}{1F}e.\n{01}C{1B}{00} too, act with that in mind.
+Our house has been ordered by {02}{0B}e\nto take {02}{1F}e.\nYou too, act with that in mind.
 @279
-{01}C{82}{18}to take {02}{0C}e.\n{01}C{1B}{00} too, please act with that in mind.
+{01}C{82}{18}to take {02}{0C}e.\nYou too, please act with that in mind.
 @279.1
-{01}C{82}{18}to take {02}{0C}e.\n{01}C{1B}{00} too, act with that in mind.
+{01}C{82}{18}to take {02}{0C}e.\nYou too, act with that in mind.
 @280
-{01}C{82}{18}to take {02}{0C}e.\n{01}C{1B}{00} too, please act with that in mind.
+{01}C{82}{18}to take {02}{0C}e.\nYou too, please act with that in mind.
 @280.1
-{01}C{82}{18}to take {02}{0C}e.\n{01}C{1B}{00} too, act with that in mind.
+{01}C{82}{18}to take {02}{0C}e.\nYou too, act with that in mind.
 @281
-{01}C{82}{18}to take {02}[e.\n{01}C{1B}{00} too, please act with that in mind.
+{01}C{82}{18}to take {02}[e.\nYou too, please act with that in mind.
 @281.1
-{01}C{82}{18}to take {02}[e.\n{01}C{1B}{00} too, act with that in mind.
+{01}C{82}{18}to take {02}[e.\nYou too, act with that in mind.
 @282
-{01}C{82}{18}to take {02}[e.\n{01}C{1B}{00} too, please act with that in mind.
+{01}C{82}{18}to take {02}[e.\nYou too, please act with that in mind.
 @282.1
-{01}C{82}{18}to take {02}[e.\n{01}C{1B}{00} too, act with that in mind.
+{01}C{82}{18}to take {02}[e.\nYou too, act with that in mind.
 @283
-(Shall I really urge\n {01}C3{00} to rebel?)
+(Shall I really urge\n them to rebel?)
 @283.1
-(Should I really urge\n {01}C3{00} to rebel?)
+(Should I really urge\n them to rebel?)
 @284
-{01}C3{00}, I, {02}{01}f,\nhave something to urge\nupon {01}C{1B}{00}.
+{01}C3{00}, I, {02}{01}f,\nhave something to urge\nupon you.
 @284.1
-{01}C3{00}, I, {02}{01}f,\nhave something to urge\nupon {01}C{1B}{00}.
+{01}C3{00}, I, {02}{01}f,\nhave something to urge\nupon you.
 @285
 {01}C3{00}...\nThere's something you must hear.
 @285.1
@@ -1529,11 +1529,11 @@ Our house has been ordered by {02}{0B}e\nto take {02}{1F}e.\n{01}C{1B}{00} too, 
 @287
 {01}C3{00}, will you stay buried\nas just one member of {02}{0B}e?
 @287.1
-{01}C3{00}, will {01}C3{00} stay\nburied as just one member\nof {02}{0B}e?
+{01}C3{00}, will you stay\nburied as just one member\nof {02}{0B}e?
 @288
 {01}C3{00}, will you stay buried\nas just one member of {02}{0B}e?
 @288.1
-{01}C3{00}, will {01}C3{00} stay\nburied as just one member\nof {02}{0B}e?
+{01}C3{00}, will you stay\nburied as just one member\nof {02}{0B}e?
 @289
 ...What are you suddenly saying?
 @289.1
@@ -1543,37 +1543,37 @@ Our house has been ordered by {02}{0B}e\nto take {02}{1F}e.\n{01}C{1B}{00} too, 
 @290.1
 What are you suddenly...?
 @291
-{01}C{1B}{00} has the makings of a daimyo.\nIt would be a great waste\nto end your life a mere castle lord.
+You have the makings of a daimyo.\nIt would be a great waste\nto end your life a mere castle lord.
 @291.1
-Forgive me, but {01}C{1B}{00} has the\nmakings of a daimyo. It would be a great\nwaste to end your life a mere castle lord.
+Forgive me, but you have the\nmakings of a daimyo. It would be a great\nwaste to end your life a mere castle lord.
 @292
-{01}C{1B}{00} is not one to end life\nas a mere castle lord.\nYou mustn't settle for things as they are.
+You are not one to end life\nas a mere castle lord.\nYou mustn't settle for things as they are.
 @292.1
-Forgive me, but {01}C{1B}{00} has the\nmakings of a daimyo. It would be a great\nwaste to end your life a mere castle lord.
+Forgive me, but you have the\nmakings of a daimyo. It would be a great\nwaste to end your life a mere castle lord.
 @293
-{01}C{1B}{00}'s gift for leading men\nstands out even in our band... It would be\na great waste to end your life a squad chief.
+Your gift for leading men\nstands out even in our band... It would be\na great waste to end your life a squad chief.
 @293.1
-Forgive me, but {01}C{1B}{00}'s gift for\nleading men stands out even in our band...\nIt's a waste to end as a squad chief.
+Forgive me, but your gift for\nleading men stands out even in our band...\nIt's a waste to end as a squad chief.
 @294
-{01}C{1B}{00} is not one to end life\nas a mere squad chief.\nYou lead men better than our chief does.
+You are not one to end life\nas a mere squad chief.\nYou lead men better than our chief does.
 @294.1
-Forgive me, but {01}C{1B}{00}'s gift for\nleading men stands out even in our band...\nIt's a waste to end as a squad chief.
+Forgive me, but your gift for\nleading men stands out even in our band...\nIt's a waste to end as a squad chief.
 @295
-{01}C{1B}{00} has a gift for leading men\nthat surpasses the boss's...\nIt's a great waste to end as a ship captain.
+You have a gift for leading men\nthat surpasses the boss's...\nIt's a great waste to end as a ship captain.
 @295.1
-Forgive me, but {01}C{1B}{00} has the\nmakings of a boss. It would be a great\nwaste to end your life a ship captain.
+Forgive me, but you have the\nmakings of a boss. It would be a great\nwaste to end your life a ship captain.
 @296
-{01}C{1B}{00} has more gift than the boss.\nTo end your life a ship captain\nwould be a great waste...
+You have more gift than the boss.\nTo end your life a ship captain\nwould be a great waste...
 @296.1
-Forgive me, but {01}C{1B}{00} has the\nmakings of a boss. It would be a great\nwaste to end your life a ship captain.
+Forgive me, but you have the\nmakings of a boss. It would be a great\nwaste to end your life a ship captain.
 @297
-{01}C{1B}{00} has the makings of a master.\nIt would be a great waste\nto end your life a manager.
+You have the makings of a master.\nIt would be a great waste\nto end your life a manager.
 @297.1
-Forgive me, but {01}C{1B}{00} has the\nmakings of a master. It would be a great\nwaste to end your life a manager.
+Forgive me, but you have the\nmakings of a master. It would be a great\nwaste to end your life a manager.
 @298
-{01}C{1B}{00} is not one to end life\nas a mere manager.\nYou mustn't settle for things as they are.
+You are not one to end life\nas a mere manager.\nYou mustn't settle for things as they are.
 @298.1
-Forgive me, but {01}C{1B}{00} has the\nmakings of a master. It would be a great\nwaste to end your life a manager.
+Forgive me, but you have the\nmakings of a master. It would be a great\nwaste to end your life a manager.
 @299
 ...What are you thinking?\nPlease speak plainly.
 @299.1
@@ -1609,19 +1609,19 @@ Then I'll say it...\n{01}C3{00}, now is the time to break away\nhere and lead a 
 @307
 {01}C3{00}, now is the time to break away\nhere and have your own shop.
 @307.1
-Yes, then I'll say it.\n{01}C3{00}, I believe you should break\naway here and have your own shop.
+Sir. Then I shall speak plainly.\n{01}C3{00}, I believe you should break\naway here and have your own shop.
 @308
 {01}C3{00}, now is the time to break away\nhere. Have your own shop.
 @308.1
 Then I'll say it.\n{01}C3{00}, I believe you should break\naway here and have your own shop.
 @309
-What!\n{01}C{1B}{00} would have me\nbecome a disloyal vassal?!
+What!\nYou would have me\nbecome a disloyal vassal?!
 @309.1
-What!\n...{01}C{1B}{00} would have me\nbecome a disloyal vassal?!!
+What!\n...you would have me\nbecome a disloyal vassal?!!
 @310
-What are you saying!\n...{01}C{1B}{00} would have me\nbecome a disloyal vassal...?
+What are you saying!\n...you would have me\nbecome a disloyal vassal...?
 @310.1
-Wh-what...\n{01}C{1B}{00} would have me\nbecome a disloyal vassal?!
+Wh-what...\nYou would have me\nbecome a disloyal vassal?!
 @311
 What are you saying!\nYou know the ninja code forbids betrayal.\nWould you make me a traitor?!
 @311.1
@@ -1655,13 +1655,13 @@ For ninja living in darkness, there's no\nbetrayal or disloyalty... ours is a wo
 @318.1
 For ninja living in darkness, there's no\nbetrayal or disloyalty... ours is a world\nwhere the strong eat the weak. Please decide!
 @319
-No need to keep faith with {02}{0B}e!\n{01}C3{00} is fit to be the pirate boss\nof a new age! Now is the time to decide!
+No need to keep faith with {02}{0B}e!\nYou are fit to be the pirate chief\nof a new age! Now is the time to decide!
 @319.1
-No need to keep faith with {02}{0B}e!\n{01}C3{00} is the boss for a new age!\nI think now is the time to decide!
+No need to keep faith with {02}{0B}e!\nYou are the chief for a new age!\nI think now is the time to decide!
 @320
-No need to keep faith with {02}{0B}e.\n{01}C3{00} is fit to be the pirate boss\nof a new age!
+No need to keep faith with {02}{0B}e.\nYou are fit to be the pirate chief\nof a new age!
 @320.1
-No need to keep faith with {02}{0B}e!\n{01}C3{00} is fit to be the pirate boss\nof a new age, I believe!
+No need to keep faith with {02}{0B}e!\nYou are fit to be the pirate chief\nof a new age, I believe!
 @321
 This is the age of warring states.\nChances to profit are everywhere.\n{01}C3{00}! Now is the time to decide!
 @321.1
@@ -1687,13 +1687,13 @@ This age of war is a rare chance to build\na great fortune and leave a name in h
 @327.1
 {01}C3{00}!\nIf you don't decide now,\nyou'll miss your chance!
 @328
-...{01}C3{00}!!\nFor {01}C{1B}{00}'s own sake,\nI'll pretend I never heard this.
+...{01}C3{00}!!\nFor your own sake,\nI'll pretend I never heard this.
 @328.1
-Enough!!\nFor {01}C{1B}{00}'s own sake,\nI'll pretend I never heard this.
+Enough!!\nFor your own sake,\nI'll pretend I never heard this.
 @329
-...{01}C{10}{00} won't change my mind.\nFor {01}C{1B}{00}'s own sake,\nI'll pretend I never heard this.
+...{01}C{10}{00} won't change my mind.\nFor your own sake,\nI'll pretend I never heard this.
 @329.1
-{01}C{10}{00} won't change my mind.\nI'll pretend I never heard this...\n{01}C{1B}{00}, forget it too.
+{01}C{10}{00} won't change my mind.\nI'll pretend I never heard this...\nForget it too.
 @330
 ............
 @330.1
@@ -1715,13 +1715,13 @@ Now, go.
 @334.1
 .........Yes.
 @335
-...{01}C{1B}{00} is quite right.\nIt's as if I've woken up.\n{01}C{10}{00} will make up my mind...
+...You are quite right.\nIt's as if I've woken up.\n{01}C{10}{00} will make up my mind...
 @335.1
-...{01}C{1B}{00} is right.\nIt's as if I've woken up.\n{01}C{10}{00} will make up my mind...
+...You are right.\nIt's as if I've woken up.\n{01}C{10}{00} will make up my mind...
 @336
-...{01}C{1B}{00} is right.\nIt's as if I've woken up.\n{01}C{10}{00} will make up my mind...
+...You are right.\nIt's as if I've woken up.\n{01}C{10}{00} will make up my mind...
 @336.1
-...{01}C{1B}{00} is right.\nIt's as if I've woken up.\n{01}C{10}{00} will make up my mind...
+...You are right.\nIt's as if I've woken up.\n{01}C{10}{00} will make up my mind...
 @337
 Oh, {01}C3{00}!\nYou've decided!
 @337.1
@@ -1731,7 +1731,7 @@ Oh, {01}C3{00}!\nYou've made your decision!
 @338.1
 {01}C3{00}!\nYou've made your decision!
 @339
-Yes, {01}C{10}{00} will raise my banner here.\n{01}C3{00}, I'm counting on you.
+Yes, {01}C{10}{00} will raise my banner here.\n{01}C3{00}, I hope you'll keep supporting me.
 @339.1
 Yes, {01}C{10}{00} will raise my banner here.\n{01}C3{00}, will you follow me?
 @340
@@ -1739,7 +1739,7 @@ Yes, {01}C{10}{00} will raise my banner here.\n{01}C3{00}, please keep guiding m
 @340.1
 Yes, {01}C{10}{00} will raise my banner here.\n{01}C3{00}, I'm counting on you.
 @341
-Yes, {01}C{10}{00} will break away here.\n{01}C3{00}, I'm counting on you.
+Yes, {01}C{10}{00} will break away here.\n{01}C3{00}, I hope you'll keep supporting me.
 @341.1
 Yes, {01}C{10}{00} will break away here.\n{01}C3{00}, will you follow me?
 @342
@@ -1747,11 +1747,11 @@ Yes, {01}C{10}{00} will break away here.\n{01}C3{00}, please keep guiding me.
 @342.1
 Yes, {01}C{10}{00} will break away here.\n{01}C3{00}, I'm counting on you.
 @343
-Of course!\nI, {02}{01}f, will be\n{01}C{1B}{00}'s strength!
+Of course!\nI, {02}{01}f, will be\nyour strength!
 @343.1
-Of course!\nI, {02}{01}f, wish to live and die\nwith {01}C{1B}{00}.
+Of course!\nI, {02}{01}f, wish to live and die\nwith you.
 @344
-Of course.\nFor {01}C{1B}{00}, I'll do anything.
+Of course.\nFor you, I'll do anything.
 @344.1
 Yes!\nLeave it to me, {02}{01}f!!
 @345
@@ -1787,25 +1787,25 @@ So no one took a castle last year.\nThat won't do.\nI expect much this year.
 @352.1
 No one took a castle last year.\nThat won't do.\nI expect much of you this year.
 @353
-Last year {01}C3{00}'s work\nstood out the most.\n{01}C3{00}, splendid.
+Last year your work\nstood out the most.\n{01}C3{00}, splendid.
 @353.1
-Last year {01}C3{00}'s work\nstood out the most.\n{01}C3{00}, splendid.
+Last year your work\nstood out the most.\n{01}C3{00}, splendid.
 @354
-Not at all; thinking of {01}C{1B}{00},\nit was only natural.
+Not at all; thinking of you,\nit was only natural.
 @354.1
-Yes, sir!\nI'm honoured by your praise!
+Sir!\nI'm honoured by your praise!
 @355
-No, thinking of {01}C{1B}{00},\nit was only natural.
+No, thinking of you,\nit was only natural.
 @355.1
 I'm honoured\nby your praise!
 @356
-In praise of {01}C{1B}{00}'s merit, I'll\nrecommend you to the court for "{02}yd".\nPlease keep supporting me.
+In praise of your merit, I'll\nrecommend you to the court for "{02}yd".\nPlease keep supporting me.
 @356.1
-In praise of {01}C{1B}{00}'s merit, I'll\nrecommend you to the court for "{02}yd".\nKeep serving our house loyally.
+In praise of your merit, I'll\nrecommend you to the court for "{02}yd".\nKeep serving our house loyally.
 @357
-In praise of {01}C{1B}{00}'s merit, I'll\nrecommend you to the court for "{02}yd".\nPlease keep supporting me.
+In praise of your merit, I'll\nrecommend you to the court for "{02}yd".\nPlease keep supporting me.
 @357.1
-In praise of {01}C{1B}{00}'s merit, I'll\nrecommend you to the court for "{02}yd".\nKeep serving our house loyally.
+In praise of your merit, I'll\nrecommend you to the court for "{02}yd".\nKeep serving our house loyally.
 @358
 Oh! Thank you!\nLeave it to me!
 @358.1
@@ -1815,19 +1815,19 @@ Oh, how wonderful!\nI humbly accept.
 @359.1
 Oh! I'm so glad.\nI humbly accept.
 @360
-In praise of {01}C{1B}{00}'s merit, I grant\n{01}C{1B}{00} my {02}3g.\nPlease keep supporting me.
+In praise of your merit, I grant\nyou my {02}3g.\nPlease keep supporting me.
 @360.1
-In praise of {01}C{1B}{00}'s merit, I grant\n{01}C{1B}{00} my {02}3g.\nKeep serving our house loyally.
+In praise of your merit, I grant\nyou my {02}3g.\nKeep serving our house loyally.
 @361
-In praise of {01}C{1B}{00}'s merit, I grant\n{01}C{1B}{00} my {02}3g.\nPlease keep supporting me.
+In praise of your merit, I grant\nyou my {02}3g.\nPlease keep supporting me.
 @361.1
-In praise of {01}C{1B}{00}'s merit, I grant\n{01}C{1B}{00} my {02}3g.\nKeep serving our house loyally.
+In praise of your merit, I grant\nyou my {02}3g.\nKeep serving our house loyally.
 @363
-Last year {01}C:{00}'s work\nstood out the most.\nI expect much of {01}C3{00} too.
+Last year {01}C:{00}'s work\nstood out the most.\nI expect much of you too.
 @363.1
 Last year {01}C:{00}'s work\nstood out the most.\n{01}C3{00}, learn from {01}C"{00}.
 @364
-Last year {01}C:{00}'s work\nstood out the most.\nI expect much of {01}C3{00} this year too.
+Last year {01}C:{00}'s work\nstood out the most.\nI expect much of you this year too.
 @364.1
 Last year {01}C:{00}'s work\nstood out the most.\n{01}C3{00}, learn from {01}C"{00}.
 @365
@@ -1835,9 +1835,9 @@ Then, dismissed!
 @365.1
 Then, we are dismissed.
 @366
-Oho, you'll recommend {01}C{1B}{00}'s\nsubordinate as my direct vassal?\nMuch appreciated.
+Oho, you'll recommend your\nsubordinate as my direct vassal?\nMuch appreciated.
 @366.1
-My, you'll recommend {01}C{1B}{00}'s\nsubordinate as my direct vassal?\nHow kind.
+My, you'll recommend your\nsubordinate as my direct vassal?\nHow kind.
 @367
 Whom will you recommend?
 @367.1
@@ -1847,21 +1847,21 @@ Whom will you recommend?
 @368.1
 Whom will you recommend?
 @369
-{01}C:{00} was sent\nas your {01}C{9B}{01}.\nReturn them as a direct vassal?
+I sent you {01}C:{00}\nas your {01}C{9B}{01}.\nReturn them as a direct vassal?
 @369.1
-{01}C:{00} was sent\nas your {01}C{9B}{01}.\nReturn them as a direct vassal?
+I sent you {01}C:{00}\nas your {01}C{9B}{01}.\nReturn them as a direct vassal?
 @369.2
-You recommend {01}C:{00} as\nMy direct vassal?
+You would recommend {01}C:{00}\nas my direct vassal?
 @369.3
-You recommend {01}C:{00} as\nMy direct vassal?
+You recommend {01}C:{00}\nas my direct vassal?
 @370
-{01}C:{00} was sent\nas your {01}C{9B}{01}.\nReturn them as a direct vassal?
+I sent you {01}C:{00}\nas your {01}C{9B}{01}.\nReturn them as a direct vassal?
 @370.1
-{01}C:{00} was sent\nas your {01}C{9B}{01}.\nReturn them as a direct vassal?
+I sent you {01}C:{00}\nas your {01}C{9B}{01}.\nReturn them as a direct vassal?
 @370.2
-You recommend {01}C:{00} as\nMy direct vassal?
+You would recommend {01}C:{00}\nas my direct vassal?
 @370.3
-You recommend {01}C:{00} as\nMy direct vassal?
+You recommend {01}C:{00}\nas my direct vassal?
 @371
 I see.\nThen {01}C:{00} returns\nto be my direct vassal.
 @371.1
@@ -1893,7 +1893,7 @@ Sorry to startle you.\nIt's {02}{01}g.
 @375.1
 A pleasure to meet you.\nI am {02}{01}g.
 @376
-Ah, {01}C3{00}.\nHmm, against {01}C{1B}{00},\nthe gate guards are useless.
+Ah, {01}C3{00}.\nHmm, against you,\nthe gate guards are useless.
 @376.1
 A ronin? Insolent wretch!\nBut you did well to get into this castle.\nI'll praise you for that much.
 @376.2
@@ -1901,9 +1901,9 @@ A ronin? Insolent wretch!\nBut you did well to get into this castle.\nI'll prais
 @376.3
 ...Oho, {01}C3{00}...\nWho'd have thought we'd meet like this?\nBut so sudden.
 @376.4
-Is it {01}C3{00}...?\nWho'd have thought we'd meet like this?\nBut so sudden.
+So it's you, {01}C3{00}...?\nWho'd have thought we'd meet like this?\nBut so sudden.
 @377
-My, {01}C3{00}...\nAgainst {01}C{1B}{00},\nthe gate guards are useless.
+My, {01}C3{00}...\nAgainst you,\nthe gate guards are useless.
 @377.1
 A ronin, it seems.\nWhat were the gate guards doing...
 @377.2
@@ -2115,17 +2115,17 @@ You want a ship flag?\n{02}{02}{EC} and our band are enemies.\nI can't accept su
 @425.2
 You want a ship flag?\n{02}{02}{EC} and our band are enemies.\nI can't accept such a request.
 @426
-{01}C{1B}{00} already has a ship flag for\nthese waters, with time left.\nUse that.
+You already have a ship flag for\nthese waters, with time left.\nUse that.
 @426.1
-{01}C{1B}{00} already has a ship flag for\nthese waters, with time left.\nPlease use that.
+You already have a ship flag for\nthese waters, with time left.\nPlease use that.
 @426.2
-{01}C{1B}{00} already has a ship flag for\nthese waters, with time left.\nPlease use that.
+You already have a ship flag for\nthese waters, with time left.\nPlease use that.
 @427
-{01}C{1B}{00} has all our band's flags,\nand they're still valid for a while.\nYou don't need any more, surely?
+You have all our band's flags,\nand they're still valid for a while.\nYou don't need any more, surely?
 @427.1
-{01}C{1B}{00} has all our band's flags,\nand they're still valid for a while.\nYou don't need any more, surely?
+You have all our band's flags,\nand they're still valid for a while.\nYou don't need any more, surely?
 @427.2
-{01}C{1B}{00} has all our band's flags,\nand they're still valid for a while.\nYou don't need any more, surely?
+You have all our band's flags,\nand they're still valid for a while.\nYou don't need any more, surely?
 @428
 You want a ship flag?\nIt costs {02}o{C8}. All right?
 @428.1
@@ -2137,11 +2137,11 @@ You want a ship flag?\nIt costs {02}o{C8}.\nIs that all right?
 @429.1
 {01}C{10}{00} don't have enough money...\nI'll come back later.
 @430
-One of {01}C{1B}{00}'s ship flags\nis about to expire...
+One of your ship flags\nis about to expire...
 @430.1
-One of {01}C{1B}{00}'s ship flags\nseems to be\nabout to expire...
+One of your ship flags\nseems to be\nabout to expire...
 @430.2
-One of {01}C{1B}{00}'s ship flags\nseems to be\nabout to expire...
+One of your ship flags\nseems to be\nabout to expire...
 @431
 Then, which waters' flag do you want?
 @431.1
@@ -2187,17 +2187,17 @@ It's a kind offer, but\nwe'd have no use for the investment.\nThe thought is eno
 @438.2
 It's a kind offer, but\nwe'd have no use for the investment.\nThe thought alone will do.
 @439
-{01}C{1B}{00}, investment is in units of 1 kan.\nWhat you have now isn't enough.
+Investment is in units of 1 kan.\nWhat you have now isn't enough.
 @439.1
-{01}C{1B}{00}, investment is in units of 1 kan.\nWhat you have now isn't enough.
+Investment is in units of 1 kan.\nWhat you have now isn't enough.
 @440
 Then you'll invest {02}o{C8}\nin {02}{15}e?
 @440.1
 Then you'll invest {02}o{C8}\nin {02}{15}e?
 @441
-Oh! That's {01}C3{00} for you.\nWe'll put it to good use.
+Oh! Just what I'd expect of you, {01}C3{00}.\nWe'll put it to good use.
 @441.1
-Oh! That's {01}C3{00} for you.\nWe'll put it to good use.
+Oh! Just what I'd expect of you, {01}C3{00}.\nWe'll put it to good use.
 @442
 I see... a pity.\nIf you change your mind, please do.
 @442.1

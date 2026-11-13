@@ -201,7 +201,7 @@ So... the \#102D clan's fighting strength has fallen sharply! Good news for our 
 @4.14
 As expected, Father's cunning is the finest in the land! To strip the \#102D of so much power without losing a single man!
 @4.17
-Old lord... I'm a ninja of \D07B. I bring word from the Boss.
+My lord... I'm a ninja of \D07B. I bring word from the Boss.
 @4.20
 What, then the Shingu Clique...
 @4.21
@@ -663,7 +663,7 @@ Mm... I've decided. From now on, we of \E079 will serve \A406.
 @14.7
 It's \A406 that will rule Chugoku from now on, most likely... We'd rather back the winning horse.
 @14.8
-I'm obliged... I count on you from now on.
+I'm obliged... I'm counting on you from now on.
 @14.10
 \E079 came under \A406.
 @14.11

@@ -25,7 +25,7 @@ Are you trying to threaten me?
 @0.12
 That depends on your intentions, Father... For I did not come here empty-handed.
 @0.13
-Old lord, I think it best to accept the young lord's offer...
+My lord, I think it best to accept the young lord's offer...
 @0.14
 So the troops in the castle are already in his hands... Infuriating, but a fine piece of work. It cannot be helped. I will pass the headship to you.
 @0.15

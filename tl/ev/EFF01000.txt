@@ -15,7 +15,7 @@ Forgive me...
 @0.8
 My lord, the officers have gathered. Please come to the Council Chamber.
 @0.9
-Yes! I'm coming.
+Good! I'm coming.
 @0.10
 Lord \#07FE! The armies of \#00C3 and \#01FA are marching on our lands!
 @0.11
@@ -65,7 +65,7 @@ Men! Attack!
 @3.0
 Victory for our side!
 @3.1
-Yes! Now we chase \#08C3's main army at once!
+Good! Now we chase \#08C3's main army at once!
 @3.2
 Sadly... he seems a man with the devil's own luck. His main force appears to have already escaped to \51E5.
 @3.3
@@ -81,7 +81,7 @@ Our army is routed!
 @3.8
 Ugh! ...How bitter.
 @3.9
-Old lord... please flee, quickly! As long as you live, you can rise again.
+My lord... please flee, quickly! As long as you live, you can rise again.
 @3.10
 With the surprise attack on \#00C3's army, relations between the \#10C3 and \#1010 clans went completely cold...
 @4.0
@@ -115,7 +115,7 @@ Lord \#1017 was routed too, and it seems he barely escaped home alive.
 @4.15
 Grrr...
 @4.16
-Old lord, you must not lose heart.
+My lord, you must not lose heart.
 @4.17
 Month \M002 of year \M001. The \#1010-\#1017 allied army suffered a crushing defeat under the onslaught of \#10C3 and \#11FA...
 @4.18
@@ -186,7 +186,7 @@ In \M001, \51E6, the seat of the \#1010 clan, fell to \#00C3's attack.
 @5.34
 And the clan head, \#0010, met his end in \51E6 Castle, aged \1007...
 @6.0
-Old lord! Grave news!
+My lord! Grave news!
 @6.1
 What is it?
 @6.2
@@ -228,7 +228,7 @@ Father... the times are changing. I will follow \#00C3, who is opening a new age
 @6.23
 My lord! Thank you.
 @6.24
-Yes... Oichi, I am staking all on your brother.
+Indeed... Oichi, I am staking all on your brother.
 @6.26
 \#0010 betrayed his longtime ally \#0017 and sided with his brother-in-law \#00C3...
 @6.27
@@ -300,7 +300,7 @@ I am \#0810! Welcome!
 @7.22
 I humbly ask your favour, for all the years to come.
 @7.23
-Yes! Now, you must be tired from the long journey. Go and rest.
+Good! Now, you must be tired from the long journey. Go and rest.
 @7.24
 Yes... Then by your leave.
 @7.25
@@ -310,7 +310,7 @@ It was a political marriage, common in the Sengoku era, but they were happy toge
 @7.27
 I see. So that lady is the apple of Lord \#08C3's eye.
 @7.28
-Yes. I asked Lord \#08C3 knowing it was a lot to ask, but it never hurts to ask.
+Indeed. I asked Lord \#08C3 knowing it was a lot to ask, but it never hurts to ask.
 @7.29
 This affair shows how much the \#10C3 clan values its alliance with our \#1010 clan.
 @7.30

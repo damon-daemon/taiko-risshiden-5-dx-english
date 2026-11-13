@@ -88,7 +88,7 @@ From now on, our house will carry ever more weight in the realm...
 @8.6
 Please wait! You must be Lord \#00A5!
 @8.7
-Yes, I am \#00A5. What is it?
+Indeed, I am \#00A5. What is it?
 @8.8
 My master, \#004B, has something important he wishes to discuss with you. Please, I beg you to call on him.
 @8.9
@@ -152,7 +152,7 @@ Yes, I will go with you to the depths of the underworld!
 @8.38
 But our two armies alone could never stand against \Z003. We need allies.
 @8.39
-Yes. In fact, through Lord \#0036 I have asked Lord \#02D1 for help.
+Indeed. In fact, through Lord \#0036 I have asked Lord \#02D1 for help.
 @8.40
 Of the remaining regents, Lord \#007D is all but Lord Taiko's adopted son. He will surely side with us.
 @8.41
@@ -441,7 +441,7 @@ Mm, we took the heads of several generals. A great victory! But \Z003 got away.
 @15.36
 \Z003 got away... That's bad...
 @15.37
-Yes. I'd like to pursue at once, but our losses are not small either.
+Indeed. I'd like to pursue at once, but our losses are not small either.
 @15.38
 I think we should pull back and regroup. What say you?
 @15.39
