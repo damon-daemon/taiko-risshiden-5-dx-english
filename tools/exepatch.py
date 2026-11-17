@@ -353,6 +353,12 @@ def money_patches():
     assert len(b) <= n, len(b)
     return [MONEY_WIDE, (MONEY_VA, MONEY_HEAD, b + b'\x90' * (n - len(b)))] + NUM_WIDE
 
+# Debug (env TL_DEBUG_GSFAIL=1, never for a release): the CRT's stack-cookie failure
+# handler (0x140A3A1B0, ends in int 0x29 = exit code c0000409 with no trace) faults on a
+# null write instead, so a Wine +seh log (PROTON_LOG=1) shows the registers and a
+# backtrace: the first frame above it is the function whose stack buffer overflowed.
+GSFAIL = [(0x140A3A1B0, '48 89 4c 24 08', '31 c0 89 00 90')] if os.environ.get('TL_DEBUG_GSFAIL') else []
+
 def va2off(pe, va):
     return pe.get_offset_from_rva(va - IMAGE_BASE)
 
@@ -360,7 +366,7 @@ def apply(data):
     import pefile
     pe = pefile.PE(data=bytes(data), fast_load=True)
     out = bytearray(data)
-    for va, old, new in PATCHES + [advance_patch(), backlog_patch(), digits_patch(), save_header_patch()] + wrap40_patches() + spacing_patches() + town_reading_patches() + money_patches() + scenario_year_patches():
+    for va, old, new in PATCHES + GSFAIL + [advance_patch(), backlog_patch(), digits_patch(), save_header_patch()] + wrap40_patches() + spacing_patches() + town_reading_patches() + money_patches() + scenario_year_patches():
         o = va2off(pe, va)
         old = bytes.fromhex(old)
         new = bytes.fromhex(new) if isinstance(new, str) else new

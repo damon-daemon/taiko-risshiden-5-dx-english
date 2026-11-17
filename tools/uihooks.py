@@ -26,6 +26,19 @@ the hover frame (0x1406e4fd0, index r14d) from the same table minus 6.
 COLWIDTH: list column widths copied at first use from the runtime width table into
 static column tables (e.g. 0x140638bc0: Bases list, Ninja Village tab, 32-byte entries).
 Ninja Village: "14 (Medium)" ran into Backed Daimyo; Holder gives 25 px to Size.
+
+BATTLE_TITLE: the field-battle title (0x140302400, shown when a battle opens) is built
+in a 24-byte stack buffer [rbp+0xf] as place name + ui 3159 "の戦い" by four inline
+copy loops (named battles ui 3160-3180, towns, seas, provinces). In English that read
+"<place>Battle of " and anything over 23 characters ran over the stack cookie: the game
+closed (exit code c0000409) when the Battle of Komaki-Nagakute began (issue #2). Now
+each append site calls a stub that writes ui 3159 + place ("Battle of Komaki-Nagakute")
+to a slot of the name ring buffer and stores the slot's address at [rbp+0x1f] (the
+buffer's last 8 bytes; zero when no append ran, as the fixed titles ui 3158/3181 are
+copied whole and must stay under 16 bytes: ui.LIMITS). The two readers of the buffer
+take the string from that pointer; the first one (strlen for centring: x = 192 - 4 px
+per character) gets the width in px / 8 from advance() instead of the length. A place
+name alone must stay under 24 bytes (longest now: 18).
 """
 import os, sys
 
@@ -167,19 +180,101 @@ add eax, {delta}
 ret
 """
 
+BT_SUFFIX = 0x14109F4A8         # char* variable holding ui 3159
+BT_JOIN = 0x1403026FE
+BT_APPENDS = (0x1403024DF, 0x140302571, 0x140302632, 0x1403026AE)
+BT_APPEND_OLD = '48 8d 4d 0f 48 ff c9'      # lea rcx, [rbp+0xf]; dec rcx (then the append loop, 50+ bytes)
+BT_LEN = (0x1403027D7, '48 8d 4d 0f 48 8b b4 24 c0 00 00 00 48 c7 c0 ff ff ff ff 66 0f 1f 44 00 00'
+                       ' 48 ff c0 44 38 2c 01 75 f7')
+BT_TEXT = (0x14030285C, '4c 8d 45 0f')      # lea r8, [rbp+0xf] -> mov r8, [rbp+0x1f]
+BT_BUILD_STUB = """
+here:
+push rbx
+sub rsp, 0x20
+mov rbx, rcx
+lea rcx, [rip + here]
+add rcx, {ring_rel}
+call {ring_alloc}
+mov rdx, rax
+lea r8, [rip + here]
+add r8, {suffix_rel}
+mov r8, qword ptr [r8]
+p1:
+mov cl, byte ptr [r8]
+test cl, cl
+je p2
+mov byte ptr [rdx], cl
+inc r8
+inc rdx
+jmp p1
+p2:
+mov r8, rbx
+p3:
+mov cl, byte ptr [r8]
+mov byte ptr [rdx], cl
+inc r8
+inc rdx
+test cl, cl
+jne p3
+mov qword ptr [rbx + 0x10], rax
+add rsp, 0x20
+pop rbx
+ret
+"""
+BT_LEN_STUB = """
+lea rcx, [rbp + 0xf]
+cmp byte ptr [rcx + 0x10], 0
+jne has
+mov qword ptr [rcx + 0x10], rcx
+has:
+mov r10, qword ptr [rcx + 0x10]
+xor r11d, r11d
+wl:
+movzx ecx, byte ptr [r10]
+test ecx, ecx
+je wd
+inc r10
+mov edx, 16
+mov r8d, 8
+call {advance}
+add r11d, eax
+jmp wl
+wd:
+lea eax, [r11 + 4]
+shr eax, 3
+ret
+"""
+
+def battle_title(seg, ks):
+    import names
+    va = seg.add(b'', align=16, share=False)
+    build = _stub(seg, ks, BT_BUILD_STUB.format(ring_rel=names.RING - va, suffix_rel=BT_SUFFIX - va,
+                                                ring_alloc='0x%x' % names.RING_ALLOC))
+    assert build == va
+    for at in BT_APPENDS:
+        _patch(seg, ks, at, BT_APPEND_OLD, 'lea rcx, [rbp + 0xf]', pad=False)
+        o = seg.va2off(at + 4)
+        b = bytes(ks.asm('call 0x%x\njmp 0x%x' % (build, BT_JOIN), at + 4)[0])
+        assert len(b) <= 10          # the jump is short from the last site
+        seg.exe[o:o + len(b)] = b
+    at, old = BT_LEN
+    _patch(seg, ks, at, old, 'call 0x%x\nmov rsi, qword ptr [rsp + 0xc0]'
+           % _stub(seg, ks, BT_LEN_STUB.format(advance='0x%x' % names.ADVANCE)))
+    _patch(seg, ks, BT_TEXT[0], BT_TEXT[1], 'mov r8, qword ptr [rbp + 0x1f]')
+
 def _stub(seg, ks, src):
     va = seg.add(b'', align=16, share=False)
     assert seg.add(bytes(ks.asm(src, va)[0]), share=False) == va
     return va
 
-def _patch(seg, ks, at, old, asm_src):
+def _patch(seg, ks, at, old, asm_src, pad=True):
     o = seg.va2off(at)
     old = bytes.fromhex(old)
     if bytes(seg.exe[o:o + len(old)]) != old:
         raise SystemExit('uihooks: patch %X: expected %s, found %s' % (at, old.hex(), seg.exe[o:o + len(old)].hex()))
     b = bytes(ks.asm(asm_src, at)[0])
     assert len(b) <= len(old), (hex(at), len(b))
-    seg.exe[o:o + len(old)] = b + b'\x90' * (len(old) - len(b))
+    seg.exe[o:o + len(old)] = b + (b'\x90' * (len(old) - len(b)) if pad else old[len(b):])
 
 def apply(seg):
     import keystone
@@ -217,4 +312,5 @@ def apply(seg):
         code = bytes(ks.asm(COLWIDTH_STUB.format(rel=src_va - va, delta=delta), va)[0])
         assert seg.add(code, share=False) == va
         _patch(seg, ks, at, seg.exe[o:o + 6].hex(), 'call 0x%x' % va)
-    return 8 + len(COLWIDTH)
+    battle_title(seg, ks)
+    return 9 + len(COLWIDTH)

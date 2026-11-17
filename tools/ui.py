@@ -27,7 +27,8 @@ FMT = re.compile(rb'%[-+ #0]*\d*(?:\.\d+)?[a-zA-Z]')
 
 # Buffer limits carried over from the PS2 audit (overflow.py there), not re-audited in
 # DX: temporary speaker name parts went to a 9-byte record field.
-LIMITS = {}
+LIMITS = {3158: (15, 'battle title buffer: under 16 bytes (uihooks BATTLE_TITLE)'),
+          3181: (15, 'battle title buffer: under 16 bytes (uihooks BATTLE_TITLE)')}
 
 # Kept Japanese on purpose: 506 "：" (the save/load screen crashes with ":", the code
 # apparently searches other text for this exact separator).
