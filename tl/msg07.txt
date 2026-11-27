@@ -355,21 +355,21 @@ You'll do training?\nIt will take about 20 days to see results.\nIs that all rig
 @72
 {01}C{A1}{1B}\n{01}C{A2}{1B}\nHold a draft in this town?
 @73
-The town is huge, so I think\nmany people can be drafted.\n
+The town is huge, so I think\nmany people can be drafted.
 @73.1
-The town is large, so I think\nmany people can be drafted.\n
+The town is large, so I think\nmany people can be drafted.
 @73.2
-The town is mid-sized, so I think\na fair number can be drafted.\n
+The town is mid-sized, so I think\na fair number can be drafted.
 @73.3
-The town is small, so I think\nfew people can be drafted.\n
+The town is small, so I think\nfew people can be drafted.
 @74
-The troops of this province are excellent,\nso many should have ninja aptitude.\n
+The troops of this province are superb,\nso many should have ninja aptitude.
 @74.1
-The troops of this province are good,\nso many should have ninja aptitude.\n
+The troops of this province are good,\nso many should have ninja aptitude.
 @74.2
-The troops of this province are average,\nso some should have ninja aptitude.\n
+The troops of this province are average,\nso some should have ninja aptitude.
 @74.3
-The troops of this province are poor,\nso few should have ninja aptitude.\n
+The troops of this province are poor,\nso few should have ninja aptitude.
 @75
 It will take about 20 days to see results.\nIs that all right?
 @76

@@ -986,13 +986,13 @@ Next time we meet, we will surely be enemies.
 @262.1
 {01}C3{00}...\nI will never forget your kindness.
 @263
-Why are you dawdling?!\n{01}C{10}SNever show your face before me again!
+Why are you dawdling?!\n{01}C{10}S\nNever show your face before me again!
 @263.1
-Why are you dawdling?!\n{01}C{10}SPlease leave!
+Why are you dawdling?!\n{01}C{10}S\nPlease leave!
 @264
-I can't leave a rival in trade here.\n
+I can't leave a rival in trade here.
 @264.1
-I can't leave an enemy here.\n
+I can't leave an enemy here.
 @265
 I don't want to see your face anymore.\nPlease leave at once!
 @265.1
