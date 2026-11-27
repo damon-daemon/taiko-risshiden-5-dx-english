@@ -73,8 +73,12 @@ BOXES[23] = (ps2(360), 5)      # msg23 card descriptions
 BOXES[25] = (ps2(396), 11)     # battle advisor panel
 BOXES[26] = (ps2(420), 9)      # battle advisor (castle defense lines)
 BOXES[27] = (ps2(420), 9)      # #0-165 battle advisor (low-troop lines)
-for _n in range(28, 33):       # officer bios on the Card List hero cards (dates line + 6)
-    BOXES[_n] = (ps2(410, 'small'), 6, 1)
+# msg28-32 = officer bios on the Card List hero cards. Read from the code (card panel
+# 0x140463290): the dates line goes up beside the name; the rest is drawn in a text box
+# 668 px wide (font 4: 15 px a half cell, = 757 here) with no height limit, inside a frame
+# that holds 7 lines (36 px a line). Still wrapped at the narrower PS2 width (all fit).
+for _n in range(28, 33):
+    BOXES[_n] = (ps2(410, 'small'), 7, 1)
 # Entries of window blocks shown in other panels (FIT mode instead of the window box)
 NOT_WINDOW = {8: range(402, 439), 10: range(350, 1000), 11: {*range(531, 604), *range(789, 823)},
               22: range(458, 1000),  # town descriptions
@@ -85,7 +89,11 @@ NOT_WINDOW = {8: range(402, 439), 10: range(350, 1000), 11: {*range(531, 604), *
 ENTRY_BOXES = {27: [(range(181, 1000), WINDOW)],              # tea-party dialogue
                0: [(range(445, 450), (ps2(336), 3))],         # profession blurbs
                21: [(range(44, 62), (ps2(336), 8))]}          # mini-game descriptions
-ENTRY_BOXES.setdefault(23, []).append((range(84, 424), (ps2(310, 'small'), 5, 0)))  # card texts
+# Card List card texts. Read from the code (card panel 0x140463290): a text box 488 px wide
+# (font 4, = 553 here) with no height limit; the frame holds 6 lines on battle-skill cards
+# (#326-400) and 5 on the others. The others keep the narrower PS2 width (all fit).
+ENTRY_BOXES.setdefault(23, []).append((range(326, 401), (cells(488 / 15), 6, 0)))   # battle skills
+ENTRY_BOXES[23].append((range(84, 424), (ps2(310, 'small'), 5, 0)))                 # card texts
 ENTRY_BOXES.setdefault(22, []).append((range(0, 458), (ps2(310, 'small'), 5, 0)))   # items
 # Panels not measured: units keep to their Japanese (no line wider than its widest line,
 # no more lines).
