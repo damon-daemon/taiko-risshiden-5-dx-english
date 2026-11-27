@@ -1469,7 +1469,7 @@ Then please wait here 20 days.\nIt'd be trouble if the client betrayed us...\nIs
 @388.1
 ...Understood. A pity.
 @389
-...And {02}od days later
+...And {02}od {01}C{D7}{01} later
 @390
 Sorry to keep you.\nWe found a person called {02}{03}g.
 @390.1
@@ -1699,9 +1699,9 @@ You can't train in that condition.\nHeal your body first.
 @444.1
 Training is impossible in that condition.\nPlease restore your health first.
 @445
-Training here takes {02}od days.\nWith the next council in mind,\nbetter hold off for now.
+Training here takes {02}od {01}C{D7}{01}.\nWith the next council in mind,\nbetter hold off for now.
 @445.1
-Training takes {02}od days.\nWith the next council in mind,\nyou should hold off for now.
+Training takes {02}od {01}C{D7}{01}.\nWith the next council in mind,\nyou should hold off for now.
 @446
 You mean to train here?\nHm, with your skill, I don't mind...\nBut do you know the ninja code?
 @447
@@ -1711,15 +1711,15 @@ Then I'll teach you the ninja code.\n\nIf you overcome this trial, we'll recogni
 @449
 One who can't accept the code\ncould never endure this trial.\nLeave.
 @450
-Training takes {02}od days.\nShall we begin at once?
+Training takes {02}od {01}C{D7}{01}.\nShall we begin at once?
 @450.1
-Training here takes {02}od days.\nYou're one of us, so no money is needed...\nShall we begin at once?
+Training here takes {02}od {01}C{D7}{01}.\nYou're one of us, so no money is needed...\nShall we begin at once?
 @450.2
-Training here takes {02}od days,\nand I'd ask a donation of {02}p{C8}.\nIs that all right?
+Training here takes {02}od {01}C{D7}{01},\nand I'd ask a donation of {02}p{C8}.\nIs that all right?
 @450.3
-Training here takes {02}od days,\nand I want a donation of {02}p{C8}.\nAll right?
+Training here takes {02}od {01}C{D7}{01},\nand I want a donation of {02}p{C8}.\nAll right?
 @450.4
-Training takes {02}od days,\nand I'd ask a donation of {02}p{C8}.\nIs that all right?
+Training takes {02}od {01}C{D7}{01},\nand I'd ask a donation of {02}p{C8}.\nIs that all right?
 @451
 Then it can't be helped.\nDon't neglect your training.
 @451.1
@@ -2139,11 +2139,11 @@ Neither you nor {01}C{10}{00}\nhave papers for trading there...\nTo trade in {02
 @523.1
 ...Understood.\nThen we leave for {02}{15}f.\n\nWe'll come back with lots of profit.\nWe'll take 100,000 kan as funds.
 @524
-Once we head for {02}{15}f, we won't\nbe back for {02}od days...\n\nWith {01}C{10}{00} away,\nthis fort will be empty. All right?
+Once we head for {02}{15}f, we won't\nbe back for {02}od {01}C{D7}{01}...\n\nWith {01}C{10}{00} away,\nthis fort will be empty. All right?
 @524.1
-Once we head for {02}{15}f, we won't\nbe back for {02}od days...\n\nWith {01}C{10}{00} away,\nthis fort will be empty. Is that all right?
+Once we head for {02}{15}f, we won't\nbe back for {02}od {01}C{D7}{01}...\n\nWith {01}C{10}{00} away,\nthis fort will be empty. Is that all right?
 @524.2
-Once we head for {02}{15}f, we won't\nbe back for {02}od days...\n\nWith {01}C{10}{00} away,\nthis fort will be empty. Is that all right?
+Once we head for {02}{15}f, we won't\nbe back for {02}od {01}C{D7}{01}...\n\nWith {01}C{10}{00} away,\nthis fort will be empty. Is that all right?
 @525
 Then we're off to {02}{15}e.\nWait for good news.
 @525.1

@@ -341,13 +341,13 @@ That's {02}o{C8}.\nSorry, but I don't take cheap jobs.
 @79
 That would be {02}o{C8}.\nIs your life\nworth only that much?
 @80
-Hehehe...\nThe fee's {02}p{C8} for {02}od days.\nPaid up front. All right?
+Hehehe...\nThe fee's {02}p{C8} for {02}od {01}C{D7}{01}.\nPaid up front. All right?
 @81
-The fee's {02}p{C8} for {02}od days.\nPaid up front, got it?
+The fee's {02}p{C8} for {02}od {01}C{D7}{01}.\nPaid up front, got it?
 @82
-Huh? {01}C{10}{00} don't come cheap.\nThe fee's {02}p{C8} for {02}od days.\nPaid up front. Can you pay?
+Huh? {01}C{10}{00} don't come cheap.\nThe fee's {02}p{C8} for {02}od {01}C{D7}{01}.\nPaid up front. Can you pay?
 @83
-I will protect your life\nfor {02}p{C8} for {02}od days.\nPaid in advance. Is that all right?
+I will protect your life\nfor {02}p{C8} for {02}od {01}C{D7}{01}.\nPaid in advance. Is that all right?
 @84
 Oh, you'll pass?\nDidn't you like them?
 @85
@@ -401,7 +401,7 @@ Thank you very much.\nI shall take charge of your life.
 @97.1
 (After paying this much...\n  they'd better work for it,\n  or it won't be worth it.)
 @98
-Oh, you want to dismiss the bodyguard?\nThere are {02}od days left,\nbut the fee won't come back.
+Oh, you want to dismiss the bodyguard?\nThere are {02}od {01}C{D7}{01} left,\nbut the fee won't come back.
 @99
 Changed your mind?\nSo you don't need to dismiss them yet.
 @100
@@ -515,7 +515,7 @@ Lately the drunken brawls never stop.\nThey break the shop's things... business 
 @141.1
 Lately there have been strange customers...\nThey brawl in the shop... skip out on the bill...\nI'm at my wits' end.\nPlease! Use that strength of yours\nto protect this shop.
 @142
-Then for the next {02}od days\nyou'll be lodging here.
+Then for the next {02}od {01}C{D7}{01}\nyou'll be lodging here.
 @143
 Lately there are so many bandits after cargo.\nPlease escort me to {02}{15}e.
 @143.1
@@ -631,9 +631,9 @@ You're done as bodyguard.\nAnd I can't pay for this job.\nYou'll have to do bett
 @174
 You're done as bodyguard.\nHere's {02}o{C8} for the work so far.\nDo better next time.
 @175
-Today makes the {02}od days we agreed.\nNo fights broke out, but a deal's a deal.\nHere, {02}p{C8}.
+Today makes the {02}od {01}C{D7}{01} we agreed.\nNo fights broke out, but a deal's a deal.\nHere, {02}p{C8}.
 @176
-Today makes the {02}od days we agreed.\nYou were a big help.\nHere, {02}p{C8}.
+Today makes the {02}od {01}C{D7}{01} we agreed.\nYou were a big help.\nHere, {02}p{C8}.
 @177
 (I know,\n I'll try to find out from Lord {02}{02}g\n how things are in {02}{02}{81}.)
 @177.1
@@ -721,7 +721,7 @@ Lord {01}C.{00}
 @195.12
 Little {01}C.{00}
 @196
-It's {02}o{C8} a night.\nWith the money you have, you can\nstay up to {02}pd days. How long?
+It's {02}o{C8} a night.\nWith the money you have, you can\nstay up to {02}pd {01}C{D9}{01}. How long?
 @197
 Oh, could you be...\nthe {01}C{06} \_one everyone talks about?\nWelcome! Half price for you.
 @198
@@ -1167,9 +1167,9 @@ The rest is up to you.\nWhere good iron sand is found,\nfind out on your own fee
 @312
 Sorry, you can't help in that condition.\nOne slip in this work can cost a life.\nCome back when you're well.
 @313
-Oh, you want to learn making {01}C{81} s?\nLet's see... I'll look after you for {02}od days.\nHow long will you help?
+Oh, you want to learn making {01}C{81} s?\nLet's see... I'll look after you for {02}od {01}C{D7}{01}.\nHow long will you help?
 @314
-You'll help for {02}od days?
+You'll help for {02}od {01}C{D7}{01}?
 @315
 All right! I'm counting on you.\nDon't give up halfway.
 @316
@@ -1225,7 +1225,7 @@ Phew... your order,\n{02}od {02}yd{02}zd, is done...\nbut it seems it was wasted
 @331
 Gathered {02}od iron sand.
 @332
-Helped make {02}yd for {02}od days.
+Helped make {02}yd for {02}od {01}C{D7}{01}.
 @333
 You haggled and now won't buy?\nI've no time for games.\nGo on, get out of here!
 @333.1
@@ -1311,19 +1311,19 @@ Before training in navy skills,\ndon't forget to donate {02}o{C8} to the fort.\n
 @362.1
 Before training in navy skills,\nwould you donate {02}o{C8} to the fort?\nPlease bring the money first.
 @363
-Training here takes {02}od days.\nYou seem to have a council.\nBetter not.
+Training here takes {02}od {01}C{D7}{01}.\nYou seem to have a council.\nBetter not.
 @363.1
-Training takes {02}od days.\nWith the next council in mind,\nyou should hold off for now.
+Training takes {02}od {01}C{D7}{01}.\nWith the next council in mind,\nyou should hold off for now.
 @364
-Training takes {02}od days.\nShall we begin at once?
+Training takes {02}od {01}C{D7}{01}.\nShall we begin at once?
 @364.1
-Training here takes {02}od days.\nYou're one of us, so no money is needed...\nShall we begin at once?
+Training here takes {02}od {01}C{D7}{01}.\nYou're one of us, so no money is needed...\nShall we begin at once?
 @364.2
-Training here takes {02}od days,\nand I'd ask a donation of {02}p{C8}.\nIs that all right?
+Training here takes {02}od {01}C{D7}{01},\nand I'd ask a donation of {02}p{C8}.\nIs that all right?
 @364.3
-Training here takes {02}od days,\nand a donation of {02}p{C8}.\nAll right?
+Training here takes {02}od {01}C{D7}{01},\nand a donation of {02}p{C8}.\nAll right?
 @364.4
-Training takes {02}od days,\nand I'd ask a donation of {02}p{C8}.\nIs that all right?
+Training takes {02}od {01}C{D7}{01},\nand I'd ask a donation of {02}p{C8}.\nIs that all right?
 @365
 Then it can't be helped.\nDon't neglect your drills.
 @365.1
@@ -1455,11 +1455,11 @@ Building {02}yd costs\nabout {02}o{C8}...\nYou don't have enough money.
 @392.1
 Building {02}yd costs\nabout {02}o{C8}...\nYou don't have enough money.
 @393
-Building {02}yd takes {02}od days.\nThere aren't enough days before the council.\nPlease give up this time.
+Building {02}yd takes {02}od {01}C{D7}{01}.\nThere aren't enough days before the council.\nPlease give up this time.
 @394
-Building {02}yd takes {02}od days\nand costs {02}p{C8}.\nIs that all right?
+Building {02}yd takes {02}od {01}C{D7}{01}\nand costs {02}p{C8}.\nIs that all right?
 @394.1
-Building {02}yd takes {02}od days\nand costs {02}p{C8}.\nIs that all right?
+Building {02}yd takes {02}od {01}C{D7}{01}\nand costs {02}p{C8}.\nIs that all right?
 @395
 Hmm, not a single {02}yd was added.
 @395.1

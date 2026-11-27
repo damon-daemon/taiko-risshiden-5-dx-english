@@ -87,7 +87,7 @@
 86	%s  %s Army
 87	%s Army
 88	%s\n(%u-%u)
-89	(%u days)
+89	(Days: %u)
 90	Army Leader
 91	Unit Leader
 92	Leader
@@ -123,7 +123,7 @@
 122	Sortie Army
 123	(Out of rice)
 124	(99+ days)
-125	(%u days left)
+125	(Days left: %u)
 126	%u times
 127	☆
 128	★
@@ -1337,7 +1337,7 @@
 1380	Goal
 1381	Client
 1382	Bodyguard
-1383	%y days
+1383	Days: %y
 1384	Info
 1385	Functions
 1386	%4d/%02d/%02d
@@ -1352,7 +1352,7 @@
 1395	Expired
 1396	Last day
 1397	No deadline
-1398	%d days left
+1398	Days left: %d
 1399	Budget Left
 1400	Rice left
 1401	Goods Left
@@ -2332,7 +2332,7 @@
 3132	Some other error occurred!
 3133	% 2u/% 2u
 3134	Out of Rice
-3135	%u days
+3135	Days: %u
 3136	Left
 3137	%u turns
 3138	List Select

@@ -421,11 +421,11 @@ How many days shall I rest?
 @25.2
 How many days will you rest?
 @26
-Will {02}o{CB} days do?
+Will {02}o{CB} {01}C{D7}{01} do?
 @26.1
-Will {02}o{CB} days do?
+Will {02}o{CB} {01}C{D7}{01} do?
 @26.2
-Will {02}o{CB} days be all right?
+Will {02}o{CB} {01}C{D7}{01} be all right?
 @27
 Well then, time for a rest.
 @27.1
@@ -447,23 +447,23 @@ No point getting\nany more energetic.
 @29.5
 No point getting\nany more energetic...
 @30
-Let me see... to get my strength back\nwill take about {02}o{CB} days.
+Let me see... to get my strength back\nwill take about {02}o{CB} {01}C{D7}{01}.
 @30.1
-Hmm...... to get my strength back\nwill take about {02}o{CB} days.
+Hmm...... to get my strength back\nwill take about {02}o{CB} {01}C{D7}{01}.
 @30.2
-Hmm...... as I see it,\nfor you to recover, dear,\nwill take about {02}o{CB} days.
+Hmm...... as I see it,\nfor you to recover, dear,\nwill take about {02}o{CB} {01}C{D7}{01}.
 @30.3
-For you to recover, dear,\nwill take {02}o{CB} days.
+For you to recover, dear,\nwill take {02}o{CB} {01}C{D7}{01}.
 @30.4
-Hmm...... as I see it,\nfor you to recover, dear,\nyou must rest {02}o{CB} days...
+Hmm...... as I see it,\nfor you to recover, dear,\nyou must rest {02}o{CB} {01}C{D7}{01}...
 @30.5
-For you to recover, dear,\nwill take about {02}o{CB} days.\n
+For you to recover, dear,\nwill take about {02}o{CB} {01}C{D7}{01}.\n
 @31
-Rest about {02}o{CB} days?
+Rest about {02}o{CB} {01}C{D7}{01}?
 @31.1
-Rest about {02}o{CB} days?
+Rest about {02}o{CB} {01}C{D7}{01}?
 @31.2
-Will you rest {02}o{CB} days?
+Will you rest {02}o{CB} {01}C{D7}{01}?
 @32
 Oh, I have medicine, come to think of it.\nI'm not feeling well; shall I take some?
 @32.1
@@ -939,7 +939,7 @@ Dear, you already have\nample ability.\nThere's no need to train more.
 @99.1
 My lord, you already have\nample ability.\nThere's no need to train more.
 @100
-You'll train your abilities?\nIt costs {02}o{C8} and takes {02}pd days.\nIs that all right?
+You'll train your abilities?\nIt costs {02}o{C8} and takes {02}pd {01}C{D9}{01}.\nIs that all right?
 @101
 Then which ability will you train?
 @102

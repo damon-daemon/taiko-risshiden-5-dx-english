@@ -532,7 +532,7 @@ My lord!\nGrave news!
 @22.2
 Word has come that the Mori army is ready to set out!
 @22.4
-They are expected to arrive here in \101D days!
+They are expected here after a \101D-day march!
 @22.5
 Grr, so they've come at last...
 @22.6

@@ -163,15 +163,15 @@ I see, just a rest.\nPlease relax.
 @76
 It's {02}o{C8} a night, but\nforgive me, you don't have enough on you.
 @77
-In your present condition,\nI'd suggest staying {02}od days.
+In your present condition,\nI'd suggest staying {02}od {01}C{D7}{01}.
 @78
-Staying {02}od days\ncomes to {02}p{C8}.\nIs that all right?
+Staying {02}od {01}C{D7}{01}\ncomes to {02}p{C8}.\nIs that all right?
 @79
 It's {02}o{C8} a night.\nHow many days will you stay?
 @80
 You won't stay?\nVery well.
 @81
-Very well.\n{02}od nights, then.\nPlease rest well.
+Very well.\n{02}od {01}C{D8}{01}, then.\nPlease rest well.
 @82
 {01}C{B4}#, good morning.\nDid you sleep well?
 @82.1
@@ -1015,13 +1015,13 @@ Damn, talking so stingy...\nYou're bringing me down.\nGo on, go home for today!
 @244.1
 Tch, what a cheapskate.\nGo home for today!
 @245
-It'll take {02}od days.\nThat all right?
+It'll take {02}od {01}C{D7}{01}.\nThat all right?
 @245.1
-It'll take {02}od days.\nThat all right?
+It'll take {02}od {01}C{D7}{01}.\nThat all right?
 @246
-Right, got it.\nThen come back\nin {02}od days.
+Right, got it.\nThen come back\nin {02}od {01}C{D7}{01}.
 @246.1
-Right, thanks.\nThen come back\nin {02}od days.
+Right, thanks.\nThen come back\nin {02}od {01}C{D7}{01}.
 @247
 What... that's a shame.\nWell, come any time.
 @247.1
@@ -1283,9 +1283,9 @@ I see......\nYou don't seem to appreciate art.\nA great pity.
 @335
 As expected of one who understands art.\nMy hands are itching to begin.
 @336
-By the way, it will take about {02}od days.\nIs that all right?
+By the way, it will take about {02}od {01}C{D7}{01}.\nIs that all right?
 @337
-Thank you very much.\nThen please come to collect it\nin {02}od days.
+Thank you very much.\nThen please come to collect it\nin {02}od {01}C{D7}{01}.
 @338
 You don't have any\nunappraised items.
 @339

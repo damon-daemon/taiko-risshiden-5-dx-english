@@ -1005,11 +1005,11 @@ I'm glad of the offer, but\nhaven't you been called up?\nI'll ask another time.
 @326.1
 I'm glad of the offer, but\nyou seem to have a council.\nI'll ask another time.
 @328
-Oh, the students will be glad.\nI'd like you to look after them\nfor {02}od days. All right?
+Oh, the students will be glad.\nI'd like you to look after them\nfor {02}od {01}C{D7}{01}. All right?
 @328.1
-Oh! The students will be glad.\nI'd ask you for {02}od days.\nIs that all right?
+Oh! The students will be glad.\nI'd ask you for {02}od {01}C{D7}{01}.\nIs that all right?
 @329
-Oh! The students will be glad.\nI'd ask you for {02}od days.\nIs that all right?
+Oh! The students will be glad.\nI'd ask you for {02}od {01}C{D7}{01}.\nIs that all right?
 @330
 I challenge you!\n{01}C{10}{00} am {02}{01}g\nof {02}yd.\nI seek a lesson from this dojo's master.\nFace me in a fair match!
 @330.1

@@ -34,6 +34,9 @@ def build_msg(clean):
                     en = ' ' + en
                 blocks[n][r['id']] = text.encode(en)
                 n_en += 1
+    # count words ("1 day" / "5 days"), inserted after numbers by the English (tl.PLURALS)
+    assert len(blocks[0]) == tl.PLURAL_BASE, len(blocks[0])
+    blocks[0] += tl.plural_entries()
     return msgfile.pack(blocks), n_en
 
 def patched_exe(clean, tl_rva, quiet=False):

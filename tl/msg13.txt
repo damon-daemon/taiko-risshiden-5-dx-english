@@ -1811,9 +1811,9 @@ These are the skills\nI can teach.\nWhich do you want to learn?
 @297
 These are the skills\nI can teach...\nWhich shall I teach you?
 @299
-You want to learn {02}yd?\nGiven your ability, it will take\n{02}od days. Is that all right?
+You want to learn {02}yd?\nGiven your ability, it will take\n{02}od {01}C{D7}{01}. Is that all right?
 @300
-You'd like to learn {02}yd?\nGiven your ability, it will take\n{02}od days. Is that all right?
+You'd like to learn {02}yd?\nGiven your ability, it will take\n{02}od {01}C{D7}{01}. Is that all right?
 @303
 To train in {02}yd,\nfirst get yourself {02}zd.
 @304
@@ -1863,13 +1863,13 @@ Your summons deadline has passed.\nYou'll be in trouble.\nHurry back.
 @324.1
 The council is already over.\nYou'll be in trouble.\nHurry back.
 @325
-Training in {02}yd takes {02}od days.\nYou've got a council, haven't you?\nForget it this time.
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nYou've got a council, haven't you?\nForget it this time.
 @325.1
-Training in {02}yd takes {02}od days.\nYou've got a council, haven't you?\nForget it this time.
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nYou've got a council, haven't you?\nForget it this time.
 @326
-Training in {02}yd takes {02}od days.\nYou've been summoned, haven't you?\nForget it this time.
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nYou've been summoned, haven't you?\nForget it this time.
 @326.1
-Training in {02}yd takes {02}od days.\nYou've been summoned, haven't you?\nForget it this time.
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nYou've been summoned, haven't you?\nForget it this time.
 @327
 Hey, hey,\nyour summons deadline has passed.\nForget it this time.
 @327.1
@@ -1879,13 +1879,13 @@ Hey, hey,\nthe council's over; aren't you going back?\nForget it this time.
 @328.1
 Hey, you missed the council;\naren't you going back?\nForget it this time.
 @329
-Training in {02}yd takes {02}od days.\nWith the next council coming,\nyou'd best hold off this time.
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nWith the next council coming,\nyou'd best hold off this time.
 @329.1
-Training in {02}yd takes {02}od days.\nWith the next council coming,\nyou should hold off this time.
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nWith the next council coming,\nyou should hold off this time.
 @330
-Training in {02}yd takes {02}od days.\nWith your summons deadline,\nyou'd best hold off this time.
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nWith your summons deadline,\nyou'd best hold off this time.
 @330.1
-Training in {02}yd takes {02}od days.\nWith your summons deadline,\nyou should hold off this time.
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nWith your summons deadline,\nyou should hold off this time.
 @331
 You seem to have missed the council...\nBetter go back and beg forgiveness.\nYou can train any time.
 @331.1
@@ -1895,13 +1895,13 @@ You seem to be late for your summons...\nBetter go back and beg forgiveness.\nYo
 @332.1
 You seem to be late for your summons.\nBetter go back and beg forgiveness...\nYou can train any time.
 @333
-Training in {02}yd takes {02}od days.\nWith the next council coming,\nbetter hold off this time.
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nWith the next council coming,\nbetter hold off this time.
 @333.1
-Training in {02}yd takes {02}od days.\nWith the next council coming,\nperhaps you should hold off this time...
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nWith the next council coming,\nperhaps you should hold off this time...
 @334
-Training in {02}yd takes {02}od days.\nWith your summons deadline,\nlet's do it another day.
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nWith your summons deadline,\nlet's do it another day.
 @334.1
-Training in {02}yd takes {02}od days.\nWith your summons deadline,\nperhaps you should hold off this time...
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nWith your summons deadline,\nperhaps you should hold off this time...
 @335
 You seem to have missed the council...\nYou should go back and beg forgiveness.\nYou can train any time.
 @335.1
@@ -1911,9 +1911,9 @@ Your summons deadline seems to have passed.\nYou should go back and beg forgiven
 @336.1
 Your summons deadline seems to have passed.\nYou should go back and beg forgiveness.\nYou can train any time.
 @337
-Training in {02}yd takes {02}od days.\nWith your summons deadline,\nperhaps you should hold off this time...
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nWith your summons deadline,\nperhaps you should hold off this time...
 @337.1
-Training in {02}yd takes {02}od days.\nWith the next council coming,\nperhaps you should hold off this time...
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nWith the next council coming,\nperhaps you should hold off this time...
 @338
 You seem to be late for your summons.\nBetter go back and beg forgiveness...\nYou can train any time.
 @338.1
@@ -1921,23 +1921,23 @@ You seem to have missed the council.\nBetter go back and beg forgiveness...\nYou
 @340
 Training in {02}yd takes {02}od daaays.\nShall we beeegin?
 @341
-Training in {02}yd takes {02}od days.\nShall we start?
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nShall we start?
 @342
-Training in {02}yd takes {02}od days.\nShall we begin, then?
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nShall we begin, then?
 @343
-Training in {02}yd takes {02}od days.\nShall we begin, then?
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nShall we begin, then?
 @343.1
-Training in {02}yd takes {02}od days.\nShall we begin?
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nShall we begin?
 @345
-Training in {02}yd takes {02}od days.\nI'll take {02}p{C8}.\nIs that all riiight?
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nI'll take {02}p{C8}.\nIs that all riiight?
 @346
-Training in {02}yd takes {02}od days.\nI'd want {02}p{C8} for it.\nThat all right?
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nI'd want {02}p{C8} for it.\nThat all right?
 @347
-Training in {02}yd takes {02}od days.\nIt costs about {02}p{C8}.\nIs that all right?
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nIt costs about {02}p{C8}.\nIs that all right?
 @348
-Training in {02}yd takes {02}od days.\nI'll take about {02}p{C8}.\nIs that all right?
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nI'll take about {02}p{C8}.\nIs that all right?
 @348.1
-Training in {02}yd takes {02}od days.\nIt costs about {02}p{C8}.\nIs that all right?
+Training in {02}yd takes {02}od {01}C{D7}{01}.\nIt costs about {02}p{C8}.\nIs that all right?
 @349
 There's nothing more\nI can teach you.\nNow go and farm, farm, faaarm.
 @349.1

@@ -1466,11 +1466,11 @@ Send reinforcements to\n{02}{0B}e or {02}{0C}e?
 @372
 No more reinforcements\ncan be sent to {02}{0B}e.
 @373
-It will take {02}od days or more to arrive.\nThey may not make it in time.\nReally send reinforcements?
+It will take {02}od {01}C{D7}{01} or more to arrive.\nThey may not make it in time.\nReally send reinforcements?
 @373.1
-It will take {02}od days or more to arrive.\nThey may not make it in time.\nReally send reinforcements?
+It will take {02}od {01}C{D7}{01} or more to arrive.\nThey may not make it in time.\nReally send reinforcements?
 @373.2
-It will take {02}od days or more to arrive.\nThey may not make it in time.\nReally send reinforcements?
+It will take {02}od {01}C{D7}{01} or more to arrive.\nThey may not make it in time.\nReally send reinforcements?
 @374
 We have a truce with {02}{0B}e.\nAttacking now would be dishonourable.\nReally set out?
 @374.1

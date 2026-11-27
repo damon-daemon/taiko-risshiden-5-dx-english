@@ -19,7 +19,11 @@ tl/msgNN.txt holds the English (no Japanese), one block per unit:
   Inline codes are copied from `show` as printed ({02}{01}d = a variable,
   {01}C1{00} = insert msg00 entry 0x31, {1B}C3..{1B}C0 = colour, %w = field filled
   in by the game). They may move; {01}C/{02} inserts may be dropped (word endings,
-  pronouns), not added. Kana toggles ({1B}K {1B}H {1B}k) are dropped from English.
+  pronouns), not added, except the count words below. Kana toggles ({1B}K {1B}H {1B}k)
+  are dropped from English.
+  Count words (PLURALS) go right after a printed number and agree with it:
+  {02}od {01}C{D7}{01} = "1 day" / "5 days"; {01}C{D8}{01} night(s) by {02}o;
+  {01}C{D9}{01} day(s) by {02}p.
   A '%' that is not one of the unit's %-fields becomes full-width ％.
 
 Units are word-wrapped with the advances of the patched font (font.advance_table) to
@@ -131,6 +135,25 @@ FLOW_PX = cells(700 / 12)             # wider Japanese lines are paragraphs the 
 KANA_TOGGLE = re.compile(rb'\x1b[KHk]')
 FULL_LATIN = re.compile('[０-９Ａ-Ｚａ-ｚ]')
 
+# Count words: msg00 entries that build.py appends after the 471 Japanese ones. The game
+# finds an entry by the count stored in its block (0x140680430), so new ones are found.
+# An inserted message sees the numbers of the message it is inserted in (msg07@74 tests
+# {02}od inserted in msg07@72), and '=' compares for equality (msg00@442 tests one value
+# for 0, 1, 2 ... 14 in turn). Each entry gives the singular when its number is 1.
+PLURAL_BASE = 471
+PLURALS = [(b'o', b'day', b'days'), (b'o', b'night', b'nights'), (b'p', b'day', b'days')]
+
+def plural_code(k):
+    i = PLURAL_BASE + k
+    return b'\x01C' + bytes([i & 0xFF, i >> 8])
+
+PLURAL_CODES = {plural_code(k): k for k in range(len(PLURALS))}
+
+def plural_entries():
+    """The msg00 entries: IF {02}<x>d = 1: singular END  plural END."""
+    return [b'\x05\x05\x04\x02' + x + b'd\x04=1' + one + b'\x05\x05\x05' + many + b'\x05\x05\x05'
+            for x, one, many in PLURALS]
+
 _W = {}
 
 def widths():
@@ -171,6 +194,8 @@ def insert_size(code, depth=0):
         return VAR_PX, VAR_CHARS
     if k == 0x25:
         return FIELD_PX, FIELD_CHARS
+    if code in PLURAL_CODES:
+        return measure([('text', PLURALS[PLURAL_CODES[code]][2])], depth + 1)
     if k == 0x01 and len(code) == 4 and depth < 3:
         b, e = target(code[2], code[3])
         try:
@@ -481,6 +506,8 @@ def check_unit(jp_toks, en):
         errs.append('structural code in English: %s' % ' '.join(code_str(t) for t in bad))
     jc, ec = inline_codes(jp_toks), inline_codes(et)
     for t in (ec - jc).elements():
+        if t in PLURAL_CODES:
+            continue
         if t[0] == 0x02 and len(t) == 3:
             warns.append('added variable %s' % code_str(t))
         else:

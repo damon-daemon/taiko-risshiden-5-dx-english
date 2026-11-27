@@ -155,7 +155,7 @@ Your load is too heavy.\nYou can't make any more.
 @34
 You can make {02}od {02}Ge a day.\nHow many days will you work?
 @35
-Work for {02}od days?
+Work for {02}od {01}C{D7}{01}?
 @36
 Uses {02}=e.
 @37
@@ -173,7 +173,7 @@ Stopped making iron.\nMade {02}od {02}Ge.
 @42
 You can mix {02}od {02}Ge a day.\nHow many days will you mix?
 @43
-Mix for {02}od days?
+Mix for {02}od {01}C{D7}{01}?
 @44
 Stop mixing gunpowder?
 @45
@@ -183,7 +183,7 @@ Stopped mixing gunpowder.\nMixed {02}od {02}Ge.
 @47
 Which arms will you make?
 @48
-Making one {02}zd ({02}yd)\nuses {02}od iron and takes {02}pd days.\nReally make it?
+Making one {02}zd ({02}yd)\nuses {02}od iron and takes {02}pd {01}C{D9}{01}.\nReally make it?
 @49
 Stopped making it.\nLost {02}od {02}Ge.
 @50
@@ -411,7 +411,7 @@ Ugh, I feel heavy...\n"Physician, heal thyself", indeed.\nI'll get well first.
 @117
 How many days will you open the clinic?
 @118
-Open the clinic for {02}od days?
+Open the clinic for {02}od {01}C{D7}{01}?
 @119
 Stop treating patients?
 @120
