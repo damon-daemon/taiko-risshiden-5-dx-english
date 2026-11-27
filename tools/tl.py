@@ -19,7 +19,12 @@ tl/msgNN.txt holds the English (no Japanese), one block per unit:
   Inline codes are copied from `show` as printed ({02}{01}d = a variable,
   {01}C1{00} = insert msg00 entry 0x31, {1B}C3..{1B}C0 = colour, %w = field filled
   in by the game). They may move; {01}C/{02} inserts may be dropped (word endings,
-  pronouns), not added. Kana toggles ({1B}K {1B}H {1B}k) are dropped from English.
+  pronouns), not added, except the count words below. Kana toggles ({1B}K {1B}H {1B}k)
+  are dropped from English.
+  Count words (PLURALS) go after a printed number and agree with it:
+  {02}od {01}C{D7}{01} = "1 day" / "5 days"; {01}C{D8}{01} night(s) by {02}o;
+  {01}C{D9}{01} day(s) by {02}p; then {DA}-{FA} the other nouns (entry = 471 +
+  index in PLURALS), {FB}-{FE} is/are, was/were (by {02}o, {02}p), it/them (by {02}o).
   A '%' that is not one of the unit's %-fields becomes full-width ％.
 
 Units are word-wrapped with the advances of the patched font (font.advance_table) to
@@ -73,8 +78,12 @@ BOXES[23] = (ps2(360), 5)      # msg23 card descriptions
 BOXES[25] = (ps2(396), 11)     # battle advisor panel
 BOXES[26] = (ps2(420), 9)      # battle advisor (castle defense lines)
 BOXES[27] = (ps2(420), 9)      # #0-165 battle advisor (low-troop lines)
-for _n in range(28, 33):       # officer bios on the Card List hero cards (dates line + 6)
-    BOXES[_n] = (ps2(410, 'small'), 6, 1)
+# msg28-32 = officer bios on the Card List hero cards. Read from the code (card panel
+# 0x140463290): the dates line goes up beside the name; the rest is drawn in a text box
+# 668 px wide (font 4: 15 px a half cell, = 757 here) with no height limit, inside a frame
+# that holds 7 lines (36 px a line). Still wrapped at the narrower PS2 width (all fit).
+for _n in range(28, 33):
+    BOXES[_n] = (ps2(410, 'small'), 7, 1)
 # Entries of window blocks shown in other panels (FIT mode instead of the window box)
 NOT_WINDOW = {8: range(402, 439), 10: range(350, 1000), 11: {*range(531, 604), *range(789, 823)},
               22: range(458, 1000),  # town descriptions
@@ -85,7 +94,11 @@ NOT_WINDOW = {8: range(402, 439), 10: range(350, 1000), 11: {*range(531, 604), *
 ENTRY_BOXES = {27: [(range(181, 1000), WINDOW)],              # tea-party dialogue
                0: [(range(445, 450), (ps2(336), 3))],         # profession blurbs
                21: [(range(44, 62), (ps2(336), 8))]}          # mini-game descriptions
-ENTRY_BOXES.setdefault(23, []).append((range(84, 424), (ps2(310, 'small'), 5, 0)))  # card texts
+# Card List card texts. Read from the code (card panel 0x140463290): a text box 488 px wide
+# (font 4, = 553 here) with no height limit; the frame holds 6 lines on battle-skill cards
+# (#326-400) and 5 on the others. The others keep the narrower PS2 width (all fit).
+ENTRY_BOXES.setdefault(23, []).append((range(326, 401), (cells(488 / 15), 6, 0)))   # battle skills
+ENTRY_BOXES[23].append((range(84, 424), (ps2(310, 'small'), 5, 0)))                 # card texts
 ENTRY_BOXES.setdefault(22, []).append((range(0, 458), (ps2(310, 'small'), 5, 0)))   # items
 # Panels not measured: units keep to their Japanese (no line wider than its widest line,
 # no more lines).
@@ -122,6 +135,37 @@ FLOW_PX = cells(700 / 12)             # wider Japanese lines are paragraphs the 
 
 KANA_TOGGLE = re.compile(rb'\x1b[KHk]')
 FULL_LATIN = re.compile('[０-９Ａ-Ｚａ-ｚ]')
+
+# Count words: msg00 entries that build.py appends after the 471 Japanese ones. The game
+# finds an entry by the count stored in its block (0x140680430), so new ones are found.
+# An inserted message sees the numbers of the message it is inserted in (msg07@74 tests
+# {02}od inserted in msg07@72), and '=' compares for equality (msg00@442 tests one value
+# for 0, 1, 2 ... 14 in turn). Each entry gives the singular when its number is 1.
+PLURAL_BASE = 471
+# (number register, singular, plural), entry PLURAL_BASE + index. Append only: the
+# English refers to an entry by its number. The last four are words that agree with
+# a count: is/are, was/were ("There is 1 day left", "1 new ... was added"), it/them.
+PLURALS = [(b'o', b'day', b'days'), (b'o', b'night', b'nights'), (b'p', b'day', b'days')] + [
+    (b'o', w, w + b's') for w in (b'bottle', b'cannon', b'card', b'companion', b'daaay', b'dose',
+                                  b'gun', b'herb', b'hoe', b'horse', b'house', b'ironclad', b'kind',
+                                  b'month', b'officer')] + [
+    (b'o', b'person', b'people'), (b'o', b'remedy', b'remedies')] + [
+    (b'o', w, w + b's') for w in (b'ship', b'soldier', b'student', b'tenth', b'troop', b'warhorse')] + [
+    (b'p', w, w + b's') for w in (b'cannon', b'gun', b'horse', b'ironclad', b'month', b'ship',
+                                  b'soldier', b'tenth', b'troop')] + [
+    (b't', b'person', b'people'),
+    (b'o', b'is', b'are'), (b'o', b'was', b'were'), (b'p', b'was', b'were'), (b'o', b'it', b'them')]
+
+def plural_code(k):
+    i = PLURAL_BASE + k
+    return b'\x01C' + bytes([i & 0xFF, i >> 8])
+
+PLURAL_CODES = {plural_code(k): k for k in range(len(PLURALS))}
+
+def plural_entries():
+    """The msg00 entries: IF {02}<x>d = 1: singular END  plural END."""
+    return [b'\x05\x05\x04\x02' + x + b'd\x04=1' + one + b'\x05\x05\x05' + many + b'\x05\x05\x05'
+            for x, one, many in PLURALS]
 
 _W = {}
 
@@ -163,6 +207,8 @@ def insert_size(code, depth=0):
         return VAR_PX, VAR_CHARS
     if k == 0x25:
         return FIELD_PX, FIELD_CHARS
+    if code in PLURAL_CODES:
+        return measure([('text', PLURALS[PLURAL_CODES[code]][2])], depth + 1)
     if k == 0x01 and len(code) == 4 and depth < 3:
         b, e = target(code[2], code[3])
         try:
@@ -473,6 +519,8 @@ def check_unit(jp_toks, en):
         errs.append('structural code in English: %s' % ' '.join(code_str(t) for t in bad))
     jc, ec = inline_codes(jp_toks), inline_codes(et)
     for t in (ec - jc).elements():
+        if t in PLURAL_CODES:
+            continue
         if t[0] == 0x02 and len(t) == 3:
             warns.append('added variable %s' % code_str(t))
         else:
@@ -533,7 +581,14 @@ def build_entry(jp, units_en, box, tag, log):
             continue
         for i in range(a, z):
             out[i] = b''
-        out[a] = join_lines(lines)
+        body = join_lines(lines)
+        # wrapping drops the spaces at the ends of a unit; a unit inserted into other
+        # text by {01}C needs them ('\_the Great' after a name): put them back
+        if en.startswith(b' '):
+            body = b' ' + body
+        if en.endswith(b' '):
+            body += b' '
+        out[a] = body
         used = True
     for u in units_en:
         log('%s.%d ERROR no such unit (entry has %d)' % (tag, u, len(spans)), True)

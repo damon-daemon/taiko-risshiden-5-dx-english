@@ -7,7 +7,8 @@ the .tl section (pesect.py) and pointing its slot there; the Japanese stays.
 
 tl/ui.txt: one line per string, "index<TAB>English" (\\n = newline), DX indexes.
 Indexes missing from the file keep the Japanese. A line's printf conversions
-(%d, %5d, %s, %u, %y, %w ...) must match the Japanese ones in order.
+(%d, %5d, %s, %u, %y, %w ...) must match the Japanese ones in order, except that
+a 0 flag may be added or dropped (%02d for %2d: zeros instead of spaces, same width).
 
   ui.py export          -> script/ui.json (index, Japanese, English, PS2 index) for review
   ui.py todo [A B]      list entries without English (optionally index range)
@@ -73,6 +74,11 @@ def save_tl(tl):
 def fmts(b):
     return [m.group().replace(b'%y', b'%d') for m in FMT.finditer(b)]
 
+def unpadded(fs):
+    """fs without 0 flags. The game's formatter (0x1406ecc30) takes them (the Japanese
+    play time 3630 has %02d), and they change neither the width nor the argument."""
+    return [re.sub(rb'^%([-+ #]*)0+', rb'%\1', f) for f in fs]
+
 def errors(exe, tl):
     errs = []
     jps = {i: jp for i, p, jp in strings(exe) if p}
@@ -88,7 +94,7 @@ def errors(exe, tl):
         except ValueError as e:
             errs.append('ui %d: %s' % (i, e))
             continue
-        if fmts(b) != fmts(jps[i]):
+        if unpadded(fmts(b)) != unpadded(fmts(jps[i])):
             errs.append('ui %d %r: conversions %s, Japanese has %s'
                         % (i, en, fmts(b), fmts(jps[i])))
         if i in LIMITS and len(b) > LIMITS[i][0]:

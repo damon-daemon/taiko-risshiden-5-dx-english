@@ -3031,15 +3031,15 @@ Raise mining by {02}od
 @445.6
 Buy {02}od,000 koku of rice
 @445.7
-Buy {02}od horses
+Buy {02}od {01}C{E3}{01}
 @445.8
-Buy {02}od guns
+Buy {02}od {01}C{E0}{01}
 @445.9
-Buy {02}od cannons
+Buy {02}od {01}C{DB}{01}
 @445.10
 Raise training by {02}od
 @445.11
-Add {02}od soldiers
+Add {02}od {01}C{EC}{01}
 @445.12
 Raise defense by {02}od
 @445.13
@@ -3107,7 +3107,7 @@ Eliminate the rogue ninja
 @445.44
 Raise training by {02}od
 @445.45
-Add {02}od soldiers
+Add {02}od {01}C{EC}{01}
 @445.46
 Raise defense by {02}od
 @445.47
@@ -3171,9 +3171,9 @@ Raise training by {02}od
 @445.76
 Build {02}od sekibune
 @445.77
-Build {02}od large ships
+Build {02}od large {01}C{EB}{01}
 @445.78
-Build {02}od ironclads
+Build {02}od {01}C{E5}{01}
 @445.79
 Raise defense by {02}od
 @445.80
@@ -3211,13 +3211,13 @@ Earn {02}od kan selling rice
 @445.96
 Buy {02}od,000 koku of rice
 @445.97
-Buy {02}od horses
+Buy {02}od {01}C{E3}{01}
 @445.98
-Buy {02}od guns
+Buy {02}od {01}C{E0}{01}
 @445.99
 Earn {02}od kan selling guns
 @445.100
-Buy {02}od cannons
+Buy {02}od {01}C{DB}{01}
 @445.101
 Buy {02}od,000 koku of rice from a daimyo
 @445.102
@@ -3245,7 +3245,7 @@ Scout {02}od ronin
 @445.113
 Recruit the target
 @445.114
-Gain {02}od months of advertising
+Gain {02}od {01}C{E7}{01} of advertising
 @445.115
 Sell valuables
 @445.116
@@ -3275,15 +3275,15 @@ Raised mining by {02}pd
 @446.8
 Bought {02}pd,000 koku of rice
 @446.9
-Bought {02}pd horses
+Bought {02}pd {01}C{F3}{01}
 @446.10
-Bought {02}pd guns
+Bought {02}pd {01}C{F2}{01}
 @446.11
-Bought {02}pd cannons
+Bought {02}pd {01}C{F1}{01}
 @446.12
 Raised training by {02}pd
 @446.13
-Added {02}pd soldiers
+Added {02}pd {01}C{F7}{01}
 @446.14
 Raised defense by {02}pd
 @446.15
@@ -3397,7 +3397,7 @@ Eliminated the rogue ninja
 @446.69
 Raised training by {02}pd
 @446.70
-Added {02}pd soldiers
+Added {02}pd {01}C{F7}{01}
 @446.71
 Raised defense by {02}pd
 @446.72
@@ -3499,9 +3499,9 @@ Raised training by {02}pd
 @446.120
 Built {02}pd sekibune
 @446.121
-Built {02}pd large ships
+Built {02}pd large {01}C{F6}{01}
 @446.122
-Built {02}pd ironclads
+Built {02}pd {01}C{F4}{01}
 @446.123
 Raised defense by {02}pd
 @446.124
@@ -3561,13 +3561,13 @@ Earned {02}pd kan of war funds
 @446.151
 Bought {02}pd,000 koku of rice
 @446.152
-Bought {02}pd horses
+Bought {02}pd {01}C{F3}{01}
 @446.153
-Bought {02}pd guns
+Bought {02}pd {01}C{F2}{01}
 @446.154
 Earned {02}pd kan of war funds
 @446.155
-Bought {02}pd cannons
+Bought {02}pd {01}C{F1}{01}
 @446.156
 Bought {02}pd,000 koku of rice from a daimyo
 @446.157
@@ -3603,7 +3603,7 @@ Recruiting failed
 @446.172
 Recruited the target
 @446.173
-Gained {02}pd months of advertising
+Gained {02}pd {01}C{F5}{01} of advertising
 @446.174
 Sold for {02}pd kan in total
 @446.175

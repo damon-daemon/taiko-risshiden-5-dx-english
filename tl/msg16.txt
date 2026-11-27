@@ -31,7 +31,7 @@ Now, what shall I do?
 @11
 Carry out {02}yd?
 @12
-{02}yd will take {02}od days.\nIs that all right?
+{02}yd will take {02}od {01}C{D7}{01}.\nIs that all right?
 @13
 Used {02}=e.
 @14
@@ -587,7 +587,7 @@ Now, what shall I do?
 @127
 Carry out {02}yd?
 @128
-{02}yd will take {02}od days.\nIs that all right?
+{02}yd will take {02}od {01}C{D7}{01}.\nIs that all right?
 @129
 Used "{02}=e".
 @130
@@ -833,9 +833,9 @@ The officers of {02}{15}e, too,\nseem to have grown suspicious of one another.
 @186
 Couldn't burn\nthe goods of {02}{15}e.
 @186.1
-Burned {02}od tenths\nof the goods of {02}{15}e.
+Burned {02}od {01}C{EE}{01}\nof the goods of {02}{15}e.
 @186.2
-Burned {02}pd tenths\nof the goods of {02}{15}e.
+Burned {02}pd {01}C{F8}{01}\nof the goods of {02}{15}e.
 @186.3
 Burned {02}pd.{02}od tenths\nof the goods of {02}{15}e.
 @187

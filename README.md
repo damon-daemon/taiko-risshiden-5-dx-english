@@ -130,7 +130,6 @@ adds the apply / restore scripts and a README.txt. No game data is packaged.
   and scenarios other than the first. Reports with a screenshot are welcome.
 - Many message boxes keep the Japanese line breaks, so a long English line sometimes
   leaves a short last line on a page of its own.
-- Plurals with a count of 1 read "1 days", "1 nights".
 - The title art, the screenshots inside the mini-game previews, and some Chinese
   hand names in Oicho-Kabu stay as they are.
 - Name entry still takes Japanese kana.

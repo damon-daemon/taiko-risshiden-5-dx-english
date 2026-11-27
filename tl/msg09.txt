@@ -137,11 +137,11 @@ I'm so sorry for you......\nhonored samurai.
 @63.1
 I'm so sorry for you......\n
 @64
-We sell warhorses in units of 10.\nNow it's {02}od kan per 10.\nYou can buy up to {02}pd horses.
+We sell warhorses in units of 10.\nNow it's {02}od kan per 10.\nYou can buy up to {02}pd {01}C{F3}{01}.
 @65
 How many will you buy?
 @66
-{02}od horses comes to {02}pd kan.\nIs that all right?
+{02}od {01}C{E3}{01} comes to {02}pd kan.\nIs that all right?
 @67
 Then\nhow about {02}od kan?
 @68
@@ -163,15 +163,15 @@ I see, just a rest.\nPlease relax.
 @76
 It's {02}o{C8} a night, but\nforgive me, you don't have enough on you.
 @77
-In your present condition,\nI'd suggest staying {02}od days.
+In your present condition,\nI'd suggest staying {02}od {01}C{D7}{01}.
 @78
-Staying {02}od days\ncomes to {02}p{C8}.\nIs that all right?
+Staying {02}od {01}C{D7}{01}\ncomes to {02}p{C8}.\nIs that all right?
 @79
 It's {02}o{C8} a night.\nHow many days will you stay?
 @80
 You won't stay?\nVery well.
 @81
-Very well.\n{02}od nights, then.\nPlease rest well.
+Very well.\n{02}od {01}C{D8}{01}, then.\nPlease rest well.
 @82
 {01}C{B4}#, good morning.\nDid you sleep well?
 @82.1
@@ -659,11 +659,11 @@ How many guns\nwill you buy?
 @170.2
 How many guns\nwill you buy?
 @171
-{02}od guns comes to {02}pd kan.\nAll right?
+{02}od {01}C{E0}{01} comes to {02}pd kan.\nAll right?
 @171.1
-{02}od guns comes to {02}pd kan.\nIs that all right?
+{02}od {01}C{E0}{01} comes to {02}pd kan.\nIs that all right?
 @171.2
-{02}od guns comes to {02}pd kan.\nIs that all right?
+{02}od {01}C{E0}{01} comes to {02}pd kan.\nIs that all right?
 @172
 Then I'll make it {02}od kan.\nWell?
 @172.1
@@ -941,9 +941,9 @@ Oh, it's you... you're very late.\nThe {02}od {02}yd{02}zd were done long ago...
 @229.1
 Oh, you're very late.\nThe {02}od {02}yd{02}zd were done long ago...\nlooks like it was for nothing.
 @230
-Oh, it's you...\nSorry, they're not all done yet.\n{02}o{CB} more days.
+Oh, it's you...\nSorry, they're not all done yet.\n{02}o{CB} more {01}C{D7}{01}.
 @230.1
-Oh, it's you.\nSorry, they're not all done yet.\nWait {02}o{CB} more days.
+Oh, it's you.\nSorry, they're not all done yet.\nWait {02}o{CB} more {01}C{D7}{01}.
 @231
 Oh, who are you?
 @232
@@ -995,9 +995,9 @@ So, how many should I make?
 @239.1
 So, how many\nwill you order?
 @240
-{02}od guns is {02}pd kan.\nAll right?
+{02}od {01}C{E0}{01} is {02}pd kan.\nAll right?
 @240.1
-{02}od guns comes to {02}pd kan.\nThat all right?
+{02}od {01}C{E0}{01} comes to {02}pd kan.\nThat all right?
 @241
 Then I'll make it {02}od kan.\nThat all right?
 @241.1
@@ -1015,13 +1015,13 @@ Damn, talking so stingy...\nYou're bringing me down.\nGo on, go home for today!
 @244.1
 Tch, what a cheapskate.\nGo home for today!
 @245
-It'll take {02}od days.\nThat all right?
+It'll take {02}od {01}C{D7}{01}.\nThat all right?
 @245.1
-It'll take {02}od days.\nThat all right?
+It'll take {02}od {01}C{D7}{01}.\nThat all right?
 @246
-Right, got it.\nThen come back\nin {02}od days.
+Right, got it.\nThen come back\nin {02}od {01}C{D7}{01}.
 @246.1
-Right, thanks.\nThen come back\nin {02}od days.
+Right, thanks.\nThen come back\nin {02}od {01}C{D7}{01}.
 @247
 What... that's a shame.\nWell, come any time.
 @247.1
@@ -1031,9 +1031,9 @@ Oh, want cannons?\nThey're {02}od kan each.\nI'll make up to {02}pd.
 @248.1
 Want cannons?\nThen it's {02}od kan each.\nI'll make up to {02}pd.
 @249
-{02}od cannons is {02}pd kan.\nThat all right?
+{02}od {01}C{DB}{01} is {02}pd kan.\nThat all right?
 @249.1
-{02}od cannons comes to {02}pd kan.\nThat all right?
+{02}od {01}C{DB}{01} comes to {02}pd kan.\nThat all right?
 @250
 Then I'll make it {02}od kan.\nHow's that?
 @250.1
@@ -1133,7 +1133,7 @@ Cannons are {02}od kan each;\nwe have {02}pd in stoock.
 @288
 How many do you neeed?
 @289
-{02}od cannons comes to {02}pd kan.\nIs that all right?
+{02}od {01}C{DB}{01} comes to {02}pd kan.\nIs that all right?
 @290
 Then how about {02}od kan?
 @291
@@ -1251,7 +1251,7 @@ What would a mere {02}{83}{BF} want here?\nThis is no place for the likes of you
 @324
 Welcome.\nYour commission is finished.\nPlease take it.
 @325
-Welcome.\nI'm sorry, it isn't finished yet.\nPlease wait {02}o{CB} more days.
+Welcome.\nI'm sorry, it isn't finished yet.\nPlease wait {02}o{CB} more {01}C{D7}{01}.
 @326
 Oh, who might you be?
 @327
@@ -1283,9 +1283,9 @@ I see......\nYou don't seem to appreciate art.\nA great pity.
 @335
 As expected of one who understands art.\nMy hands are itching to begin.
 @336
-By the way, it will take about {02}od days.\nIs that all right?
+By the way, it will take about {02}od {01}C{D7}{01}.\nIs that all right?
 @337
-Thank you very much.\nThen please come to collect it\nin {02}od days.
+Thank you very much.\nThen please come to collect it\nin {02}od {01}C{D7}{01}.
 @338
 You don't have any\nunappraised items.
 @339
@@ -1843,11 +1843,11 @@ Hmm, my my...\n\n\nHey, what a shabby shop.\n...Better stay away.
 @439
 Five days since we started advertising...\n\n\nHmm,\nthe shop is deserted.\nSadly the promotion had no effect.
 @439.1
-Five days since we started advertising...\n\n\nThanks to you, it's packed.\nWe can expect {02}od months\nof advertising effect.
+Five days since we started advertising...\n\n\nThanks to you, it's packed.\nWe can expect {02}od {01}C{E7}{01}\nof advertising effect.
 @439.2
-Five days since we started advertising...\n\n\nThanks to you, it's busy.\nWe can expect {02}od months\nof advertising effect.
+Five days since we started advertising...\n\n\nThanks to you, it's busy.\nWe can expect {02}od {01}C{E7}{01}\nof advertising effect.
 @439.3
-Five days since we started advertising...\n\n\nHmm,\nthe shop isn't very lively.\nI'd say {02}od months of effect.
+Five days since we started advertising...\n\n\nHmm,\nthe shop isn't very lively.\nI'd say {02}od {01}C{E7}{01} of effect.
 @440
 One of the biggest castles.\nThe guard inside must be tight...\nSneak into {02}{15}e?
 @440.1

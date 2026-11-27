@@ -3616,13 +3616,13 @@ At its height, the \F03D is said to have had more than 100 dojos across the land
 @61.26
 And so \#07FE left a name to later ages as the founder of modern martial arts...
 @62.0
-Already \1006 students...
+My students already number \1006...
 @62.1
 \37F0, \37F1, \37F2, \37F3... every one of them shows promise.
 @62.2
 I wonder how many of them will carry on my will...
 @62.3
-Already \1006 students...
+My students already number \1006...
 @62.4
 \37F0, \37F1, \37F2, \37F3... every one of them shows promise.
 @62.5
@@ -3898,7 +3898,7 @@ This dojo has over \1006,000 students.
 @66.10
 But we have no proper instructors, so they can't get enough teaching.
 @66.13
-But we only have \1007 instructors, so they can't get enough teaching.
+But our instructors number only \1007, so the students can't get enough teaching.
 @66.19
 Could you please hire more instructors?
 @66.22

@@ -609,7 +609,7 @@ Oh! Thank you very much.\nThen we'll be waiting.
 @82.1
 Oh! Thank you very much.\nThen we'll be waiting.
 @83
-{02}o{CB} foot soldiers gathered.\n{02}{02}g's merit rose.
+{02}o{CB} foot {01}C{EC}{01} gathered.\n{02}{02}g's merit rose.
 @84
 What are you saying... We have the important\nduty of guarding the castle.\nWe can't go digging wells!
 @85
@@ -665,7 +665,7 @@ Great!\nWe'll be waiting for you all.
 @102.1
 Great!\nWe'll be waiting for you all.
 @103
-{02}o{CB} people gathered.\n{02}{02}g's merit rose.
+{02}o{CB} {01}C{E9}{01} gathered.\n{02}{02}g's merit rose.
 @104
 Shut up! I'm drinking good sake,\ndon't talk to me about sewers!
 @105
@@ -839,7 +839,7 @@ Whoops, looks like you're short of money.\nNext time, then.
 @159
 Right, got it!\nI'll send them to {02}{15}f.
 @160
-Arranged {02}o{CB} hoes for the canal work.\n{02}{02}g's merit rose.
+Arranged {02}o{CB} {01}C{E2}{01} for the canal work.\n{02}{02}g's merit rose.
 @161
 Phew, this many tools\nshould be enough.
 @161.1
@@ -1263,7 +1263,7 @@ I am very sorry.\nI achieved nothing worth reporting.
 @318
 I found a person\ncalled {02}{03}g.
 @319
-I found\n{02}od promising people.
+I found\n{02}od promising {01}C{E9}{01}.
 @320
 I gathered some information\non {02}{17}e.
 @321
@@ -1469,7 +1469,7 @@ Then please wait here 20 days.\nIt'd be trouble if the client betrayed us...\nIs
 @388.1
 ...Understood. A pity.
 @389
-...And {02}od days later
+...And {02}od {01}C{D7}{01} later
 @390
 Sorry to keep you.\nWe found a person called {02}{03}g.
 @390.1
@@ -1699,9 +1699,9 @@ You can't train in that condition.\nHeal your body first.
 @444.1
 Training is impossible in that condition.\nPlease restore your health first.
 @445
-Training here takes {02}od days.\nWith the next council in mind,\nbetter hold off for now.
+Training here takes {02}od {01}C{D7}{01}.\nWith the next council in mind,\nbetter hold off for now.
 @445.1
-Training takes {02}od days.\nWith the next council in mind,\nyou should hold off for now.
+Training takes {02}od {01}C{D7}{01}.\nWith the next council in mind,\nyou should hold off for now.
 @446
 You mean to train here?\nHm, with your skill, I don't mind...\nBut do you know the ninja code?
 @447
@@ -1711,15 +1711,15 @@ Then I'll teach you the ninja code.\n\nIf you overcome this trial, we'll recogni
 @449
 One who can't accept the code\ncould never endure this trial.\nLeave.
 @450
-Training takes {02}od days.\nShall we begin at once?
+Training takes {02}od {01}C{D7}{01}.\nShall we begin at once?
 @450.1
-Training here takes {02}od days.\nYou're one of us, so no money is needed...\nShall we begin at once?
+Training here takes {02}od {01}C{D7}{01}.\nYou're one of us, so no money is needed...\nShall we begin at once?
 @450.2
-Training here takes {02}od days,\nand I'd ask a donation of {02}p{C8}.\nIs that all right?
+Training here takes {02}od {01}C{D7}{01},\nand I'd ask a donation of {02}p{C8}.\nIs that all right?
 @450.3
-Training here takes {02}od days,\nand I want a donation of {02}p{C8}.\nAll right?
+Training here takes {02}od {01}C{D7}{01},\nand I want a donation of {02}p{C8}.\nAll right?
 @450.4
-Training takes {02}od days,\nand I'd ask a donation of {02}p{C8}.\nIs that all right?
+Training takes {02}od {01}C{D7}{01},\nand I'd ask a donation of {02}p{C8}.\nIs that all right?
 @451
 Then it can't be helped.\nDon't neglect your training.
 @451.1
@@ -2139,11 +2139,11 @@ Neither you nor {01}C{10}{00}\nhave papers for trading there...\nTo trade in {02
 @523.1
 ...Understood.\nThen we leave for {02}{15}f.\n\nWe'll come back with lots of profit.\nWe'll take 100,000 kan as funds.
 @524
-Once we head for {02}{15}f, we won't\nbe back for {02}od days...\n\nWith {01}C{10}{00} away,\nthis fort will be empty. All right?
+Once we head for {02}{15}f, we won't\nbe back for {02}od {01}C{D7}{01}...\n\nWith {01}C{10}{00} away,\nthis fort will be empty. All right?
 @524.1
-Once we head for {02}{15}f, we won't\nbe back for {02}od days...\n\nWith {01}C{10}{00} away,\nthis fort will be empty. Is that all right?
+Once we head for {02}{15}f, we won't\nbe back for {02}od {01}C{D7}{01}...\n\nWith {01}C{10}{00} away,\nthis fort will be empty. Is that all right?
 @524.2
-Once we head for {02}{15}f, we won't\nbe back for {02}od days...\n\nWith {01}C{10}{00} away,\nthis fort will be empty. Is that all right?
+Once we head for {02}{15}f, we won't\nbe back for {02}od {01}C{D7}{01}...\n\nWith {01}C{10}{00} away,\nthis fort will be empty. Is that all right?
 @525
 Then we're off to {02}{15}e.\nWait for good news.
 @525.1

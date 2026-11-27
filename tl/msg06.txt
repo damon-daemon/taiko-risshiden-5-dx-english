@@ -333,37 +333,37 @@ I'm sorry.\nI couldn't buy any warhorses at all...
 @71.1
 I'm sorry.\nI couldn't buy any warhorses at all...
 @71.2
-I bought {02}od horses.
+I bought {02}od {01}C{E3}{01}.
 @72
 Well, um...\nI couldn't buy any warhorses at all...
 @72.1
 I'm sorry.\nI couldn't buy any warhorses at all...
 @72.2
-I bought {02}od horses.
+I bought {02}od {01}C{E3}{01}.
 @73
 I'm sorry.\nI couldn't buy any guns at all...
 @73.1
 I'm sorry.\nI couldn't buy any guns at all...
 @73.2
-I bought {02}od guns.
+I bought {02}od {01}C{E0}{01}.
 @74
 Well, um...\nI couldn't buy any guns at all...
 @74.1
 I'm sorry.\nI couldn't buy any guns at all...
 @74.2
-I bought {02}od guns.
+I bought {02}od {01}C{E0}{01}.
 @75
 I'm sorry.\nI couldn't buy any cannons at all...
 @75.1
 I'm sorry.\nI couldn't buy any cannons at all...
 @75.2
-I bought {02}od cannons.
+I bought {02}od {01}C{DB}{01}.
 @76
 Well, um...\nI couldn't buy any cannons at all...
 @76.1
 I'm sorry.\nI couldn't buy any cannons at all...
 @76.2
-I bought {02}od cannons.
+I bought {02}od {01}C{DB}{01}.
 @77
 I'm sorry...\nThere's no money at all...
 @77.1
@@ -465,13 +465,13 @@ I'm sorry...\nI found no one of note...
 @93.1
 I'm sorry...\nI found no one of note...
 @93.2
-I found {02}od promising people.
+I found {02}od promising {01}C{E9}{01}.
 @94
 I'm sorry...\nI found no one of note...
 @94.1
 I'm sorry...\nI found no one of note...
 @94.2
-I found {02}od promising people.
+I found {02}od promising {01}C{E9}{01}.
 @95
 I'm sorry...\nI learned nothing\nabout {02}{15}e...
 @95.1
@@ -859,25 +859,25 @@ I'm sorry...\nI couldn't build any large ships...
 @155.1
 I'm sorry...\nI couldn't build any large ships...
 @155.2
-I built {02}od large ships.
+I built {02}od large {01}C{EB}{01}.
 @156
 I'm sorry...\nI couldn't build any large ships...
 @156.1
 I'm sorry...\nI couldn't build any large ships...
 @156.2
-I built {02}od large ships.
+I built {02}od large {01}C{EB}{01}.
 @157
 I'm sorry...\nI couldn't build any ironclads...
 @157.1
 I'm sorry...\nI couldn't build any ironclads...
 @157.2
-I built {02}od ironclads.
+I built {02}od {01}C{E5}{01}.
 @158
 I'm sorry...\nI couldn't build any ironclads...
 @158.1
 I'm sorry...\nI couldn't build any ironclads...
 @158.2
-I built {02}od ironclads.
+I built {02}od {01}C{E5}{01}.
 @159
 I'm sorry...\nI couldn't sell the guns...
 @159.1
@@ -1007,13 +1007,13 @@ I'm sorry...\nI couldn't get any advertising effect\nat the {02}{15}e branch...
 @179.1
 I'm sorry...\nI couldn't get any advertising effect\nat the {02}{15}e branch...
 @179.2
-At the {02}{15}e branch I got\n{02}od months of advertising effect.
+At the {02}{15}e branch I got\n{02}od {01}C{E7}{01} of advertising effect.
 @180
 I'm sorry...\nI couldn't get any advertising effect\nat the {02}{15}e branch...
 @180.1
 I'm sorry...\nI couldn't get any advertising effect\nat the {02}{15}e branch...
 @180.2
-I ran {02}od months of publicity\nat the {02}{15}e branch.
+I ran {02}od {01}C{E7}{01} of publicity\nat the {02}{15}e branch.
 @181
 I'm sorry...\nI couldn't make a profit\nselling {02}3g...
 @181.1
@@ -2159,11 +2159,11 @@ For that flag, please buy it\nfrom our band's boss.
 @433.2
 For that flag, please buy it\nfrom our band's boss.
 @434
-You want the flag for {02})e?\nIt has {02}od months left,\nso it's {02}p{C8}. All right?
+You want the flag for {02})e?\nIt has {02}od {01}C{E7}{01} left,\nso it's {02}p{C8}. All right?
 @434.1
-You want the flag for {02})e?\nIt has {02}od months left,\nso it's {02}p{C8}.\nIs that all right?
+You want the flag for {02})e?\nIt has {02}od {01}C{E7}{01} left,\nso it's {02}p{C8}.\nIs that all right?
 @434.2
-You want the flag for {02})e?\nIt has {02}od months left,\nso it's {02}p{C8}. Is that all right?
+You want the flag for {02})e?\nIt has {02}od {01}C{E7}{01} left,\nso it's {02}p{C8}. Is that all right?
 @435
 You want the flag for {02})e...\nIt's {02}o{C8}. All right?
 @435.1

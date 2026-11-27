@@ -19,9 +19,9 @@ Even at your request,\nI can't take it on for that sum.\nWe're in business too, 
 @4.1
 Even at your request,\nI can't accept it for that sum.\nWe're in business too, you know...
 @5
-Very well.\nI'll hold the goods between {02}{15}e\nand {02}{16}e for about {02}od months.
+Very well.\nI'll hold the goods between {02}{15}e\nand {02}{16}e for about {02}od {01}C{E7}{01}.
 @5.1
-Very well.\nI'll hold the goods between {02}{15}e\nand {02}{16}e for about {02}od months.
+Very well.\nI'll hold the goods between {02}{15}e\nand {02}{16}e for about {02}od {01}C{E7}{01}.
 @6
 You want a route that's\nunder embargo reopened?\nWhich route?
 @6.1
@@ -155,7 +155,7 @@ Your load is too heavy.\nYou can't make any more.
 @34
 You can make {02}od {02}Ge a day.\nHow many days will you work?
 @35
-Work for {02}od days?
+Work for {02}od {01}C{D7}{01}?
 @36
 Uses {02}=e.
 @37
@@ -173,7 +173,7 @@ Stopped making iron.\nMade {02}od {02}Ge.
 @42
 You can mix {02}od {02}Ge a day.\nHow many days will you mix?
 @43
-Mix for {02}od days?
+Mix for {02}od {01}C{D7}{01}?
 @44
 Stop mixing gunpowder?
 @45
@@ -183,7 +183,7 @@ Stopped mixing gunpowder.\nMixed {02}od {02}Ge.
 @47
 Which arms will you make?
 @48
-Making one {02}zd ({02}yd)\nuses {02}od iron and takes {02}pd days.\nReally make it?
+Making one {02}zd ({02}yd)\nuses {02}od iron and takes {02}pd {01}C{D9}{01}.\nReally make it?
 @49
 Stopped making it.\nLost {02}od {02}Ge.
 @50
@@ -321,7 +321,7 @@ Ugh, I feel heavy...\nI'll get well first.
 @88.1
 Oh, I feel heavy...\nI'll get well first.
 @89
-You're making {02}od kinds of items.\nYou can't make any more.
+You're making {02}od {01}C{E6}{01} of items.\nYou can't make any more.
 @90
 It's the muster deadline.\nI'd better hold off for now...
 @90.1
@@ -359,7 +359,7 @@ Phew... that feels better.
 @98
 Not enough herbs.
 @99
-You use {02}od herbs a day\nto make {02}pd {02}Ge.\nHow many days will you work?
+You use {02}od {01}C{E1}{01} a day\nto make {02}pd {02}Ge.\nHow many days will you work?
 @100
 Stop making remedies?
 @101
@@ -369,7 +369,7 @@ Phew... I'm dizzy, I can't judge the doses...\nThis could cost a life.\nI'll sto
 @102
 Stopped making remedies.\nMade {02}od {02}Ge.
 @103
-You use {02}od remedies a day\nto mix {02}pd {02}3g.\nHow many days will you mix?
+You use {02}od {01}C{EA}{01} a day\nto mix {02}pd {02}3g.\nHow many days will you mix?
 @104
 Which will you make?
 @105
@@ -411,7 +411,7 @@ Ugh, I feel heavy...\n"Physician, heal thyself", indeed.\nI'll get well first.
 @117
 How many days will you open the clinic?
 @118
-Open the clinic for {02}od days?
+Open the clinic for {02}od {01}C{D7}{01}?
 @119
 Stop treating patients?
 @120

@@ -955,7 +955,7 @@ Let's defend {02}yd firmly.
 @165.2
 Let us defend {02}yd firmly.
 @166
-Making {02}od kinds of items:\nno more can be made.
+Making {02}od {01}C{E6}{01} of items:\nno more can be made.
 @167
 Choose the kind of tea ware to make.
 @168

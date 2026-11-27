@@ -507,7 +507,7 @@ My lord! Grave news!
 @17.2
 The Mori army is heading here, to \51E5!
 @17.4
-They are expected to arrive in \101D days!
+They are expected after a \101D-day march!
 @17.5
 Grr, so they've finally come...
 @17.6
@@ -525,7 +525,7 @@ Hmm, so we must fight on our own after all...
 @17.13
 Then all we can do is meet the Mori here at \51E5!
 @17.15
-\A409 has sent troops to this castle: \1006 men!
+\A409 has sent more troops to this castle, \1006 in number!
 @17.16
 Oh! Troops from Lord \#08C3! That's heartening!
 @17.17

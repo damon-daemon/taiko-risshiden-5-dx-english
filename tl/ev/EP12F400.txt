@@ -532,7 +532,7 @@ My lord!\nGrave news!
 @22.2
 Word has come that the Mori army is ready to set out!
 @22.4
-They are expected to arrive here in \101D days!
+They are expected here after a \101D-day march!
 @22.5
 Grr, so they've come at last...
 @22.6
@@ -548,7 +548,7 @@ Oh! \#07F1 remembered the promise of reinforcements!
 @22.12
 \%042F4! We've come from \E079 to keep our promise!
 @22.14
-\1006 troops! We entrust them to this castle!
+Troops, \1006 strong! We entrust them to this castle!
 @22.16
 Then we can only meet the Mori at Gassan-Toda, this proud and mighty castle!
 @23.0

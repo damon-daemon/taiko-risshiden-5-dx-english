@@ -134,7 +134,7 @@ Hm, I got plenty.\nThat should be enough.
 @46
 Gathered {02}od of iron sand.
 @47
-Gathered {02}od of herbs.
+Gathered {02}od {01}C{E1}{01}.
 @48
 Oh, amazing!\nThis area is full of iron sand.
 @48.1
@@ -1466,11 +1466,11 @@ Send reinforcements to\n{02}{0B}e or {02}{0C}e?
 @372
 No more reinforcements\ncan be sent to {02}{0B}e.
 @373
-It will take {02}od days or more to arrive.\nThey may not make it in time.\nReally send reinforcements?
+It will take {02}od {01}C{D7}{01} or more to arrive.\nThey may not make it in time.\nReally send reinforcements?
 @373.1
-It will take {02}od days or more to arrive.\nThey may not make it in time.\nReally send reinforcements?
+It will take {02}od {01}C{D7}{01} or more to arrive.\nThey may not make it in time.\nReally send reinforcements?
 @373.2
-It will take {02}od days or more to arrive.\nThey may not make it in time.\nReally send reinforcements?
+It will take {02}od {01}C{D7}{01} or more to arrive.\nThey may not make it in time.\nReally send reinforcements?
 @374
 We have a truce with {02}{0B}e.\nAttacking now would be dishonourable.\nReally set out?
 @374.1
@@ -2056,9 +2056,9 @@ Kyaaah!\n...The forbidden art of {02}{0B}e I'd heard of...\nI never thought it w
 @533.1
 (...How many doses?\n Too few and it may not work,\n too many and they'll notice...)
 @534
-(I'll use {02}od doses of poison...\n If I'm found out, it's a disaster.\n Am I really doing this?)
+(I'll use {02}od {01}C{DF}{01} of poison...\n If I'm found out, it's a disaster.\n Am I really doing this?)
 @534.1
-(I'll use {02}od doses of poison...\n If I'm found out, it's a disaster.\n Am I really doing this?)
+(I'll use {02}od {01}C{DF}{01} of poison...\n If I'm found out, it's a disaster.\n Am I really doing this?)
 @535
 (...No.\n What a terrible thing\n I was thinking.)
 @535.1
