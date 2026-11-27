@@ -533,7 +533,14 @@ def build_entry(jp, units_en, box, tag, log):
             continue
         for i in range(a, z):
             out[i] = b''
-        out[a] = join_lines(lines)
+        body = join_lines(lines)
+        # wrapping drops the spaces at the ends of a unit; a unit inserted into other
+        # text by {01}C needs them ('\_the Great' after a name): put them back
+        if en.startswith(b' '):
+            body = b' ' + body
+        if en.endswith(b' '):
+            body += b' '
+        out[a] = body
         used = True
     for u in units_en:
         log('%s.%d ERROR no such unit (entry has %d)' % (tag, u, len(spans)), True)

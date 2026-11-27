@@ -411,7 +411,7 @@ Well then, I'll take my leave.\nTake care{01}C{A6}{1F}.
 @102
 , boss
 @102.1
-yourself
+\_yourself
 @103
 {01}C{9C}{1F}, that was an easy job.\nJobs like this are always welcome.
 @104
