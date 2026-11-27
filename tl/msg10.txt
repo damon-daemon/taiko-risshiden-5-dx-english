@@ -309,11 +309,11 @@ come of age
 @98.2
 {02}{02}g,\n{02}{03}g of {02}{0D}e\nhas {01}Cq', I hear.
 @99
-Master, the {02}{15}f branch has paid\n{02}o{C8} and {02}p{CB} guns\nas its New Year contribution.\nFrankly, it doesn't seem\nto be making much profit.
+Master, the {02}{15}f branch has paid\n{02}o{C8} and {02}p{CB} {01}C{F2}{01}\nas its New Year contribution.\nFrankly, it doesn't seem\nto be making much profit.
 @100
-Master, the {02}{15}f branch has paid\n{02}o{C8} and {02}p{CB} guns\nas its New Year contribution.
+Master, the {02}{15}f branch has paid\n{02}o{C8} and {02}p{CB} {01}C{F2}{01}\nas its New Year contribution.
 @101
-Master, the branches have paid\n{02}o{C8} and {02}p{CB} guns\nas their New Year contribution.
+Master, the branches have paid\n{02}o{C8} and {02}p{CB} {01}C{F2}{01}\nas their New Year contribution.
 @102
 But {02}{03}g's\n{02}{15}f branch isn't making a profit,\nand its contribution was the smallest...
 @103
@@ -591,11 +591,11 @@ My lord!\nGracious words!
 @213
 {02}{02}g,\nwe paid {02}od kan in war levy to {02}{0B}e.
 @214
-{02}{02}g,\nwe paid war levies totaling {02}pd kan to {02}od\ndaimyo houses we serve, starting with {02}{0B}e.
+{02}{02}g,\nwe paid war levies totaling {02}pd kan to {02}od\ndaimyo {01}C{E4}{01} we serve, starting with {02}{0B}e.
 @215
 {02}{02}g,\nwe couldn't pay the war levy to {02}{0B}e,\nso we were removed as purveyor.
 @216
-{02}{02}g,\nwe couldn't pay war levies to the {02}od\ndaimyo houses we serve, starting with {02}{0B}e.\nSo those houses have\nremoved us as purveyor.
+{02}{02}g,\nwe couldn't pay war levies to the {02}od\ndaimyo {01}C{E4}{01} we serve, starting with {02}{0B}e.\nSo those houses have\nremoved us as purveyor.
 @217
 Manager, this month the trade routes\nmade a profit of {02}o{C8}.
 @218
@@ -891,15 +891,15 @@ From now on, {02}Ie will be produced in {02}{15}e and {02}{16}e.
 @336
 {02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to buy warhorses!
 @336.1
-{02}{02}g,\n{02}{03}{EC}, whom we hired,\nsent {02}od warhorses as results!
+{02}{02}g,\n{02}{03}{EC}, whom we hired,\nsent {02}od {01}C{F0}{01} as results!
 @337
 {02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to buy guns!
 @337.1
-{02}{02}g,\n{02}{03}{EC}, whom we hired,\nsent {02}od guns as results!
+{02}{02}g,\n{02}{03}{EC}, whom we hired,\nsent {02}od {01}C{E0}{01} as results!
 @338
 {02}{02}g,\nthe agents of {02}{03}{EC} we hired\nfailed to buy cannons!
 @338.1
-{02}{02}g,\n{02}{03}{EC}, whom we hired,\nsent {02}od cannons as results!
+{02}{02}g,\n{02}{03}{EC}, whom we hired,\nsent {02}od {01}C{DB}{01} as results!
 @339
 {02}{02}g,\n{02}{03}g couldn't deliver the provisions\nto {02}{0B}e, they say.
 @339.1
@@ -907,15 +907,15 @@ From now on, {02}Ie will be produced in {02}{15}e and {02}{16}e.
 @340
 {02}{02}g,\n{02}{03}g couldn't deliver the warhorses\nto {02}{0B}e, they say.
 @340.1
-{02}{02}g,\n{02}{03}g safely delivered {02}od warhorses\nto {02}{0B}e, they say.
+{02}{02}g,\n{02}{03}g safely delivered {02}od {01}C{F0}{01}\nto {02}{0B}e, they say.
 @341
 {02}{02}g,\n{02}{03}g couldn't deliver the guns\nto {02}{0B}e, they say.
 @341.1
-{02}{02}g,\n{02}{03}g safely delivered {02}od guns\nto {02}{0B}e, they say.
+{02}{02}g,\n{02}{03}g safely delivered {02}od {01}C{E0}{01}\nto {02}{0B}e, they say.
 @342
 {02}{02}g,\n{02}{03}g couldn't deliver the cannons\nto {02}{0B}e, they say.
 @342.1
-{02}{02}g,\n{02}{03}g safely delivered {02}od cannons\nto {02}{0B}e, they say.
+{02}{02}g,\n{02}{03}g safely delivered {02}od {01}C{DB}{01}\nto {02}{0B}e, they say.
 @343
 {02}{03}g\nwas very pleased, they say.
 @344

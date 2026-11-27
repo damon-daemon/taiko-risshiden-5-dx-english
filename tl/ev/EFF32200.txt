@@ -107,7 +107,7 @@ Now, those who have gathered, give your names.
 @3.12
 ...What? None of the senior retainers are here?
 @3.13
-Only \1007 senior retainers...
+The senior retainers here number only \1007...
 @3.14
 I'm afraid the rebels likely have more men. What will you do now?
 @3.15

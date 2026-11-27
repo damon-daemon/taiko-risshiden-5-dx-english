@@ -1855,9 +1855,9 @@ Training in {02}yd?\nYou don't even have {02}o{C8}.\nSorry, but I can't teach yo
 @321.1
 Training in {02}yd?\nThat would need about {02}o{C8},\nbut you seem short of money...
 @323
-Training in {02}yd takes {02}od daaays.\nWith your summons deadline,\nlet's not do it this tiiime.
+Training in {02}yd takes {02}od {01}C{DE}{01}.\nWith your summons deadline,\nlet's not do it this tiiime.
 @323.1
-Training in {02}yd takes {02}od daaays.\nYou must have a council coming up.\nLet's not do it this tiiime.
+Training in {02}yd takes {02}od {01}C{DE}{01}.\nYou must have a council coming up.\nLet's not do it this tiiime.
 @324
 Your summons deadline has passed.\nYou'll be in trouble.\nHurry back.
 @324.1
@@ -1919,7 +1919,7 @@ You seem to be late for your summons.\nBetter go back and beg forgiveness...\nYo
 @338.1
 You seem to have missed the council.\nBetter go back and beg forgiveness...\nYou can train any time.
 @340
-Training in {02}yd takes {02}od daaays.\nShall we beeegin?
+Training in {02}yd takes {02}od {01}C{DE}{01}.\nShall we beeegin?
 @341
 Training in {02}yd takes {02}od {01}C{D7}{01}.\nShall we start?
 @342

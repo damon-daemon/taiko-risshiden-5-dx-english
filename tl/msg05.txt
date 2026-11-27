@@ -609,7 +609,7 @@ Oh! Thank you very much.\nThen we'll be waiting.
 @82.1
 Oh! Thank you very much.\nThen we'll be waiting.
 @83
-{02}o{CB} foot soldiers gathered.\n{02}{02}g's merit rose.
+{02}o{CB} foot {01}C{EC}{01} gathered.\n{02}{02}g's merit rose.
 @84
 What are you saying... We have the important\nduty of guarding the castle.\nWe can't go digging wells!
 @85
@@ -665,7 +665,7 @@ Great!\nWe'll be waiting for you all.
 @102.1
 Great!\nWe'll be waiting for you all.
 @103
-{02}o{CB} people gathered.\n{02}{02}g's merit rose.
+{02}o{CB} {01}C{E9}{01} gathered.\n{02}{02}g's merit rose.
 @104
 Shut up! I'm drinking good sake,\ndon't talk to me about sewers!
 @105
@@ -839,7 +839,7 @@ Whoops, looks like you're short of money.\nNext time, then.
 @159
 Right, got it!\nI'll send them to {02}{15}f.
 @160
-Arranged {02}o{CB} hoes for the canal work.\n{02}{02}g's merit rose.
+Arranged {02}o{CB} {01}C{E2}{01} for the canal work.\n{02}{02}g's merit rose.
 @161
 Phew, this many tools\nshould be enough.
 @161.1
@@ -1263,7 +1263,7 @@ I am very sorry.\nI achieved nothing worth reporting.
 @318
 I found a person\ncalled {02}{03}g.
 @319
-I found\n{02}od promising people.
+I found\n{02}od promising {01}C{E9}{01}.
 @320
 I gathered some information\non {02}{17}e.
 @321

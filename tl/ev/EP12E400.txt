@@ -291,7 +291,7 @@ When you have a [Bout], the opponent may ask to become your pupil.
 @11.11
 It's best to have a [Bout] with someone who doesn't belong to a school yet.
 @11.12
-Oh? Your dojo seems to have only \1006 instructors.
+Oh? Your dojo's instructors seem to number only \1006.
 @11.13
 Unless you add more instructors, the teaching won't reach everyone, and students will quit.
 @11.14

@@ -21,9 +21,10 @@ tl/msgNN.txt holds the English (no Japanese), one block per unit:
   in by the game). They may move; {01}C/{02} inserts may be dropped (word endings,
   pronouns), not added, except the count words below. Kana toggles ({1B}K {1B}H {1B}k)
   are dropped from English.
-  Count words (PLURALS) go right after a printed number and agree with it:
+  Count words (PLURALS) go after a printed number and agree with it:
   {02}od {01}C{D7}{01} = "1 day" / "5 days"; {01}C{D8}{01} night(s) by {02}o;
-  {01}C{D9}{01} day(s) by {02}p.
+  {01}C{D9}{01} day(s) by {02}p; then {DA}-{FA} the other nouns (entry = 471 +
+  index in PLURALS), {FB}-{FE} is/are, was/were (by {02}o, {02}p), it/them (by {02}o).
   A '%' that is not one of the unit's %-fields becomes full-width ％.
 
 Units are word-wrapped with the advances of the patched font (font.advance_table) to
@@ -141,7 +142,19 @@ FULL_LATIN = re.compile('[０-９Ａ-Ｚａ-ｚ]')
 # {02}od inserted in msg07@72), and '=' compares for equality (msg00@442 tests one value
 # for 0, 1, 2 ... 14 in turn). Each entry gives the singular when its number is 1.
 PLURAL_BASE = 471
-PLURALS = [(b'o', b'day', b'days'), (b'o', b'night', b'nights'), (b'p', b'day', b'days')]
+# (number register, singular, plural), entry PLURAL_BASE + index. Append only: the
+# English refers to an entry by its number. The last four are words that agree with
+# a count: is/are, was/were ("There is 1 day left", "1 new ... was added"), it/them.
+PLURALS = [(b'o', b'day', b'days'), (b'o', b'night', b'nights'), (b'p', b'day', b'days')] + [
+    (b'o', w, w + b's') for w in (b'bottle', b'cannon', b'card', b'companion', b'daaay', b'dose',
+                                  b'gun', b'herb', b'hoe', b'horse', b'house', b'ironclad', b'kind',
+                                  b'month', b'officer')] + [
+    (b'o', b'person', b'people'), (b'o', b'remedy', b'remedies')] + [
+    (b'o', w, w + b's') for w in (b'ship', b'soldier', b'student', b'tenth', b'troop', b'warhorse')] + [
+    (b'p', w, w + b's') for w in (b'cannon', b'gun', b'horse', b'ironclad', b'month', b'ship',
+                                  b'soldier', b'tenth', b'troop')] + [
+    (b't', b'person', b'people'),
+    (b'o', b'is', b'are'), (b'o', b'was', b'were'), (b'p', b'was', b'were'), (b'o', b'it', b'them')]
 
 def plural_code(k):
     i = PLURAL_BASE + k

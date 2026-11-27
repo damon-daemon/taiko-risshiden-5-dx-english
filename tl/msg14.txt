@@ -119,11 +119,11 @@ Mining +{02}pd
 @20.7
 Bought {02}pd,000 koku
 @20.8
-Bought {02}pd horses
+Bought {02}pd {01}C{F3}{01}
 @20.9
-Bought {02}pd guns
+Bought {02}pd {01}C{F2}{01}
 @20.10
-Bought {02}pd cannons
+Bought {02}pd {01}C{F1}{01}
 @20.11
 Training +{02}pd
 @20.12
@@ -287,11 +287,11 @@ Guarded the port
 @20.91
 Training +{02}pd
 @20.92
-Built {02}pd ships
+Built {02}pd {01}C{F6}{01}
 @20.93
-Built {02}pd ships
+Built {02}pd {01}C{F6}{01}
 @20.94
-Built {02}pd ships
+Built {02}pd {01}C{F6}{01}
 @20.95
 Defense +{02}pd
 @20.96
@@ -339,13 +339,13 @@ Earned {02}pd kan
 @20.117
 Bought {02}pd,000 koku
 @20.118
-Bought {02}pd horses
+Bought {02}pd {01}C{F3}{01}
 @20.119
-Bought {02}pd guns
+Bought {02}pd {01}C{F2}{01}
 @20.120
 Earned {02}pd kan
 @20.121
-Bought {02}pd cannons
+Bought {02}pd {01}C{F1}{01}
 @20.122
 Bought {02}pd,000 koku
 @20.123
@@ -375,7 +375,7 @@ Delivered
 @20.135
 Recruited
 @20.136
-{02}pd months of ads
+{02}pd {01}C{F5}{01} of ads
 @20.137
 Sold
 @20.138

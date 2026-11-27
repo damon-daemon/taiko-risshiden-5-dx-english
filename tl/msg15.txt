@@ -93,7 +93,7 @@ this village
 @12.3
 {01}C3{00},\nthere's no one to give orders to now.
 @13
-Choose {02}od companions.
+Choose {02}od {01}C{DD}{01}.
 @14
 Which {01}C{96}{01} will you transport to?
 @14.1
@@ -1393,9 +1393,9 @@ Now, a request for "{02}Qe"\nhas come from {02}{0C}e.\nI ask you to take this mi
 @266.1
 Now, a request for "{02}Qe"\nhas come from {02}{0C}e.\nI entrust this mission to you.
 @268
-This mission needs {02}td more people.\nChoose your companions.
+This mission needs {02}td more {01}C{FA}{01}.\nChoose your companions.
 @268.1
-This mission needs {02}td more people.\nChoose your companions.
+This mission needs {02}td more {01}C{FA}{01}.\nChoose your companions.
 @269
 I'd like to take {02}yd\nwith me.
 @269.1
@@ -2403,13 +2403,13 @@ Thank you. {01}C2<Give my regards\nto your master.
 @411
 ...Our house has many expenses.\nKind of you, but another time.
 @412
-You'd sell us guns?\nOur house is busy preparing for war.\nLet us have {02}pd guns at {02}o{C8} each.
+You'd sell us guns?\nOur house is busy preparing for war.\nLet us have {02}pd {01}C{F2}{01} at {02}o{C8} each.
 @412.1
-You'd sell us guns?\nOur house is preparing for war.\nLet us have {02}pd guns at {02}o{C8} each.
+You'd sell us guns?\nOur house is preparing for war.\nLet us have {02}pd {01}C{F2}{01} at {02}o{C8} each.
 @412.2
-You'd sell us guns?\nWe have no plans for war now, but...\nLet us have {02}pd guns at {02}o{C8} each.
+You'd sell us guns?\nWe have no plans for war now, but...\nLet us have {02}pd {01}C{F2}{01} at {02}o{C8} each.
 @413
-Then I'll let you have {02}od guns.\nI look forward to your custom...
+Then I'll let you have {02}od {01}C{E0}{01}.\nI look forward to your custom...
 @414
 You want to buy provisions from the main castle...\nHey, how's the rice in the main castle?
 @415

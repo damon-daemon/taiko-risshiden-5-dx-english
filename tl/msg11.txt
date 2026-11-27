@@ -847,7 +847,7 @@ Well done, all of you.
 @255.1
 
 @256
-We captured {02}o{CB} enemy officers.\nDecide their fate.
+We captured {02}o{CB} enemy {01}C{E8}{01}.\nDecide their fate.
 @257
 The rest will be released.\nIs that OK?
 @258

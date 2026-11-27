@@ -39,6 +39,18 @@ copied whole and must stay under 16 bytes: ui.LIMITS). The two readers of the bu
 take the string from that pointer; the first one (strlen for centring: x = 192 - 4 px
 per character) gets the width in px / 8 from advance() instead of the length. A place
 name alone must stay under 24 bytes (longest now: 18).
+
+COUNT: "1 guns" -> "1 gun". Program strings are filled by printf, which cannot choose
+between singular and plural ("Bought %y horses", "%6u%s" with the label "men"). Every
+text box gets its text through 0x140694510 (obj, flags, text, r9b; 242 call sites; the
+printf setters 0x140694440 and 0x140693ea0 end there too), which passes the text on
+to 0x140694820 at once. The hook after its four pushes (names.py set_text hooks the
+entry and returns there) looks for "1" (not after a digit, '.' or ',') followed by an
+optional space and a word of COUNT_WORDS that ends there; when it
+finds one, it copies the text to a slot of the name ring buffer (texts under 256 bytes)
+and writes the singular there. Japanese text is unaffected: '1' is never part of a
+Shift-JIS character. Messages and event text are not drawn this way (one text box per
+character): they choose the word themselves (tl.PLURALS, evtl).
 """
 import os, sys
 
@@ -245,6 +257,191 @@ shr eax, 3
 ret
 """
 
+# after the four pushes: names.py hooks the entry (set_text) and returns here
+COUNT_SITE = (0x140694517, '48 83 ec 38 48 8b e9')     # sub rsp, 0x38; mov rbp, rcx
+COUNT_WORDS = [(b'guns', b'gun'), (b'cannons', b'cannon'), (b'horses', b'horse'),
+               (b'warhorses', b'warhorse'), (b'men', b'man'), (b'people', b'person'),
+               (b'soldiers', b'soldier'), (b'troops', b'troop'), (b'officers', b'officer'),
+               (b'retainers', b'retainer'), (b'students', b'student'), (b'ships', b'ship'),
+               (b'ironclads', b'ironclad'), (b'castles', b'castle'), (b'villages', b'village'),
+               (b'forts', b'fort'), (b'towns', b'town'), (b'places', b'place'),
+               (b'days', b'day'), (b'nights', b'night'), (b'months', b'month'),
+               (b'years', b'year'), (b'turns', b'turn'), (b'times', b'time'), (b'types', b'type'),
+               (b'kinds', b'kind'), (b'chips', b'chip'), (b'books', b'book'), (b'shots', b'shot'),
+               (b'arrows', b'arrow'), (b'characters', b'character'), (b'cards', b'card'),
+               (b'items', b'item'), (b'pcs', b'pc')]
+# entry: r8 = text. single(text) -> text, or a ring slot holding the corrected copy.
+# scan(text, apply) -> number of matches (apply: write the singulars in place).
+# Word table: len(plural), len(singular), plural, singular; 0 ends it.
+COUNT_STUB = """
+here:
+test r8, r8
+je go
+push rcx
+push rdx
+push r8
+push r9
+push r10
+push r11
+sub rsp, 0x28
+mov rcx, r8
+call single
+add rsp, 0x28
+pop r11
+pop r10
+pop r9
+pop r8
+mov r8, rax
+pop rdx
+pop rcx
+go:
+sub rsp, 0x38
+mov rbp, rcx
+jmp {back}
+single:
+push rbx
+sub rsp, 0x20
+mov rbx, rcx
+xor edx, edx
+call scan
+test eax, eax
+je s_ret
+xor eax, eax
+s_len:
+cmp byte ptr [rbx + rax], 0
+je s_copy
+inc eax
+cmp eax, 255
+jb s_len
+jmp s_ret
+s_copy:
+lea rcx, [rip + here]
+add rcx, {ring_rel}
+call {ring_alloc}
+xor ecx, ecx
+s_cp:
+mov dl, byte ptr [rbx + rcx]
+mov byte ptr [rax + rcx], dl
+inc ecx
+test dl, dl
+jne s_cp
+mov rbx, rax
+mov rcx, rax
+mov edx, 1
+call scan
+s_ret:
+mov rax, rbx
+add rsp, 0x20
+pop rbx
+ret
+scan:
+push rbx
+push rsi
+push rdi
+mov rsi, rcx
+mov ebx, edx
+xor edi, edi
+xor r9d, r9d
+c_loop:
+movzx eax, byte ptr [rsi + r9]
+test eax, eax
+je c_done
+cmp eax, 0x31
+jne c_next
+test r9, r9
+je c_left
+movzx eax, byte ptr [rsi + r9 - 1]
+lea ecx, [rax - 0x30]
+cmp ecx, 9
+jbe c_next
+cmp eax, 0x2e
+je c_next
+cmp eax, 0x2c
+je c_next
+c_left:
+lea r10, [rsi + r9 + 1]
+cmp byte ptr [r10], 0x20
+jne c_words
+inc r10
+c_words:
+lea r11, [rip + words]
+w_loop:
+movzx ecx, byte ptr [r11]
+test ecx, ecx
+je c_next
+xor edx, edx
+w_cmp:
+movzx eax, byte ptr [r10 + rdx]
+cmp al, byte ptr [r11 + rdx + 2]
+jne w_skip
+inc edx
+cmp edx, ecx
+jb w_cmp
+movzx eax, byte ptr [r10 + rcx]
+or eax, 0x20
+sub eax, 0x61
+cmp eax, 25
+jbe w_skip
+inc edi
+test ebx, ebx
+je c_next
+movzx edx, byte ptr [r11 + 1]
+xor eax, eax
+w_put:
+cmp eax, edx
+jae w_cut
+lea r8, [r11 + rcx + 2]
+movzx r8d, byte ptr [r8 + rax]
+mov byte ptr [r10 + rax], r8b
+inc eax
+jmp w_put
+w_cut:
+sub ecx, edx
+w_del:
+test ecx, ecx
+je c_next
+lea r8, [r10 + rdx]
+w_mv:
+movzx eax, byte ptr [r8 + 1]
+mov byte ptr [r8], al
+inc r8
+test eax, eax
+jne w_mv
+dec ecx
+jmp w_del
+w_skip:
+movzx edx, byte ptr [r11 + 1]
+lea r11, [r11 + rcx + 2]
+add r11, rdx
+jmp w_loop
+c_next:
+inc r9
+jmp c_loop
+c_done:
+mov eax, edi
+pop rdi
+pop rsi
+pop rbx
+ret
+words:
+.byte {words}
+"""
+
+def count_words():
+    b = b''.join(bytes([len(p), len(s)]) + p + s for p, s in COUNT_WORDS) + b'\0'
+    assert all(len(s) <= len(p) <= len(s) + 1 for p, s in COUNT_WORDS)
+    return ', '.join(str(c) for c in b)
+
+def count(seg, ks):
+    import names
+    at, old = COUNT_SITE
+    va = seg.add(b'', align=16, share=False)
+    src = COUNT_STUB.format(back='0x%x' % (at + len(bytes.fromhex(old))), ring_rel=names.RING - va,
+                            ring_alloc='0x%x' % names.RING_ALLOC, words=count_words())
+    assert _stub(seg, ks, src) == va
+    _patch(seg, ks, at, old, 'jmp 0x%x' % va, pad=False)
+    return va
+
 def battle_title(seg, ks):
     import names
     va = seg.add(b'', align=16, share=False)
@@ -313,4 +510,5 @@ def apply(seg):
         assert seg.add(code, share=False) == va
         _patch(seg, ks, at, seg.exe[o:o + 6].hex(), 'call 0x%x' % va)
     battle_title(seg, ks)
-    return 9 + len(COLWIDTH)
+    count(seg, ks)
+    return 10 + len(COLWIDTH)

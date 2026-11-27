@@ -373,7 +373,7 @@ This is no ordinary pitfall!\nThose cursed wretches set a trap!
 @177.1
 Ugh, to fall for a trap... a blunder.
 @178
-Unit {02}o{CC} of {02}{01}g's army\nlost {02}p{CB} troops.
+Unit {02}o{CC} of {02}{01}g's army\nlost {02}p{CB} {01}C{F9}{01}.
 @179
 Hahaha!\nYou're caught in the net. Prepare yourselves!
 @180
@@ -435,13 +435,13 @@ That unit is berserk and can't be given orders.\nIt may attack allies; it's dang
 @191
 {02}zd can't be used during {02}yd.
 @192
-Unit {02}o{CC} of {02}{01}g's army\nwas hit by a sudden gust,\nand {02}p{CB} troops were thrown into the sea.
+Unit {02}o{CC} of {02}{01}g's army\nwas hit by a sudden gust,\nand {02}p{CB} {01}C{F9}{01} {01}C{FD}{01} thrown into the sea.
 @193
 Unit {02}o{CC} of {02}{01}g's army\nwas hit by a sudden gust,\nand some troops seem to have gone overboard.
 @194
 Unit {02}o{CC} of {02}{01}g's army\nwas swept away by the wind.
 @195
-Unit {02}o{CC} of {02}{01}g's army\nwas swept away by the wind, and\n{02}p{CB} troops were thrown into the sea.
+Unit {02}o{CC} of {02}{01}g's army\nwas swept away by the wind, and\n{02}p{CB} {01}C{F9}{01} {01}C{FD}{01} thrown into the sea.
 @196
 Unit {02}o{CC} of {02}{01}g's army\nwas swept away by the wind, and some\ntroops seem to have gone overboard.
 @197
@@ -707,11 +707,11 @@ Money talks, even in hell.\nScatter gold among their troops and win them over.
 @277
 {02}{01}g's unit\ncouldn't win over a single soldier.
 @277.1
-{02}{01}g's unit\nwon over {02}o{CB} soldiers.
+{02}{01}g's unit\nwon over {02}o{CB} {01}C{EC}{01}.
 @278
 {02}{01}g's unit\ndidn't lose a single soldier.
 @278.1
-{02}{01}g's unit\nlost {02}o{CB} soldiers to the enemy.
+{02}{01}g's unit\nlost {02}o{CB} {01}C{EC}{01} to the enemy.
 @279
 We'll use Clairvoyance!\nWe'll smoke out enemies and traps\nhidden to fool our eyes!
 @280
@@ -2397,7 +2397,7 @@ No more troops can be deployed.
 @761
 Reinforce Troops can't be used.
 @762
-{02}od troops can be added.\nReinforce troops?
+{02}od {01}C{EF}{01} can be added.\nReinforce troops?
 @763
 Send in the unassigned troops!\nWe can still fight!
 @775

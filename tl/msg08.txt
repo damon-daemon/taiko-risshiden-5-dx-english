@@ -51,7 +51,7 @@ You already have plenty\nof {02}3g, don't you?
 @19
 {02}3g is {02}o{C8} each.\nHow many?
 @20
-{02}od bottles comes to {02}p{C8}.\nIs that all right?
+{02}od {01}C{DA}{01} comes to {02}p{C8}.\nIs that all right?
 @21
 Thank you kindly.
 @21.1
@@ -401,7 +401,7 @@ Thank you very much.\nI shall take charge of your life.
 @97.1
 (After paying this much...\n  they'd better work for it,\n  or it won't be worth it.)
 @98
-Oh, you want to dismiss the bodyguard?\nThere are {02}od {01}C{D7}{01} left,\nbut the fee won't come back.
+Oh, you want to dismiss the bodyguard?\nThere {01}C{FB}{01} {02}od {01}C{D7}{01} left,\nbut the fee won't come back.
 @99
 Changed your mind?\nSo you don't need to dismiss them yet.
 @100
@@ -1031,7 +1031,7 @@ Oh, you're with {02}{02}{EC}?\nGood of you to come.
 @259
 What can I do for you today?
 @260
-Sorry, a {01}C{82} \_named {01}C:{00}\ngave me a pile of orders.\nI'll be swamped for {02}od more days.
+Sorry, a {01}C{82} \_named {01}C:{00}\ngave me a pile of orders.\nI'll be swamped for {02}od more {01}C{D7}{01}.
 @261
 Don't you have another job right now?\nHalf-done work is a nuisance.\nFinish it first and then come.
 @262
@@ -1199,19 +1199,19 @@ My my, what are you doing\nin a place like this?\n\nGoing to learn to handle gun
 @324
 With this {02}=e,\nit should help with\nopening new fields.
 @325
-Hmm, thanks to your help\nyour order moved along too, but...\nit'll take {02}od more days.
+Hmm, thanks to your help\nyour order moved along too, but...\nit'll take {02}od more {01}C{D7}{01}.
 @325.1
-Hmm, thanks to your help\nyour order moved along too, but...\nit'll take {02}od more days.
+Hmm, thanks to your help\nyour order moved along too, but...\nit'll take {02}od more {01}C{D7}{01}.
 @326
-Hmm, your order will take\n{02}od more days to finish.
+Hmm, your order will take\n{02}od more {01}C{D7}{01} to finish.
 @326.1
-Hmm, your order will take\n{02}od more days to finish.
+Hmm, your order will take\n{02}od more {01}C{D7}{01} to finish.
 @327
-Phew... thanks to your help,\n{02}od {02}yd{02}zd were done ahead of schedule.\nHere, take them.
+Phew... thanks to your help,\n{02}od {02}yd{02}zd {01}C{FC}{01} done ahead of schedule.\nHere, take {01}C{FE}{01}.
 @327.1
-Phew... thanks to your help,\n{02}od {02}yd{02}zd were done ahead of schedule.\nHere you are.
+Phew... thanks to your help,\n{02}od {02}yd{02}zd {01}C{FC}{01} done ahead of schedule.\nHere you are.
 @328
-Phew... your order,\n{02}od {02}yd{02}zd, is done.\nHere, take them.
+Phew... your order,\n{02}od {02}yd{02}zd, is done.\nHere, take {01}C{FE}{01}.
 @328.1
 Phew... your order,\n{02}od {02}yd{02}zd, is done.\nHere you are.
 @329
@@ -1463,11 +1463,11 @@ Building {02}yd takes {02}od {01}C{D7}{01}\nand costs {02}p{C8}.\nIs that all ri
 @395
 Hmm, not a single {02}yd was added.
 @395.1
-{02}od new {02}yd were added.
+{02}od new {02}yd {01}C{FC}{01} added.
 @395.2
 Hmm, not a single {02}yd was added.
 @395.3
-{02}od new {02}yd were added.
+{02}od new {02}yd {01}C{FC}{01} added.
 @396
 Hm, you're not with {02}{0B}e.\nYou can't go further in.\nLeave.
 @397

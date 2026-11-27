@@ -127,7 +127,7 @@ This village's troops are the strongest.\nThey need no more training.
 @24.2
 This fort's troops are the strongest.\nThey need no more training.
 @25
-{02}od new soldiers joined.\nThank you for your trouble.
+{02}od new {01}C{EC}{01} joined.\nThank you for your trouble.
 @26
 As for our forces,\nI think we lack soldiers.
 @26.1
@@ -271,9 +271,9 @@ Not a single soldier gathered.\nThe stability of {02}{15}e's people\ndid not cha
 @53.1
 Not a single soldier gathered.\nThe stability of {02}{15}e's people fell by {02}pd.
 @53.2
-{02}od soldiers gathered.\nThe stability of {02}{15}e's people\ndid not change.
+{02}od {01}C{EC}{01} gathered.\nThe stability of {02}{15}e's people\ndid not change.
 @53.3
-{02}od soldiers gathered.\nThe stability of {02}{15}e's people fell by {02}pd.
+{02}od {01}C{EC}{01} gathered.\nThe stability of {02}{15}e's people fell by {02}pd.
 @54
 Hm, quite a good result.
 @54.1
@@ -379,7 +379,7 @@ First we must gather people,\nthen we'll weed them out.
 @77
 Yes, sir.
 @78
-{02}od people can be drafted from this town.
+{02}od {01}C{E9}{01} can be drafted from this town.
 @79
 Of them, those with ninja aptitude...\nnumber about {02}od.\n{01}C{A8}{1B}Right, lead them all to {02}{15}e.\nThat ends the mission.
 @79.1
@@ -627,27 +627,27 @@ You can learn techniques from students.\nTaking students to learn\nmight be good
 @165
 You have no students yet, it seems.\nOnce licensed,\nyou should have at least one...
 @165.1
-You have {02}od students now.
+You have {02}od {01}C{ED}{01} now.
 @165.2
-You have {02}od students now.\nQuite something... I'm impressed.
+You have {02}od {01}C{ED}{01} now.\nQuite something... I'm impressed.
 @165.3
-You have {02}od students now.\nFew have so many students...\nI'm proud of you.
+You have {02}od {01}C{ED}{01} now.\nFew have so many students...\nI'm proud of you.
 @166
 You have no students yet?\nOnce licensed,\nyou should have at least one...
 @166.1
-You have {02}od students now.
+You have {02}od {01}C{ED}{01} now.
 @166.2
-You have {02}od students now.\nQuite something.
+You have {02}od {01}C{ED}{01} now.\nQuite something.
 @166.3
-You have {02}od students now.\nFew have so many students.
+You have {02}od {01}C{ED}{01} now.\nFew have so many students.
 @167
 You have no students yet?\nOnce licensed,\nyou should have at least one...
 @167.1
-You have {02}od students now.
+You have {02}od {01}C{ED}{01} now.
 @167.2
-You have {02}od students now.\nQuite something.
+You have {02}od {01}C{ED}{01} now.\nQuite something.
 @167.3
-You have {02}od students now.\nFew people have so many students.
+You have {02}od {01}C{ED}{01} now.\nFew people have so many students.
 @169
 You are a master beyond\nthe bounds of {02}yd.\nWon't you found a new school?
 @169.1

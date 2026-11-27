@@ -1539,7 +1539,7 @@ Next, I'm the dealer.
 @246
 One more!
 @247
-You've won quite a lot.\nOh yes, I've got some goods I seized\ninstead of bets people couldn't pay...\nThey're no use here,\nso I'll let them go for {02}od cards each.\nWant to see?
+You've won quite a lot.\nOh yes, I've got some goods I seized\ninstead of bets people couldn't pay...\nThey're no use here,\nso I'll let them go for {02}od {01}C{DC}{01} each.\nWant to see?
 @248
 Calling it quits?
 @249
