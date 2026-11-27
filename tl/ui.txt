@@ -124,7 +124,7 @@
 123	(Out of rice)
 124	(99+ days)
 125	(Days left: %u)
-126	%u times
+126	Times: %u
 127	☆
 128	★
 129	↑
